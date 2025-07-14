@@ -1,0 +1,4796 @@
+[Speaker 3]
+D12?
+
+[Speaker 4]
+D10 for what I'm using. I'm using a glaive, so it's an attack of opportunity barb. I'm gonna tech into fighter for great weapon fighting style, so I can reroll the damage dice.
+
+Barbs don't do that, you know, as we know barbs, they smash things for huge dice. Not in 5th edition. 5th edition they're more versatile.
+
+Less damage, more stuff like damage resistance. Advantage on attacks is probably the biggest thing with reckless attacks and stuff. Barbs also crossover for rogues in the sense that we both have like advantage on initiative.
+
+Really good dexterity saves and bonuses when we fail and when we crit them and stuff like that.
+
+[Speaker 3]
+Really good.
+
+[Speaker 4]
+And the movement. Also barbs are, uh, an armored defense is pretty good. Having your constitution modifier as an AC when you don't have armor on is pretty cray cray.
+
+[Speaker 8]
+I'm ready.
+
+[Speaker 6]
+Oh wow, isn't that just comforting seeing dice is being rolled but not for what.
+
+[Speaker 3]
+Oh boy, I sure do love invisible dice.
+
+[Speaker 6]
+Wait, do we have a drider here?
+
+[Speaker 4]
+I'm called drider. I'm a drow.
+
+[Speaker 6]
+Oh, but you're not an actual drider.
+
+[Speaker 4]
+I'm not an actual drider. He's named drider. Because it's like a, it's a shameful name.
+
+Driders are the lowest of the low. When you're cursed by Loth and you turn into a drider, eh, you're kind of the bottom of the barrel.
+
+[Speaker 6]
+Oh yeah, I'm playing one in 100 camp here.
+
+[Speaker 1]
+All right, so. I missed. Party is, ooh, uh, let's see here.
+
+I think Fallen, I think we need your character sheet dropped on here.
+
+[Speaker 2]
+Uh, drop where?
+
+[Speaker 1]
+It'll be right at the, oh shoot, you probably can't see that actually. So, what's your character's name?
+
+[Speaker 6]
+Tiana.
+
+[Speaker 1]
+I will drop that right there. That's weird, why are you in Paris Holden? I do not know.
+
+That's why.
+
+[Speaker 6]
+Oh yeah, no, me neither. I already had a sheet there when I joined.
+
+[Speaker 1]
+Oh, that's because she's got something that has permissions for everybody. So I'm just going to create a new folder for Fallen. And then we'll fix that later when you're able to use that folder for your own purposes.
+
+Uh, drider, you still need to go on the map.
+
+[Speaker 4]
+Um, what map? Okay, um, guide me through it. I'm on the overworld.
+
+[Speaker 1]
+Oh, that's, yeah, you guys were inactivated. All right, no worries. I've been placed appropriately.
+
+We'll go through the first few rooms, and then I can grab a snack.
+
+[Speaker 2]
+I'm starving. Should we go back to where we were? Why would you do that?
+
+You haven't been there. Oh right, it's been three days.
+
+[Speaker 6]
+So this is like fresh, you guys haven't cleared any of it already? Or like?
+
+[Speaker 4]
+Uh, we've been through most of the dungeon before, but that was a week ago.
+
+[Speaker 6]
+So it's probably new enemies. Like, it won't be a sunny walk in the park.
+
+[Speaker 2]
+Does anyone have a- Oh, go ahead, go ahead. Is anyone against stealth? Not particularly.
+
+Okay, in that case.
+
+[Speaker 8]
+Am I good at stealth? Yes, I am good at stealth.
+
+[Speaker 6]
+No, I was more if anyone- Like, is anyone specifically against stealth? Because I know some folks really want to, you know, go in screaming Leroy Jenkins.
+
+[Speaker 8]
+But I have Lost Without Trace, so if- All I know is I just saw a James pray to the heavens. I was sneezing.
+
+[Speaker 6]
+Yeah, so stay within 30 feet of me.
+
+[Speaker 8]
+No, I was clearly praying. You put your hands together, and you're like, Oh lord, save me. That was 100% season.
+
+It's the stealth talk again.
+
+[Speaker 1]
+Please don't be sick. No, you guys can stealth, it's fine. I was making fun of you last session for checking every single door.
+
+Except for the one that was actually trapped.
+
+[Speaker 6]
+Yeah, so how do you run stealth? Do we roll now, or do we roll when we encounter enemies?
+
+[Speaker 1]
+If you guys are stealthing right now, you're gonna roll at this moment. I roll for random encounters every one to three dungeon turns, which are about 10 minutes. And stealthing means that you progress at a half rate.
+
+[Speaker 6]
+Yes.
+
+[Speaker 1]
+Yep, that's it. So I'm going to... Yeah, I'll just click, press play.
+
+[Speaker 6]
+Okay, so we're all rolling. The 10s aren't added, so just add 10 manually to everyone. Because, yeah, you can't add them.
+
+[Speaker 8]
+Okay, James, how does the real-time recovery work?
+
+[Speaker 1]
+So you have been gone for like a week, so you could just press long rest. You guys haven't gotten to...
+
+[Speaker 6]
+Oh, sweet. A 44? Or did you add it already?
+
+[Speaker 3]
+That was adding the pass without trace.
+
+[Speaker 2]
+I don't naturally have a plus 10.
+
+[Speaker 6]
+Oh, that's a shame. I thought you had rolled a 44.
+
+[Speaker 2]
+That would be an impressive... I just show up behind you. Boo.
+
+Okay. I do have the ADG. Yeah, that's pretty cool.
+
+Let me see. It's an exciting... There we go.
+
+Wow, foundry is amazing. It automatically adjusts the vision of the ship. Oh, right.
+
+Let me go and add my character token down. There we go. Oh, there you go.
+
+I wonder why I can't see anything, turns out. All right, what's the party doing?
+
+[Speaker 4]
+We march on. We're gonna take the shortest path to the elevator.
+
+[Speaker 1]
+All right, so you guys are going... Sweet. All right, so you'll be going to the second floor.
+
+I'm just gonna copy-paste everybody that's here. Wait, set the shortest path.
+
+[Speaker 4]
+I thought that the... I was just retracing.
+
+[Speaker 1]
+Oh, that's okay. All right, so the stairs that go up or down, or to the upper level or bottom level, are right in front of you. Did you go to the second floor?
+
+[Speaker 6]
+Yep.
+
+[Speaker 1]
+The second level, I should say.
+
+[Speaker 6]
+Quick question, why is everything gray?
+
+[Speaker 1]
+That is because you have darkvision.
+
+[Speaker 6]
+Oh, okay, okay, okay. So it's... Okay.
+
+Makes sense.
+
+[Speaker 1]
+Reminds me, is anybody carrying torchlight while inside?
+
+[Speaker 3]
+I would probably have to do that because I can't see.
+
+[Speaker 1]
+I'm going to move you folks slightly so I can just copy you. You're going down to the floor, so I'm going to delete you from there.
+
+[Speaker 3]
+You'll reappear in this place. I'm going to have to hold on as I activate the torch. What's the light levels for torch again?
+
+[Speaker 1]
+That is 10 feet of bright light and... Yeah, 10 feet of bright light and...
+
+[Speaker 6]
+20 feet of dim light.
+
+[Speaker 1]
+That's correct.
+
+[Speaker 6]
+Oh, no, no, it's bright light. It's 20 foot bright light.
+
+[Speaker 1]
+Oh, is it 20 feet bright light and 3 feet dim light?
+
+[Speaker 6]
+No, it's 20, 20.
+
+[Speaker 1]
+Oh, okay. Okay, thank you. If it wouldn't be 20, 20, it would be 20 foot of...
+
+It would be 20 feet of bright light and then an additional... Yeah, there you go. Additional 20 feet of dim light.
+
+[Speaker 2]
+Okay.
+
+[Speaker 1]
+That's why it goes out.
+
+[Speaker 2]
+So I'd set it at 40.
+
+[Speaker 6]
+Oh, okay, so that's what amount, okay.
+
+[Speaker 2]
+Thank you.
+
+[Speaker 1]
+I was trying to remember. I was like, is this...
+
+[Speaker 6]
+By the way, do you want me to track arrow consumption?
+
+[Speaker 2]
+I bought some extra just in case. Yeah, that's fine.
+
+[Speaker 3]
+Okay, I'm gonna hop in my room so that I don't... It's like a little bit more movement. All right, so are we going off to the elevator?
+
+[Speaker 1]
+So last time that you guys came here, you went down into a... I believe you went down the well specifically.
+
+[Speaker 2]
+Yeah.
+
+[Speaker 1]
+So it's up to you guys where to go and up to... Up to you guys to catch Fallen up on... Or Tiana up on...
+
+What is happening?
+
+[Speaker 6]
+I figure I will... I don't know the way around here. I'll just follow everyone else, I guess.
+
+If they've been here before.
+
+[Speaker 2]
+Wait, hang on.
+
+[Speaker 3]
+What are the guardians that we speak of?
+
+[Speaker 4]
+Opposite, Dwighter tells you. In the room next to us are two giant beasts. Apparently, they're guardians.
+
+And have to be persuaded. Last time, the wizard spoke with them. But we can sidestep that because we have the elevator on the right side here.
+
+So, nope.
+
+[Speaker 3]
+Do you guys want to go back down the well or down the elevator this time?
+
+[Speaker 4]
+The well. We have to explore the Dwarven Keep.
+
+[Speaker 3]
+Very well then.
+
+[Speaker 4]
+Everything else is... Well, we've stumbled through some rooms now. We haven't discovered anything yet, so down we go.
+
+[Speaker 3]
+Perhaps we can also get our new companions to dunk in the pool.
+
+[Speaker 4]
+Oh yeah, there's a crazy pool of wish. Dwighter looks at you like you're somewhat crazy. You know the consequences that can occur, right?
+
+We could all literally die.
+
+[Speaker 3]
+That is fair. We don't have to...
+
+[Speaker 4]
+We do not have to go down there.
+
+[Speaker 3]
+We can always go the other way. After all, there is a whole other branching path.
+
+[Speaker 4]
+Right, and there's... I scouted down the path. I went on the mini-adventure, downtime thingy.
+
+And I have sailed down the hole in the corridor that goes two levels down. And I scouted for traps and stuff. So when we get down there, depending on the rolls...
+
+I rolled 19 on the perception, and I kept a 20 stealth roll.
+
+[Speaker 1]
+Right, so you're going to discover the... You will have any traps that we roll in the next couple of... Next, let's see here, one, two, three...
+
+The next four rooms... The next four traps that you come across will be things that you've discovered already, provided they're on that level of the dungeon. I've also figured out that the level of the dungeon that is 60 feet down this well...
+
+And to describe it to Tiana, there is a large hole in this particular room... Out of which is bubbling up water. It just seems to be going straight up.
+
+And your companions, your new companions from last... From last session went into this hole, swam downwards, and found that it was just a shaft of water flowing upwards from a seemingly shallow well at the bottom. And then there was just like an air...
+
+There was an air-filled room adjacent to it.
+
+[Speaker 6]
+Okay. So we jump, swim down, I assume?
+
+[Speaker 2]
+Wait.
+
+[Speaker 1]
+I don't think rock can swim. At least down. A dog?
+
+Yeah. Wolves can definitely swim. They might not have a swimming speed, but also virtually none of you do either.
+
+[Speaker 6]
+Yeah, it's just difficult, or virtually difficult, sorry. Where do I go, by the way? Do I just...
+
+Yeah, makes sense.
+
+[Speaker 3]
+Very fun being hurled through time and space.
+
+[Speaker 8]
+Mm-hmm. What a very beautiful...
+
+[Speaker 6]
+Yeah, the landscape is so detailed.
+
+[Speaker 1]
+I'm gonna get you, Riz. Riz, when I get you... Anyways.
+
+Okay, so...
+
+[Speaker 2]
+Is the turtle still here?
+
+[Speaker 1]
+The turtle is still here. There is a giant turtle. They all swim down about 60 feet, which is a little bit of...
+
+Especially for the weaker characters, a little bit of a... I don't know, a... Cautious or...
+
+A nerve-wracking dive, especially given that there is no water. And for Camden in particular, cannot see while she's swimming.
+
+[Speaker 3]
+And it's just nearly pitch black out there. She's having a great time. In brackets, sarcasm.
+
+But again, been down here before, so not as concerned about it anymore.
+
+[Speaker 1]
+Yeah, so the giant turtle is down here. It's kind of lazily hanging out.
+
+[Speaker 3]
+Well, I accidentally hit enter before I finished typing. My bad.
+
+[Speaker 1]
+No worries. If you'd like to speak to it, I do... I'm on my microphone now and I can't speak.
+
+[Speaker 3]
+All right, fair enough. All right. Hello again.
+
+Is there... It is very nice meeting you once again. Is there anything of note that you want to tell us?
+
+If not, it's all right.
+
+[Speaker 1]
+Nothing new. I'm happy to see you didn't... I'm happy to see your choices in the pool didn't bring you any particular ruin.
+
+It's magic has changed since then.
+
+[Speaker 2]
+Ah, well, that's good to know.
+
+[Speaker 3]
+Thank you for the information. Um, I wish you the best on the rest of your journey, then. Well, I do suppose you're just sticking around, so...
+
+I wish you the best for the rest of your day. All righty. Where would you guys like to go?
+
+Um, talking to Tiana. Um, yes, well, it's a very simple spell. It helps you to speak to all sorts of animals.
+
+But yes, talking to turtles. That's to Tiana. Uh, to Dryder.
+
+Well, where do you reckon we should go?
+
+[Speaker 2]
+The turtle said the magic of the pool hasn't changed, so...
+
+[Speaker 4]
+The corridor to the left has a chasm in it and the magic pool of wish. I have set up a rope and a pipe bomb in order to abseil down the floors below. I do suggest, however, that we clear the corridor to our right.
+
+However, I can't remember if the great wise turtle of this pond, and he does a little bow towards the turtle, warned us of any dangers behind this corridor.
+
+[Speaker 3]
+Um, I turn to the turtle. Is there any dangers of nodes past the right?
+
+[Speaker 4]
+Many. Dryder bows again. Many?
+
+You will die.
+
+[Speaker 3]
+We should also underground hold.
+
+[Speaker 6]
+All right, that's fair.
+
+[Speaker 3]
+And then she ponders a bit on this, being like, hmm... Anything of note, or just beware? Danger?
+
+[Speaker 1]
+Hmm... I would be worried about the mermaids.
+
+[Speaker 3]
+They tend to not like intruders. Well, thank you. Um, why are you down here?
+
+[Speaker 1]
+I'm hunting a fish and mice to eat. Especially for my size.
+
+[Speaker 2]
+Well, I hope you have a splendid time.
+
+[Speaker 1]
+This triangular room is not made of the same cobblestone and mixed granite and mineral halls that you experience on the first two levels. This area of the dungeon has small plant life and trees in here, despite there not being any sun. And there's quite a bit of...
+
+The floor here is basically earthen. Moss and covered in leaves. And as a final note, it's raining in this room.
+
+[Speaker 3]
+Oh, yay. Just a light drizzle. Just constant prestidigitation, making myself dry again.
+
+[Speaker 1]
+Exactly. The only exception is the water around the well, which is flowing upwards. Flowing in the wrong direction.
+
+[Speaker 2]
+So, to the rest of the group, then? To the right, then? Let's go.
+
+Stack on the door. Do not make a noise.
+
+[Speaker 4]
+Roll your stealths, people.
+
+[Speaker 6]
+We already did, right? Didn't we do that? Yeah, we've been stealthing the entire time, right?
+
+[Speaker 1]
+At this point, yeah, you have been stealthing the entire time. I would re-roll it at this point.
+
+[Speaker 6]
+It's been a little while. How long has it been?
+
+[Speaker 4]
+We've cleared two floors. We've been stealthing through the top floor, into the second, and basement.
+
+[Speaker 6]
+Oh, 14 minutes, okay. So my Pass Without Trace is still active.
+
+[Speaker 1]
+Speaking of which, can you guys actually see the clock on screen? Is that true for you guys? Okay, sweet.
+
+[Speaker 6]
+Yeah. Oh, right, it's ticking. Okay, that's pretty cool.
+
+[Speaker 3]
+Stealth. It's plus 10, right?
+
+[Speaker 6]
+Yeah, yeah, add 10 to everything.
+
+[Speaker 3]
+Oh, 30. I am rolling really good.
+
+[Speaker 6]
+That bodes poorly for the future. So the lowest roll is 18, I guess.
+
+[Speaker 4]
+No, the lowest roll is 8. The drider isn't completely blundering. He doesn't, like, crash through the door, but it makes, like, a giant creak.
+
+Hey, mate, did you forget you're plus 10?
+
+[Speaker 6]
+It's plus 10.
+
+[Speaker 4]
+Plus 10? Everybody keep yelling at him until you...
+
+[Speaker 6]
+I've been yelling, like, in-game. You have plus 10, as long as you stay within 30 feet of me.
+
+[Speaker 2]
+Wow.
+
+[Speaker 6]
+So that's an 18.
+
+[Speaker 2]
+Okay, cool.
+
+[Speaker 4]
+I stepped through the door. Clay raced.
+
+[Speaker 1]
+That's what it's supposed to do. Okay, sweet. Rolled an 8.
+
+[Speaker 6]
+I guess I will ready action, if possible. If there are any threats, I would like to fire away.
+
+[Speaker 3]
+Ready action, not on my half.
+
+[Speaker 6]
+Oh, yeah, that's... Wow, you're clever. The murder hope inside me won't allow that, however.
+
+[Speaker 3]
+Fair enough. But dodge is better, because in case they aren't too violent, or if it's just a trap.
+
+[Speaker 6]
+Yeah, no, definitely. I would like to, like, ready action if there are threats, so to speak. I assume my character could determine that.
+
+Fair enough.
+
+[Speaker 1]
+All right, there is a 10-foot passageway right in front of you.
+
+[Speaker 3]
+Like, wide?
+
+[Speaker 1]
+10-foot wide, yes.
+
+[Speaker 2]
+Okay.
+
+[Speaker 1]
+Carefully. I'm going to... I need a new scene, because we're getting ready to go to another...
+
+[Speaker 4]
+Yeah, we walk through the corridor. I would like to check... I'm gonna just toss a little perception out there.
+
+[Speaker 6]
+Me too, if possible.
+
+[Speaker 4]
+Sure.
+
+[Speaker 6]
+What were you percepting for?
+
+[Speaker 4]
+I'm looking for obvious trap markers.
+
+[Speaker 1]
+Pressure plates, like... I was about to say traps. I'm going to re-invade Europe.
+
+[Speaker 2]
+Oh, right, because we won.
+
+[Speaker 4]
+But this is not an area that I have explored. I went down the chute. Ah, okay.
+
+Yeah, so I haven't gone through this corridor.
+
+[Speaker 1]
+That's okay, but you know how traps are rolled for, right?
+
+[Speaker 4]
+No.
+
+[Speaker 1]
+Yes, you do.
+
+[Speaker 4]
+Please remind me, oh great DM, wise as you are.
+
+[Speaker 1]
+Okay, so the thing that you roll for traps is... It's not perception, it's a tool proficiency.
+
+[Speaker 2]
+So you choose an ability check.
+
+[Speaker 1]
+Sorry, an ability score, and then you add your proficiency bonus after rolling.
+
+[Speaker 4]
+Here we go, I have a normal 18.
+
+[Speaker 3]
+Oh, hell yeah.
+
+[Speaker 2]
+That's good. And we continue on. Are deer rangers being left behind?
+
+[Speaker 6]
+Oh, we have multiple rangers.
+
+[Speaker 2]
+Hell yeah.
+
+[Speaker 6]
+We have two. Yeah, make sure to stay within 30 feet. Oh, went brown.
+
+[Speaker 2]
+I'm gonna stick right behind you.
+
+[Speaker 3]
+I'm just gonna be gliding on the broom rather than actually walking. Far safer.
+
+[Speaker 4]
+Walking is for the peasantry.
+
+[Speaker 2]
+Yes!
+
+[Speaker 4]
+Shut up.
+
+[Speaker 1]
+Okay, I'm gonna activate this. Go ahead and drag your characters back out.
+
+[Speaker 2]
+And place them on the left.
+
+[Speaker 1]
+Yeah, it'll probably appear as a black screen until you're back in.
+
+[Speaker 3]
+Uh, where do we put them?
+
+[Speaker 1]
+Um, ping?
+
+[Speaker 4]
+How do we spawn that token?
+
+[Speaker 3]
+Yeah, just ping the areas.
+
+[Speaker 1]
+You guys probably can't see it right now because it's big.
+
+[Speaker 3]
+Hmm, it's still dark.
+
+[Speaker 2]
+Huge.
+
+[Speaker 1]
+Let's see. Is that moon?
+
+[Speaker 3]
+Oh, I do love this rain effect.
+
+[Speaker 2]
+Whoa.
+
+[Speaker 6]
+Oh yeah, it's very nice.
+
+[Speaker 1]
+There you go. All the way to the corner here. And just mark off any spells that you have, uh, that you have not marked off previously.
+
+[Speaker 3]
+Speak with animals, thankfully, is a ritual casting.
+
+[Speaker 2]
+Oh, hell yeah.
+
+[Speaker 6]
+You mean mark spell slots, or?
+
+[Speaker 1]
+Just any spells that you have.
+
+[Speaker 6]
+Yeah, okay. Oh yeah, okay, yeah. That's done.
+
+[Speaker 1]
+So this is private. All right, you guys are continuing to move on.
+
+[Speaker 4]
+My screen is still black. Is it supposed to be?
+
+[Speaker 1]
+So there's not lighting on your token, that means.
+
+[Speaker 2]
+Oh, there we go.
+
+[Speaker 1]
+Or not vision on your token.
+
+[Speaker 4]
+Uh, I spawned a token. Yeah, um. Yeah, uh, we're at the end of the corridor.
+
+Oh, there we go.
+
+[Speaker 1]
+You come across some stairs. Hilarious.
+
+[Speaker 6]
+Like here?
+
+[Speaker 1]
+At the very end of the corridor.
+
+[Speaker 4]
+Anybody want to use detect magic?
+
+[Speaker 2]
+I don't think I have that spell.
+
+[Speaker 4]
+Let me check. Because I am fucking blind.
+
+[Speaker 3]
+Remember to go to the vision portion of your token and activate your night vision.
+
+[Speaker 4]
+I have vision. Look at the roll. It's a critical fumble.
+
+The way is not trapped, guys. I can say with utmost certainty.
+
+[Speaker 6]
+I mean, well. Okay. Wait, wait, wait.
+
+Do you run critical fumbles? On like normal skill checks? James?
+
+[Speaker 1]
+No, I do not. Oh, all right. That was a 1 in 20 chance for something to happen there.
+
+So this door goes down another level. So you're actually on level six right now. Or at the end of this particular level.
+
+[Speaker 4]
+That'll be the level that I explored? Nope. So that's seven.
+
+Okay.
+
+[Speaker 1]
+Wait, why would you say that that's seven?
+
+[Speaker 4]
+I took the mini-adventure through the chute in the previous room that goes two levels down. In the chute that goes two levels?
+
+[Speaker 1]
+Okay. Hold on a second.
+
+[Speaker 4]
+I used a rope and a python to abseil down.
+
+[Speaker 1]
+Go down the pit in the corridor.
+
+[Speaker 4]
+Next to the magic pool.
+
+[Speaker 1]
+That's not, yeah, that's not a pit that goes all the way down. That's just a spike trap.
+
+[Speaker 4]
+Oh. Oh, okay. In which case, yeah, I've been through here.
+
+Okay. In which case, drag along. The brave do not wait.
+
+Move.
+
+[Speaker 2]
+All right.
+
+[Speaker 3]
+On we go.
+
+[Speaker 2]
+Yep, yep. Go back towards it. What?
+
+[Speaker 6]
+You're moving backwards. Oh, oh, okay. I thought we, uh, okay, makes sense.
+
+[Speaker 3]
+Yeah, yeah, no worries.
+
+[Speaker 4]
+The ranger is neurodivergent. That's just a little bit of ADHD.
+
+[Speaker 6]
+The ranger is high on caffeine.
+
+[Speaker 2]
+Let's leave here. All right.
+
+[Speaker 6]
+Like, you know, out in nature all the time, discovered coffee beans can never calm down again.
+
+[Speaker 1]
+Pretty reasonable.
+
+[Speaker 2]
+It's, uh, the search.
+
+[Speaker 1]
+I went out of life. Into a very, so it's close into a fairly tight side passage that curves off to the right. Point us down one level.
+
+[Speaker 4]
+So I need to, yeah, that's supposed to be level. Rider walks up to the bend, looks back at the party, and motions in Thieves' Cant for silence. It basically looks like he wants you to, like, hunker down.
+
+[Speaker 1]
+If you can understand the hand motions. Thieves' Cant, uh, it looks like he's giving himself a wet willy.
+
+[Speaker 6]
+But we always, like, we were stealthing anyways, I guess.
+
+[Speaker 2]
+I hope. What languages do you guys know? I mean, I've actually, wait, Dwarvish.
+
+[Speaker 6]
+Common, Draconic, Dwarvish, Undercommon.
+
+[Speaker 4]
+And Thieves' Cant.
+
+[Speaker 3]
+Would Comprehend languages, uh, work with Thieves' Cant, or is it because that's, like, a whole different thing? It's, you're just like, hmm.
+
+[Speaker 1]
+You need, like, a cipher, basically, in order to, in order to unwrap that.
+
+[Speaker 6]
+Yeah, okay. It's more like being slow, so to speak. Like, TikTok slang.
+
+[Speaker 3]
+That makes sense. So even if I do understand, it still looks like he's giving himself a wet willy.
+
+[Speaker 1]
+Right. Uh, so here there is a chimney that goes up two levels.
+
+[Speaker 6]
+A chimney? Yep.
+
+[Speaker 1]
+Not like a literal chimney, but by chimney in the sense of, yes, exactly.
+
+[Speaker 3]
+You can borrow my bruise. I could fly up there. Would it be too difficult?
+
+Um.
+
+[Speaker 4]
+Rider looks at the broom rider and says, can you, can you fly up and drop a rope down for us? And he hands you a python. Nail the rope to this.
+
+[Speaker 3]
+Okay. Um, she sort of just goes, very well then, and slowly, slowly goes up. Oh yeah, actually, how tight is it?
+
+[Speaker 1]
+It's fairly tight, but you are able to, um, let's see here, you are able to.
+
+[Speaker 3]
+Wow, that is a lot of invisible dice. That worries me greatly.
+
+[Speaker 2]
+Okay.
+
+[Speaker 1]
+So, you're going, uh, what's the party doing here?
+
+[Speaker 3]
+Um, I'm going to go up and tie a rope.
+
+[Speaker 6]
+You don't want me to, um, check first?
+
+[Speaker 3]
+You can probably do that first.
+
+[Speaker 6]
+Yes, please.
+
+[Speaker 2]
+I'll just back up a bit.
+
+[Speaker 6]
+I don't have a token for it, but it's a swarm of ravens can, or pseudodragons in this case, can they just fly up and check?
+
+[Speaker 1]
+They can.
+
+[Speaker 3]
+Couldn't they tie the rope?
+
+[Speaker 1]
+Could they tie, could the pseudodragons tie a rope? No.
+
+[Speaker 3]
+I mean, they're dexterities. They're pretty dexterities.
+
+[Speaker 1]
+They are dexterities. No, the issue is not.
+
+[Speaker 6]
+Ravens still can't do, like, they don't have cats.
+
+[Speaker 1]
+That is gross. The issue here is whether or not, um, they can hammer a piton in.
+
+[Speaker 6]
+That's suitable for humans to climb. But, like, do we need that? If it is tight enough, we should just be able to climb, shouldn't we?
+
+With, like, um.
+
+[Speaker 1]
+Oh, yes.
+
+[Speaker 6]
+Athletic, like, you know.
+
+[Speaker 1]
+Because you need something to tie it to.
+
+[Speaker 6]
+I mean, you probably have a climbing speed, but we do not, so. I don't have a climbing speed, but if it's, you know, tight enough, we should be able to force ourselves up.
+
+[Speaker 3]
+Ah, you mean, like, the whole scooting up thing?
+
+[Speaker 6]
+Uh, yeah, if I, if I think what you, like, if I understand you correctly, yeah, probably.
+
+[Speaker 3]
+Maybe. Okay, well, um, I will go for flying up as long as the path is safe. It might be easier.
+
+[Speaker 1]
+It's, uh, you both go up there. The room does appear to be empty.
+
+[Speaker 3]
+Wait, I'll just.
+
+[Speaker 1]
+There are three doors.
+
+[Speaker 3]
+I'll let everyone come up first before I make any executive decisions. Okay.
+
+[Speaker 4]
+Oh, boy.
+
+[Speaker 3]
+I throw down the rope and let y'all, um, come up.
+
+[Speaker 4]
+We climb.
+
+[Speaker 2]
+Indeed we do.
+
+[Speaker 1]
+I drag everybody again.
+
+[Speaker 2]
+Oh, straight to the void.
+
+[Speaker 6]
+Whoop.
+
+[Speaker 2]
+There you go.
+
+[Speaker 6]
+Is that a friendly wolf or a one of us? That's, that's, that's the ranger's wolf.
+
+[Speaker 3]
+Gotcha.
+
+[Speaker 2]
+The other ranger.
+
+[Speaker 1]
+Oops, I actually clicked that on you. Ah, that was it. Uh, what do you guys want to do?
+
+[Speaker 3]
+All right. So, um, this is not the floor you've been to, right? Dude.
+
+[Speaker 4]
+Uh, correct. Uh, I don't recognize this. I did not go up this chute.
+
+I jumped, I jumped a bit.
+
+[Speaker 3]
+Very well done.
+
+[Speaker 8]
+This looks like a fucking maze.
+
+[Speaker 4]
+Somebody pick a door. I'll try and check it. Let me guess.
+
+Yeah, we can see. Okay. You know, you know, the guild hires me to keep you guys alive, right?
+
+That's like my main state. Stopping you guys from wandering into spike traps. You'd be amazed how many of you actually do that.
+
+Walk into spike traps. I laugh every time. My dog.
+
+[Speaker 6]
+Uh, who's using a torch? Uh, me. Do you mind?
+
+I have a bullseye lantern, if you mind swapping them out. Because I have a feature where I'm... Bullseye lantern.
+
+Okay, I can...
+
+[Speaker 2]
+Yes, sure.
+
+[Speaker 6]
+Because I have a feature where I'm invisible to creatures using dark vision. So it's pretty cool if I'm in darkness while, you know, the rest of you can see. What do I, um, add for vision then with your lantern?
+
+It's a 60-foot cone, uh, bright light. And then dim light for an additional 60 feet. And it burns for six hours, so.
+
+[Speaker 3]
+Wow, and you're invisible in that?
+
+[Speaker 6]
+No, no, I'm invisible outside of it. And since it's a cone, I can stay behind you, for example. And I'm invisible to creatures using dark vision.
+
+Yay. Okay, um, let's see. How would I make this a cone?
+
+[Speaker 1]
+I just did.
+
+[Speaker 6]
+Oh, thank you. And that's 60 feet?
+
+[Speaker 1]
+Uh, I don't think it's set to 60 feet right now. I just set the cone.
+
+[Speaker 6]
+Oh, yeah.
+
+[Speaker 1]
+Go ahead and set the length manually.
+
+[Speaker 3]
+Now, how... I guess I'm going to have to allow myself to be able to swivel so that I can see.
+
+[Speaker 1]
+Yep, go ahead and click on yourself and just, uh, do, uh, control and then mouse scroll. And that'll rotate you.
+
+[Speaker 3]
+Thank you. Oh, there we go. Yeah, okay.
+
+Sorry, sorry. I'm getting the hang of the scrolling.
+
+[Speaker 6]
+All right. Oh, yeah, I'm probably... Oh, right.
+
+I'm invisible to you guys, too, if you use dark vision. This is a bit... This is a bit disconcerting, I will say.
+
+Just wisps of shadow. It's just pitch black for me.
+
+[Speaker 1]
+Yes.
+
+[Speaker 6]
+So... Do we want to go through the door or...
+
+[Speaker 2]
+Well...
+
+[Speaker 4]
+Ryder checked the door and says that he can't see anything on it. Um, uh, I have to cut chicken, so just do stuff.
+
+[Speaker 3]
+Uh, so the door on the right... Sorry. The door on the right seems to be, um, safe according to, um, according to Ryder, so...
+
+[Speaker 6]
+Um, to the right? Door on the right?
+
+[Speaker 2]
+Is there a door to the right? If we're facing this way... Okay.
+
+This one.
+
+[Speaker 1]
+Um, just use, just use direction light, uh, northwest or...
+
+[Speaker 2]
+Roll through to the door to the north. Okay. Yeah, I mean, let's go.
+
+[Speaker 3]
+I probably should invest in night vision goggles after this. Okay, so who's going first through the door? Uh, Ryder currently is...
+
+Indisposed, cooking chicken. Back it!
+
+[Speaker 4]
+I can't go. Ryder marches, looking at a bunch of scraggly adventure. I'm making dinner and charging this room, man.
+
+Don't make me do all the work.
+
+[Speaker 1]
+He does not. Because you guys are starving right now. Yes.
+
+[Speaker 2]
+Okay. Please.
+
+[Speaker 3]
+So we, uh, sneak through the door. Just a moment. Let me turn away from you so you can not get caught in the light.
+
+One second. There we go.
+
+[Speaker 1]
+All right. Inside this room is a dwarven machine. It appears to be inactive.
+
+There are a bunch of controls on the side.
+
+[Speaker 2]
+Okay.
+
+[Speaker 1]
+In the right hand corner of the room are three objects that look like lanterns, except there's, uh, they're composed of a wire mesh. And they do not, um, yeah, they're composed of a wire mesh and there's no clear way to put oil inside of them. The machine has six slots for these such lamps.
+
+[Speaker 6]
+Can I...
+
+[Speaker 3]
+What would I roll to check how it works?
+
+[Speaker 2]
+Hmm, probably...
+
+[Speaker 1]
+What is, what is the closest... What is the closest thing to... Yeah, smith tools would be a good option here.
+
+[Speaker 6]
+I have proficiency in those. If that matters. Yeah, you, I, okay.
+
+[Speaker 3]
+So I'm, I guess I'll be pondering how I could look at it. And you can bring up the fact you know how to use smith tools. I do not, unfortunately.
+
+[Speaker 6]
+What do you want me to roll?
+
+[Speaker 1]
+Uh, go ahead. This would be intelligence plus your proficiency with a d20.
+
+[Speaker 6]
+Yes, uh, intelligence plus three. Oh, fuck. Uh, that's, uh, seven.
+
+[Speaker 1]
+Uh, you're not really familiar with a lot of dwarven stonecraft and not dwarven machines. Or at least not this one. Uh, comment.
+
+What's your secondary class?
+
+[Speaker 6]
+Uh, I'm a smith.
+
+[Speaker 3]
+Oh, oh, sorry. Uh, it's, uh, it's minstrel because music. Okay.
+
+So it's not very useful. It's not very useful in this scenario.
+
+[Speaker 2]
+Very good for talking to people.
+
+[Speaker 6]
+So much with, uh, machines.
+
+[Speaker 1]
+If anybody has arcana, uh, they could roll on this.
+
+[Speaker 6]
+Oh. I have arcana. Okay, let's see.
+
+[Speaker 1]
+I'm gonna let Carmen roll first. You can go first.
+
+[Speaker 6]
+No, no, no.
+
+[Speaker 1]
+Oh, okay. Because right now Tiana is rolling for the...
+
+[Speaker 6]
+Uh, 13. All right.
+
+[Speaker 1]
+You don't know the exact purpose of this machine, uh, but you are familiar that, uh, you know a few things. Machines and dwarven holds have the capacity to move. Sometimes they're used for tunneling.
+
+And or blocking off passageways. It's either boring new tunnels or creating new passageways, sometimes clearing them. Uh, as far as the, um, let's see here.
+
+As far as the lamps on the northeastern corner, it doesn't appear to be... Uh, you don't really know what their function is.
+
+[Speaker 2]
+Okay, thank you.
+
+[Speaker 3]
+Uh, does... So asking the person... Well, I haven't managed to garner much from them besides the...
+
+That it's a typical, uh, dwarven machine. And, well, I'm still not quite sure what the lanterns are for.
+
+[Speaker 6]
+Is there anyone else who knows what to do... To do with them? You want me roll Arcana as well, or...
+
+[Speaker 1]
+At this point... So what did you say? I said at this point something fun's gonna happen.
+
+[Speaker 2]
+Okay.
+
+[Speaker 1]
+No more. All right, sweet.
+
+[Speaker 3]
+So we just wait for the mysterious fun thing that's a bit...
+
+[Speaker 6]
+Or for the two adult dragons who crash down through the roof. Stones fall, everybody dies. That's actually a little ridiculous.
+
+A little.
+
+[Speaker 2]
+So still monster table one, which is not here, which is a little ridiculous. That's okay. That's fine.
+
+[Speaker 1]
+Everybody go ahead and take a quick, uh, just take like a 10 minute break. Okay.
+
+[Speaker 2]
+Yeah, no worries.
+
+[Speaker 1]
+I'm getting starving at this point, and, uh, it's distracting me. I literally just need, like, a bit of food. I was eating a fish fry for, like...
+
+80% of that, so yeah.
+
+[Speaker 3]
+Yeah, no worries. Um, ping me in 10 minutes. I'll just meet myself.
+
+[Speaker 4]
+Oh my god, James. I'm gonna make you so jelly right now. I've marinated for 24 hours in teriyaki sauce.
+
+Chicken. Oh my god, it tastes so good.
+
+[Speaker 2]
+I bet. That sounds awesome.
+
+[Speaker 6]
+So, uh, Mr. Other Ranger. What was the name?
+
+[Speaker 1]
+So that's Rez, and his character's name is Zakira.
+
+[Speaker 6]
+Zakira?
+
+[Speaker 1]
+Seem you to, Brennan. He's muted.
+
+[Speaker 8]
+Uh, did someone call for me? I heard Rez.
+
+[Speaker 6]
+I was just wondering, like, are you an animal tamer as well?
+
+[Speaker 2]
+Yes.
+
+[Speaker 6]
+Yeah. It really is the Ranger default, isn't it?
+
+[Speaker 3]
+So one gloomstalker, one animal tamer.
+
+[Speaker 6]
+Let's go.
+
+[Speaker 8]
+I mean, I'm- I'm also a gloomstalker.
+
+[Speaker 6]
+Hell yeah, Nova damage for the win. I'm only five levels in.
+
+[Speaker 2]
+Oh, oh, I see.
+
+[Speaker 3]
+So for the secondary class, it's animal tamer, and then the first class is gloomstalker.
+
+[Speaker 2]
+Yeah, you know, that makes sense.
+
+[Speaker 6]
+I'm only grabbing the good stuff out of this class. I'm not going to go more than five levels into Ranger.
+
+[Speaker 2]
+Ah, okay.
+
+[Speaker 8]
+From here on out. I don't know what level five Ranger gets. It gets good stuff.
+
+[Speaker 3]
+So you're five levels into Ranger, and what's the other points in?
+
+[Speaker 6]
+Five levels into Ranger, two levels into Fighter. I'm going to go Battlemaster Fighter eventually, for the maneuvers.
+
+[Speaker 8]
+I'm going to go Battlemaster Gloomstalker. This is fucking crazy.
+
+[Speaker 6]
+Yeah, I- Technically, me being in the part, like, because I already have Life Berries. So, like- Ah, so that's your set. I know the interaction.
+
+Okay, so essentially, every good berry of mine doesn't heal one hit point, it heals three, right? So we won't really run out of hit points. At least not tomorrow.
+
+Today we might, but the moment I get to cast, you know, cast it before a long rest, we have, like, 16 hours of healing. I mean, technically, you could have done it as preparation. I was told I couldn't do downtime stuff without having played.
+
+You know, I have a whole spreadsheet for tracking good berries. That's so awesome. Or not a thousand.
+
+Sorry, tired. I have a hundred of them in a game I play. Nice.
+
+And it's just a life support system, especially if we have to go somewhere to, like, investigate, but we have downtime before. I can just- Especially if I take Warlock levels later on. I can, like, you know, just rest, cast good berry, rest, cast good berry, and then we have a life support system.
+
+So we can just go in and, like- I have friends who enjoy playing, like, berserker characters who just rush in, and this actually allows them to do that. So it's pretty cool.
+
+[Speaker 3]
+That's good. I probably need to invest in more fighting spells, because a lot of mine are support, due to the fact that- Bard.
+
+[Speaker 6]
+What do you play? It's Bard? Oh, it's this- No, no, no, I'm not multi-classing.
+
+[Speaker 3]
+I actually haven't multi-classed before, so I have yet to try that. But no, just a pure Glamour Bard.
+
+[Speaker 6]
+Pretty cool. What spells do you have?
+
+[Speaker 3]
+Let's see. So including the ones that are given to me by the extra item, not including cantrips, I've got command based on the feature. So command, bless, comprehend languages, which is active, fairy, fire, silvery bards, healing word, protection from good and evil.
+
+[Speaker 6]
+Silvery barbs. Silvery barbs is pretty fun, considering, you know- Yes.
+
+[Speaker 3]
+Healing word, protection from good and evil, entangles- I have a lot. Speak with animals. This might take a while, actually.
+
+I might just screenshot it so I don't have to read it all out loud.
+
+[Speaker 6]
+Well, you have conjure animals, right?
+
+[Speaker 3]
+Speak with animals. But I do have- I do have a bag that can technically conjure them. I'm not doing that right now, because it'll be a little more trouble than it's worth to roll stealth for them as well.
+
+[Speaker 6]
+Oh yeah, oh, you should- If you want to- Like, I have a friend who has macros for them, because, you know, conjure animals is quite bothersome if you roll them individually for all of them. Like, he presses one button and then everything gets rolled. It's super cool.
+
+Because it's a very fun spell if it doesn't take a year to use.
+
+[Speaker 5]
+Yeah.
+
+[Speaker 3]
+Oh, right, that actually reminds- It's not quite conjure animals. That's for druids only. I mean, you know the grey bag of tricks?
+
+[Speaker 6]
+No, but conjure animals is not just for druid. You're a bard. You have magical secrets.
+
+That's- I only get that in level 16.
+
+[Speaker 2]
+And then again at level 18.
+
+[Speaker 6]
+Uh, am I stupid? Are you sure? Yeah, yeah, yeah, it's- Wait.
+
+[Speaker 1]
+In either case, it's not right now.
+
+[Speaker 6]
+Oh, shit, oh, right. Oh, I thought you were a lore bard. Oh, okay, okay, okay.
+
+That makes- Uh, no. Okay, okay. No, glamour bard.
+
+[Speaker 3]
+Lore bards get it early, though.
+
+[Speaker 6]
+Oh, yeah, yeah, definitely. That's their whole thing. Okay.
+
+[Speaker 1]
+All right, everybody, go ahead. And when you're ready, you don't have to do it right this second. Go ahead and right click on your character token.
+
+And you'll see a little sword and shield icon. Yes.
+
+[Speaker 2]
+Okay. Yes, sir.
+
+[Speaker 1]
+Go ahead and click on that.
+
+[Speaker 3]
+Oh, it says that there's no combat encounter in your current league you've seen. Okay, I'm switching to my torch now because, um, I would- Actually, not- Okay, okay, I'll keep- I'll keep the cone. The fun part is you actually don't have time to do that right now.
+
+Oh!
+
+[Speaker 1]
+It's not up to you.
+
+[Speaker 3]
+Okay.
+
+[Speaker 6]
+Feel free to just, uh, when you have time, just- What's it called? Like, uh, attach it to your, like, belt or whatever. It's a lantern, so it won't set you on fire.
+
+[Speaker 4]
+You hear the drider yell out, Oh, boosh!
+
+[Speaker 6]
+No, don't. Please don't. Please don't.
+
+Seriously. Don't yell. Please don't.
+
+[Speaker 1]
+And also, we've been through the anti-social character thing. Don't do anything that'll, uh, screw the party.
+
+[Speaker 6]
+Oh, wait.
+
+[Speaker 4]
+And now we see the, uh, very nice- The merciless mobs spawned on top of us. Aren't we supposed to be surprised? Weird.
+
+Yeah, you'll be surprised.
+
+[Speaker 3]
+I hate the tone you put.
+
+[Speaker 6]
+Yeah, just like, oh yeah, you'll be surprised. How the turn tables.
+
+[Speaker 3]
+Indeed. Those monsters rage well, though.
+
+[Speaker 4]
+God, fuck. I will instantly rage and nullify any surprised.
+
+[Speaker 6]
+Wait, wait, the animal surprised us? All of us?
+
+[Speaker 3]
+I think they might have dropped down on us, but we'll see when they drop down from, uh, sky. Probably.
+
+[Speaker 2]
+Holy shit.
+
+[Speaker 3]
+He did mention it would have no time to even just switch to a torch, which means, uh- Can you ping, uh, the feature that lets you do that in chat?
+
+[Speaker 1]
+Yes.
+
+[Speaker 6]
+Um.
+
+[Speaker 1]
+It's just handy.
+
+[Speaker 6]
+Oh, right, you can- As long as the first thing you do on your turn is rage, you can't get surprised. But holy shit, those animals rolled a 20 for stealth. Oh my god.
+
+[Speaker 2]
+We are a bit unlucky. Not quite.
+
+[Speaker 1]
+Uh, there's a second rules interaction for- Wait, what? Yes, there we go. There's a second rules interaction for when you guys are looking for things that diminishes your passive perception.
+
+[Speaker 2]
+Where?
+
+[Speaker 1]
+It should be in the exploration section.
+
+[Speaker 3]
+So when we're actively looking at stuff, it's like your passive perception is less because you're not really paying attention to everything else.
+
+[Speaker 2]
+Yeah.
+
+[Speaker 3]
+Ah, that makes sense.
+
+[Speaker 6]
+Sorry, did you say- Oh, it's in the, um, like the dropbox you sent us?
+
+[Speaker 1]
+No, no, it should be in exploration.
+
+[Speaker 3]
+Like, the base rules? If you go- You know on the right where you can see your actors, right?
+
+[Speaker 1]
+Wait, no, no, it's in the base rules of 5th edition. Nobody really pays attention to it.
+
+[Speaker 3]
+Ah, that makes sense. I guess because exploration isn't used a lot a lot.
+
+[Speaker 1]
+You can act normally on your first turn if you enter your rage before- All right, so I just gotta roll. Um, for these guys. Rez, are you back with us?
+
+Yes, just barely. Excellent time.
+
+[Speaker 3]
+So everyone rolls initiative, right? Or we wait until they do?
+
+[Speaker 1]
+No, you guys can go ahead and do that. That's fine.
+
+[Speaker 3]
+Okie dokie. Normal. Oh, sweet.
+
+I'll go and make sure my stuff is prepared.
+
+[Speaker 6]
+I'm not sure what- Come on. Oh, the 1, that's good. Oh, it's rad.
+
+Why? Oh well.
+
+[Speaker 3]
+Let's see, spellbook. I really, really need to invest in more attack things. These are all support, let's see.
+
+[Speaker 6]
+I mean, command is super strong. That's true, but it- Let's see. Features.
+
+[Speaker 1]
+Oh, um, let's see here. Oh, um, so the place where you do the initiative roll. I'm just going to update yours.
+
+Is in that second tab that says combat encounters. I'm going to update it to the 12 that you rolled.
+
+[Speaker 3]
+Giant centipede. Oh, good golly. Wow, that is a lot of centipedes.
+
+[Speaker 1]
+Okay, uh, common goes, security goes. Rider, go ahead and take your turn. You have to rage before you do anything.
+
+[Speaker 8]
+You're muted.
+
+[Speaker 4]
+Uh, sorry, I muted myself. I was eating a dinner. Uh, I am targeting the nearest thingy after raging.
+
+I'm gonna toss out a few attacks. Two of them to be exact. Oh, let's see here.
+
+Uh, this will be a reckless attack.
+
+[Speaker 3]
+I think my turn.
+
+[Speaker 4]
+Um, that is the, uh, the zealot passive. The, the smite on the first attack of my rage. Uh, so I hit the giant centipede for 12 damage.
+
+And then I will go with a another attack. This is a reckless attack, uh, as are all attacks on this turn. So they are rolled with advantage.
+
+That's a 15. 15 does hit.
+
+[Speaker 1]
+Also, don't ask that question. Just go ahead and roll.
+
+[Speaker 4]
+Okay. Um, that's the turn.
+
+[Speaker 1]
+All right. They are easily dead. Which is funny because they were the ones right after you.
+
+[Speaker 6]
+All right, Tiana. I'm surprised, right? You're surprised.
+
+[Speaker 4]
+Was my turn just skipped?
+
+[Speaker 6]
+Yes. Oh, we are surprised.
+
+[Speaker 1]
+You're surprised.
+
+[Speaker 3]
+Ah, that makes sense.
+
+[Speaker 1]
+Also, if you ask questions like that in the, in the, um, oh, in the Foundry chat specifically, I'll, I'll see them and I can answer them.
+
+[Speaker 3]
+Ah, okay. Sorry. I'll do that next time.
+
+[Speaker 1]
+Let's see here. Or if you write a note on the, on the map. That's another way to make sure they didn't, they didn't get lost.
+
+[Speaker 4]
+Let's see here.
+
+[Speaker 1]
+Uh, you guys can write whatever you want on these maps, by the way. I know that somebody asked me to do that. Let's see here.
+
+None of you are surprised anymore. So they will not have advantage on their attacks. Because the only one that didn't go after you guys was...
+
+What's a year? Normal. Okay, that misses.
+
+This one's going to go after Rock. It hits. 16 hits.
+
+Rock, go ahead and have Rock make a constitution saving throw. DC 11. Saves.
+
+If so, he only takes the, uh, only takes the 5 damage. I rolled literally three sixes on that poison damage. Oh my god.
+
+That's a, that's a lucky roll, my friend. Here, uh, third one is going to bite. Sekirah, miss.
+
+Torm's centerpiece is going to attack Sekirah. Miss. A 14 to hit.
+
+Sweet. All right, and he is going to, Tila, he's going to occupy your space. And have it like slightly off so that you can, uh, see it.
+
+All right, that is the turn of the enemy. We come to the start of next round with Common.
+
+[Speaker 3]
+Cool, um, I'll go and swivel so I can see the, the things, just. Okay, it's not letting me turn around, which is fun. Did you click yourself?
+
+No, it's not. Okay, I'm going to click myself again. Ah, there we go.
+
+I'm, uh, I'm here right now. There you go. Thank you, I appreciate that.
+
+Yep. Okey dokey. Um, which would be then, two, three.
+
+Uh, I guess I will go and, uh, no, it's occupying the space. I can't do that. I will, would they be able, they can hear me.
+
+They don't have to understand me. Um, I will mock the centipedes and their very few lack of legs. The fact that they don't have thousands more like millipedes.
+
+And frankly, they're less elegant than the wonderful millipede. There we go.
+
+[Speaker 1]
+Just barely makes it. It's very secure in its current number of legs.
+
+[Speaker 3]
+Well, uh, that would be my action. And let's see, bonus action, nothing. I'll just move on.
+
+[Speaker 1]
+All right, that's going to bring us to Zakira.
+
+[Speaker 8]
+Oh, right. Firstly, I'm going to reposition if I can find it and I'm just gonna, you know, just teleport over here. So that shouldn't incur any attacks of opportunity.
+
+[Speaker 1]
+No attacks of opportunity.
+
+[Speaker 8]
+Okay, beautiful.
+
+[Speaker 1]
+These things have four hit points, by the way. Oh, you probably don't need to. I'm assuming a 27 hits.
+
+Yeah, kills it. Which one were you targeting? Uh, I'll just target them at random.
+
+This one. Okay, sure thing. If you press T over whatever you're attacking, it'll show me a little dot that indicates which one you're trying to murder.
+
+And I make another. Hits, kills it.
+
+[Speaker 8]
+And that's my turn. Actually, wait. It's Rock's turn to shine.
+
+[Speaker 1]
+Eight hit, I don't know. Does 16 hit Rock, by the way? Yes.
+
+Uh-oh. All right, go ahead and make that save. Okay, let's pray.
+
+Thanks again. He only takes... D4 plus two.
+
+He only takes five. Here's the damage. Eight, unfortunately, misses the swarm of centipedes, bringing us to Dryder.
+
+All right, let's do this.
+
+[Speaker 4]
+Oh, we shall shmuck. Let me just drag this out. And Kablammo.
+
+Uh, Reckless. It's all gonna be Reckless, baby. Boom, damage.
+
+Kills it, okay.
+
+[Speaker 6]
+Do you care to make one of them non-lethal?
+
+[Speaker 4]
+Non-lethal, sure. This one is non-lethal. The first one is just knocked out.
+
+[Speaker 1]
+Thank you. I will mark it as unconscious.
+
+[Speaker 4]
+Okay, how do I combat the swarm that's on top of the wolf? Can somebody explain that to me?
+
+[Speaker 1]
+If you miss, you're gonna hit the wolf.
+
+[Speaker 4]
+Okay, in which case, can I displace the swarm? Nope.
+
+[Speaker 1]
+Nope, okay. Unless you have any particular way in which you would do that.
+
+[Speaker 4]
+No. Okay, well, I'm raging, so that makes the choice very easy. Dryder recklessly swings against your wolf.
+
+[Speaker 2]
+Okay, here's damage.
+
+[Speaker 4]
+Here's the swarm. My bonus action is Polar Master, and it is a d4 attack.
+
+[Speaker 1]
+All right, while you're rolling that, Tiana, go ahead and take your turn.
+
+[Speaker 6]
+Finally, I can see what's going on. Okay, so one of them were unconscious, right?
+
+[Speaker 1]
+That's correct. One of them right past Dryder is unconscious. And then this is the swarm of centipede.
+
+[Speaker 6]
+Okay, I will shoot it, I guess.
+
+[Speaker 2]
+Go ahead.
+
+[Speaker 6]
+19 hits.
+
+[Speaker 1]
+All right, sweet. Nice. Yeah, any time you roll the hit, just go ahead and roll the damage right afterwards.
+
+[Speaker 6]
+Oh yeah, oh, yes, okay, yes, sure.
+
+[Speaker 1]
+Then you'll find it.
+
+[Speaker 6]
+Nope.
+
+[Speaker 1]
+Oh yeah, that kills it. I had like two hit points left. All right, y'all are out of combat?
+
+[Speaker 6]
+Hell yeah.
+
+[Speaker 2]
+Beware the roof, son.
+
+[Speaker 6]
+You're pretty cool.
+
+[Speaker 2]
+Hello. Hello.
+
+[Speaker 7]
+I have returned from dinner.
+
+[Speaker 4]
+You're welcome. So where to next, huh? I don't think we should stick around in case more of those bugs come around.
+
+[Speaker 6]
+Can I pick the bug out?
+
+[Speaker 4]
+What, you don't like bugs? I like things that don't creep over my face. Understandable?
+
+[Speaker 6]
+I understand, but... Oh, you've managed to tame the creature? No, it's unconscious.
+
+Is it a swarm of centipedes or is it a giant centipede?
+
+[Speaker 1]
+Oh, this one is just a giant centipede, which has a size of... It's medium, right? No, it's small.
+
+[Speaker 6]
+No, it's small, small. That's why I asked if I could, you know, pick it up.
+
+[Speaker 7]
+Is there any room to join? Yeah. All right, let me find my token.
+
+I'm just gonna place it down in a random spot because this is a black screen.
+
+[Speaker 1]
+I'll place it down for you.
+
+[Speaker 7]
+Okay, let me delete that one.
+
+[Speaker 6]
+Okay, wait, how is carrying capacity calculated again?
+
+[Speaker 3]
+It is a centipede, I don't think it really affects that much.
+
+[Speaker 6]
+How much does it weigh? How much does it weigh?
+
+[Speaker 3]
+How much does a small centipede weigh?
+
+[Speaker 6]
+Small is below 100 pounds.
+
+[Speaker 1]
+Yeah, so let's just put it at like a 20 pound dog. Okay, then half the weight of a coyote. Oh, this is very dark.
+
+[Speaker 6]
+Could the swarm of pseudodragons just carry it?
+
+[Speaker 1]
+I don't think swarms have a great carrying capacity.
+
+[Speaker 6]
+I mean, what is the time strength score? It's like...
+
+[Speaker 1]
+For tiny, it's gonna be bad.
+
+[Speaker 6]
+It's medium.
+
+[Speaker 1]
+A pseudodragon is medium?
+
+[Speaker 6]
+No, it's like the...
+
+[Speaker 1]
+The swarm size is medium.
+
+[Speaker 6]
+Oh yeah, so they're all...
+
+[Speaker 1]
+I mean, I guess they could like kind of drag it. If you're doing anything with elevation, it's not going to work out great.
+
+[Speaker 6]
+Wait, how can I even calculate... Wait, calculate carrying capacity.
+
+[Speaker 1]
+If I'm not familiar with the carrying capacity right now, if we could...
+
+[Speaker 6]
+It's six times 15. They can carry 90 pounds. I don't think more than that.
+
+Because they have a strength score of six. Right. Oh.
+
+[Speaker 1]
+I'm assuming that somebody's going to help you with this. We could resolve the specifics of the... Of the carrying capacity at some point.
+
+I do want to make sure that you guys are progressing onwards.
+
+[Speaker 6]
+Yes, sir. Where did we go? Where did we come from?
+
+[Speaker 7]
+Where did it go? Where did it come from? Oh, uh, lady...
+
+What is it? Lady, everyone.
+
+[Speaker 1]
+There we go. So Lady Evelyn comes up, climbs out of the hole. Having attempted to follow a bunch of centipedes up a large...
+
+Up a large shaft.
+
+[Speaker 7]
+Ugh, those centipedes are so gross. Nearly ruined my suit.
+
+[Speaker 2]
+Are you all right, my dear?
+
+[Speaker 4]
+Yeah, nobility.
+
+[Speaker 7]
+I'm all right. It's just... It's...
+
+gosh, it's... Why is it so dirty down here?
+
+[Speaker 3]
+I, uh, I pat you on the shoulder and you're clean again. Precedentation to the win. Oh, why, thank you!
+
+[Speaker 2]
+You're very welcome.
+
+[Speaker 7]
+That's a neat little spell you have. What kind of spell is that? I think I need to ask my patron if she can give me that one day.
+
+[Speaker 3]
+Oh, it's a pretty basic one. It's usually just used for magic tricks. But it's, uh...
+
+It's precedentation. It's one of the transmutation ones. It helps clean you up or warm things up.
+
+Sometimes even just snuffing candles.
+
+[Speaker 7]
+I see. I'll have to ask my patron about that after we get... After we finish with this.
+
+[Speaker 2]
+What are we doing? Moving on.
+
+[Speaker 3]
+Just dungeon delving, yes. So, uh, where to next, gang?
+
+[Speaker 4]
+Uh, I'm checking a dork.
+
+[Speaker 2]
+Hey, Pew!
+
+[Speaker 7]
+Is it supposed to be this dark?
+
+[Speaker 4]
+Uh, Dreador looks back at the group and says, Stack up, we're going in. You're in a suit of pitch black, yes.
+
+[Speaker 1]
+Yeah, I can't see anything. That's because it's very dark.
+
+[Speaker 7]
+Yeah, I know, but I don't have a torch. And the only light is... Uh, I can...
+
+I don't know what you're talking about.
+
+[Speaker 3]
+Can you see when I shine the light on you?
+
+[Speaker 7]
+Yes, but the light is like very... It only illuminates like four squares.
+
+[Speaker 3]
+Yeah, it's a cone. So just stay in the, uh... It's much more when I, you know, turn.
+
+But because it's a cone, it's just hitting what's there. So, um... Some of these guys benefit from being in the dark, so...
+
+Cone instead of torch of light. Which door do we go to?
+
+[Speaker 1]
+I keep rolling extremely fucking low.
+
+[Speaker 2]
+Sorry, just don't move. I'm trying to move this thing. Thank you.
+
+You're trying to reload Foundry, but then what happens? I'm just reloading it right now because it's a... I don't know.
+
+[Speaker 1]
+Maybe this is superstitious, but every time that Foundry gives us a bunch of low rolls right in a row, we reload the game.
+
+[Speaker 5]
+Ah.
+
+[Speaker 1]
+Or at least some of us do.
+
+[Speaker 3]
+Clearly the dice aren't functioning.
+
+[Speaker 1]
+I don't know why it's doing this to me. Ah, fun.
+
+[Speaker 7]
+Why do I have a little bag of sand? That is a very interesting question.
+
+[Speaker 3]
+And why is there sand? What's your background?
+
+[Speaker 7]
+Um, noble.
+
+[Speaker 3]
+Oh, then I have no clue why you have sand.
+
+[Speaker 7]
+And why is there a specific item that exists? Okay, it says a small bag of sand typically found in a scholar's pack. I did take a scholar's pack from there.
+
+[Speaker 3]
+Maybe it's the dirt in the eyes. Oh, yeah, pocket sand. Yeah.
+
+My favorite. It's very useful for scholars.
+
+[Speaker 7]
+Or maybe you can save it for a snack for later.
+
+[Speaker 6]
+Oh, yes.
+
+[Speaker 2]
+Yes, that too.
+
+[Speaker 6]
+Are we moving through the door? What is going on?
+
+[Speaker 7]
+I don't know. I can't see. They are.
+
+[Speaker 2]
+Hold on.
+
+[Speaker 7]
+There you are. I mean, I can see my own token and treasure in this room.
+
+[Speaker 3]
+If I move backwards like this, we'll both be able to see somewhat. Move in front of me so that I can also illuminate you with the light. Yep, there we go.
+
+Let me just turn this all the way around. There we go. I'm stepping directly into the room.
+
+[Speaker 7]
+Supposedly has a monster.
+
+[Speaker 3]
+Oh, this is awesome. Those are awesome for us or for you?
+
+[Speaker 1]
+It kind of looks like everybody charged in. It's pretty cool.
+
+[Speaker 2]
+Please.
+
+[Speaker 7]
+I need to buy some torches.
+
+[Speaker 2]
+Let me select my token. Oh, jeez Louise.
+
+[Speaker 1]
+It's right on top of me. Okay. I'm going to add a little light radius to it so you guys can see.
+
+[Speaker 2]
+No.
+
+[Speaker 6]
+Thank you. Wait, this is an actual light radius.
+
+[Speaker 1]
+Oh, the game's paused.
+
+[Speaker 6]
+That's why I can't move back.
+
+[Speaker 1]
+That's right.
+
+[Speaker 6]
+Like a fire element. That's correct.
+
+[Speaker 3]
+Sherlock. Oh, having create water probably would have been good.
+
+[Speaker 7]
+Man, if only every single one of my spells wasn't fire-based. Or most of them.
+
+[Speaker 3]
+So that's his life. Oh, jeez Louise.
+
+[Speaker 2]
+Cheese. Cheese Louise. Cheese.
+
+[Speaker 6]
+But what if cheese? Exactly.
+
+[Speaker 1]
+Oh, here, let me add the encounter. That's why it wasn't added.
+
+[Speaker 2]
+Sorry about that. Okay.
+
+[Speaker 7]
+The warlock is borning.
+
+[Speaker 2]
+Well, so I rolled pretty bad.
+
+[Speaker 6]
+26.
+
+[Speaker 2]
+Hey James.
+
+[Speaker 4]
+What's up? How do you feel about an objection? Go ahead.
+
+Go ahead. Okay.
+
+[Speaker 2]
+Uh, Dryden looks at the giant fire element.
+
+[Speaker 1]
+Wait, why did you frame it like that?
+
+[Speaker 4]
+Uh, feel free to do that on your turn. It's mostly me asking, uh, because I have to do the trigger word right? And I have to shout out OBJECTION!
+
+[Speaker 1]
+Yeah, if you would like to cast a spell, you can definitely do that on your turn. Okay. OBJECTION!
+
+It is not immune to stun. Uh, neither group is surprised. No.
+
+[Speaker 6]
+Okay. Okay. Both of us are just like, ah!
+
+Did you put my initiative?
+
+[Speaker 1]
+Uh oh, so you do that by... All right, so go ahead. Go to combat encounters.
+
+The way that you roll is by clicking on the little d20 icon in combat encounters.
+
+[Speaker 6]
+Wait, 1d20 plus 5 plus...
+
+[Speaker 1]
+No, no, so I know what you're trying to do. Um, I need you to go... There you go.
+
+[Speaker 6]
+Does that work?
+
+[Speaker 1]
+Yes.
+
+[Speaker 6]
+Okay. Pretty cool.
+
+[Speaker 7]
+In the cheesecake forest.
+
+[Speaker 6]
+Okay, so my turn.
+
+[Speaker 1]
+It is in fact your turn.
+
+[Speaker 6]
+Okay, uh, it can see me. Like it's uh, it's a... Oh, shame.
+
+Um, let's just try to... Okay, sure. I'm going to sharpshooter, attack him.
+
+Like a couple of times. So just...
+
+[Speaker 1]
+Yeah, there'll be disadvantage from this, uh, distance.
+
+[Speaker 6]
+No, I have sharpshooter. No, crossbow expert.
+
+[Speaker 1]
+I have crossbow expert. So yeah, sorry.
+
+[Speaker 6]
+Wrong feat, wrong feat. Uh, so one... Oh yeah, that uh...
+
+Okay, so I'm going to do precision attack on that.
+
+[Speaker 1]
+13...
+
+[Speaker 2]
+Just hits.
+
+[Speaker 6]
+Oh shit, so that's wasted then. Uh, okay, another? No, no, no, like you, you misunderstand.
+
+It's uh, like at 13 hits but then it's minus five, right? So I...
+
+[Speaker 1]
+Okay, so you are actually doing the sharpshooter. Okay.
+
+[Speaker 6]
+Yeah.
+
+[Speaker 1]
+All right.
+
+[Speaker 6]
+Okay, so I guess that's two misses, right?
+
+[Speaker 1]
+Uh, yes.
+
+[Speaker 6]
+Okay. And then we have another one. Thankful.
+
+And that one I assume hits. Oops, didn't mean to press that.
+
+[Speaker 1]
+Uh, 27 definitely hits. And then my 22 would also hit.
+
+[Speaker 6]
+And then, well, and then we have the... Sorry, uh, for any eventual background noise. And then I had the feature which does additional damage here.
+
+[Speaker 1]
+Uh, Evelyn, if you want to do, um... Wait, so... Unless...
+
+[Speaker 6]
+And then I had a feature which does additional damage here. Sorry, I'm a bit stressed.
+
+[Speaker 1]
+And then, yeah, that should be... Sorry, I didn't apply the sharpshooter. There we go.
+
+Now that's fixed. Okay. Uh, Evelyn, you're going to take...
+
+[Speaker 7]
+That was a private roll, and I can't see the damage.
+
+[Speaker 1]
+Here we go. You didn't take too far damage. Go ahead and take your turn.
+
+[Speaker 7]
+Ouchie oofie, my poor little noblewoman skin is being crispified. Okay, let's hope I have... I configured the Wand of the War Mage correctly.
+
+[Speaker 1]
+Just have to go ahead and roll first and do modifiers later. Yep.
+
+[Speaker 7]
+Let's Shock and Grasp, since it is right on my hat.
+
+[Speaker 1]
+17 hits.
+
+[Speaker 7]
+Where's the damage? There's the damage. And I'm going to...
+
+[Speaker 1]
+It has no reactions, so you're able to move away.
+
+[Speaker 7]
+Yep. I'm going to move right here. And that's me.
+
+[Speaker 1]
+All right, Fire Elemental is going to... I'm not reacting to damage right now.
+
+[Speaker 2]
+I screwed up.
+
+[Speaker 1]
+Hmm, it's going to chase after... He hit everybody here. Okay, here's what it's going to do.
+
+It's going to start off with an attack. Oh no. George.
+
+This'll be versus Tiana. It will definitely miss this. It's going to be attack versus...
+
+Boy. Also, 100% misses. Rolling awful.
+
+Rolling against Strider, Devani. And then if either Tiana or Kamen are wielding a melee weapon, you could make an attack. As a medium attack of opportunity.
+
+Can I make an attack? It is standing right next to you. Ah, yeah.
+
+Additionally, let's see here.
+
+[Speaker 7]
+Why is it burning me?
+
+[Speaker 1]
+I did nothing. You take three fire damage and you are now yourself burning. Great.
+
+[Speaker 2]
+Oh god.
+
+[Speaker 1]
+I think I actually have a little burning thing for you. Let me press this. I love burning and dying and being set on fire.
+
+[Speaker 3]
+Oh, nope. That didn't let me... That did not let me attack.
+
+That just activated the descriptor word. All right, one second.
+
+[Speaker 1]
+I think you can just roll a d20 if you need to.
+
+[Speaker 3]
+Yeah, I just... I have a regular rapier as well, so I just use that. That's damage.
+
+Nine for the reaction roll.
+
+[Speaker 1]
+All right. By damage, who is at abuse? Fire elemental, it is Kamen.
+
+[Speaker 3]
+Sweet. I... Can I back up slightly?
+
+Yeah. So I back up slightly and I, as one can probably expect, viciously mock it once again, saying I've seen candles that burn brighter.
+
+[Speaker 1]
+Nice. It fails.
+
+[Speaker 2]
+Four more. Six.
+
+[Speaker 1]
+Anything else?
+
+[Speaker 3]
+Oh, no. No bonus actions except just moving back a bit. Sorry, I should have mentioned that.
+
+Yeah, no bonus actions.
+
+[Speaker 1]
+All right, try to. And then secure the clip afterwards.
+
+[Speaker 4]
+Oh, okay. Boom. I shall schmack the biggest of schmacks.
+
+Schmacktastic. Reckless. These are reckless attacks.
+
+[Speaker 2]
+Hiya!
+
+[Speaker 4]
+How do we reveal rerolls?
+
+[Speaker 1]
+Don't worry about it. It's with the right click. You hear hits.
+
+[Speaker 4]
+And then there's the 1d4 from the bonus. Slash, R, 1d4, plus 1, plus 4, kaboom.
+
+[Speaker 2]
+There we go. All right, Sakura, you are up. Also, is this still damage?
+
+But if you hit it, is that real? Oh, it is.
+
+[Speaker 1]
+All right, you take... What is that? You take 21 fire damage, Dryder.
+
+[Speaker 4]
+21 fire damage? I... It's standing on top of me.
+
+I did not take notice of that. I would have stepped back.
+
+[Speaker 2]
+Nope, it's from attacking it in melee. Oh! All right, press the thing.
+
+Did you see that roll? Sakura? This is gonna hurt.
+
+Two 20s and a 19? How do you want to do this? That's awesome.
+
+Well, this is like an elemental, right?
+
+[Speaker 1]
+It is.
+
+[Speaker 8]
+Yeah. So I'm gonna kind of play into the fact I'm using Zephyr Strike. And I pull my arrow back and I release it with the force of a hurricane.
+
+Boom. I am burning.
+
+[Speaker 1]
+Is it still alive? It is not still alive. You guys watch as the...
+
+You guys watch as the arrow spins. I'm gonna fuse the Zephyr Strike. It creates this little wind tunnel inside of the...
+
+Inside of the room that you're in. And it just sucks up all the flame, including the flame that is currently... Currently on Lady Evelyn, dousing her.
+
+[Speaker 7]
+Oh god, that hurt!
+
+[Speaker 1]
+So you did not take any additional fire damage. That's what I do.
+
+[Speaker 7]
+There are many gods.
+
+[Speaker 3]
+Are your clothes singed or are you all right, dude? Oh, I think I'm all right.
+
+[Speaker 7]
+It hurt a little bit.
+
+[Speaker 3]
+But ow.
+
+[Speaker 7]
+My gloves are a little singed, though. But at least I didn't get my suit.
+
+[Speaker 3]
+Uh... Anyone need the spot of healing or... You're good.
+
+[Speaker 2]
+I won't be able to do very much.
+
+[Speaker 3]
+Oh, I turned towards you, being like... One second, as I just... You know what?
+
+I can't turn towards you. I'll just sit here. Being like, you doing all right?
+
+[Speaker 4]
+He basically stood inside the giant tornado of fire and kung fu'd his way through it. His arms are burned, his face looks scarred, and he goes like, Yeah, would be nice.
+
+[Speaker 7]
+Lady Evelyn's face looks slightly burnt, but she's like, mostly okay. She was only on fire for like, three seconds. Probably like, four.
+
+[Speaker 5]
+It was only three seconds. Burning alive.
+
+[Speaker 3]
+Yeah.
+
+[Speaker 5]
+Hi.
+
+[Speaker 1]
+Also, there's treasure in this room. I did not apply it to the fire elemental, because I didn't know how the fire elemental was going to wield it. I might change my mind on that later.
+
+Who knows? I might try to figure something out.
+
+[Speaker 7]
+Like, it just like, floats inside of him, you know? Like, because like, fire's like, oxygen. And if he's like, moving around, it's basically sort of like wind.
+
+I don't know how fire works, but it could just be like, floating around inside of him or something.
+
+[Speaker 1]
+I mean, it's magic, so it's like, it's not that unreasonable.
+
+[Speaker 7]
+Yeah, that's like, the only like, exclamation I can come up with, Oh nice, that was a good roll too.
+
+[Speaker 3]
+So I pat- So in the meantime, I pat Dryder on the shoulder, being like, like, you will be all right, and let's see how good this healing. Let's see, cast spell. Normal.
+
+[Speaker 2]
+Okay, that did not work.
+
+[Speaker 3]
+I'll have to roll that manually. Roll 1d4 plus, let's see, plus. Okay, take 8 points of healing.
+
+[Speaker 4]
+Nice! Sorry, I'm multitasking. You're fine.
+
+Multi-multi-multitasking.
+
+[Speaker 3]
+It's drum a little on my instrument, and the notes just carry to your ears and you heal a bit.
+
+[Speaker 2]
+And that's a pretty good roll considered.
+
+[Speaker 4]
+Thank you, Minstrel. Your words soothe my burns. I don't know how, but they do.
+
+Magic.
+
+[Speaker 1]
+All right, you guys find some oil and etherealness, 3,000 silver pieces, and a workbench in here that appears to be covered in a bunch of different oils and half, I don't know, half useless elixirs.
+
+[Speaker 8]
+Could I take a closer look at this? Workbench?
+
+[Speaker 1]
+Yes, you may.
+
+[Speaker 8]
+I'd like to examine it closer. What exactly is here that I could make use of? You said there's a bunch of oils?
+
+[Speaker 1]
+There is. Mostly just base alchemical reagents. So here, what kind of...
+
+[Speaker 7]
+Wait, what was the first item you said? Oil of etherealness. Etherealness.
+
+What does that do?
+
+[Speaker 3]
+It basically makes you... It's like you can pass through people and things, but I can't remember for how long with the oil, but it's one use because it's oil. Oh, yeah.
+
+Let me see if I can find the descriptor for it.
+
+[Speaker 2]
+So there's a bunch of alchemical reagents here.
+
+[Speaker 1]
+Here, I'm going to post it in the chat. I want to be able to get to Sakura. Go ahead and type that stuff out.
+
+[Speaker 3]
+Here we go. I don't think I need that.
+
+[Speaker 8]
+All right, Sakura, sorry, what were you saying, buddy? So you said there's a bunch of alchemical reagents here. It would be possible, with a bit of expertise, to maybe make some poisons or something.
+
+Like something to dip my arrows into.
+
+[Speaker 2]
+Yeah.
+
+[Speaker 1]
+With a bit of expertise, of course. Do you have anybody with you who's familiar with poisons? Are you familiar with poisons?
+
+Or have any proficiencies related to it?
+
+[Speaker 3]
+Like Poisoner's Kit.
+
+[Speaker 4]
+Yeah, I have a Poisoner's Kit.
+
+[Speaker 1]
+I own Poisoned. I think Driver for this week is actually proficient in Poisoner's Kits, based on his training last time.
+
+[Speaker 2]
+Nice!
+
+[Speaker 1]
+So go ahead and make me a roll with advantage. I think I have that. I think I have that.
+
+No, no, this would be Sakura. I don't think he hears half the things I say. It's fine.
+
+[Speaker 4]
+All right, Sakura, go ahead and roll.
+
+[Speaker 1]
+How do I roll with a Poisoner's Kit?
+
+[Speaker 8]
+Because I don't have one, I think. Except for... The person next to you has a Poisoner's Kit.
+
+Yes, so I'd be rolling in...
+
+[Speaker 1]
+Wisdom, I think? Wisdom.
+
+[Speaker 2]
+Just a flat...
+
+[Speaker 1]
+With advantage, right? Yeah, just a flat Wisdom with advantage.
+
+[Speaker 2]
+Oh, man, shit. Super hilarious.
+
+[Speaker 1]
+Man, oh, I am so mad right now. Why is... Because I tried looking up a table that did not give me...
+
+I'm just going to look it up on D&D Beyond. I looked up a Potion Misc Ability, which is a very specific mechanic in 5th edition. And every single result online is...
+
+Every single result online is just... Here's my thing that I do.
+
+[Speaker 2]
+Potion.
+
+[Speaker 7]
+Oh, the woes of taking spells that only have one element.
+
+[Speaker 1]
+Are you guys going to be resting in here?
+
+[Speaker 3]
+Right. Does anyone need to rest?
+
+[Speaker 8]
+I don't need to rest, but I could sure use a break to go grab a drink.
+
+[Speaker 2]
+That's fine.
+
+[Speaker 1]
+Let's take a 10-minute break so people aren't just waiting around for me. And then think of what you guys are doing next.
+
+[Speaker 8]
+All right, we'll be right back.
+
+[Speaker 1]
+Did I use an impact spell? No, I just used Shocking Grasp. All right, we're going to import.
+
+We're going to go to items.
+
+[Speaker 5]
+How long has the game been going? Has this session been going?
+
+[Speaker 1]
+Less than two hours, I think.
+
+[Speaker 5]
+All right. How long does it have left?
+
+[Speaker 1]
+As much time as you guys want. If you want to join in, you're fine.
+
+[Speaker 5]
+All right, I might do that. I think I brought my froggy on this one.
+
+[Speaker 1]
+Yeah, that'd be perfect.
+
+[Speaker 5]
+So he comes out of a closet somewhere or something.
+
+[Speaker 1]
+I think what will have happened is the trader, the person who is taking... The captain of the Lamprey, who was ferrying you guys back and forth between Linwood Isle, for whatever reason, said, like, hey, guys, before we go over here, I just need to make a stop at this island over here for a little while. It's private business.
+
+It's going to take me like a day. Sorry, I can't. I can't put it off.
+
+But if you could just wait. You either come with me or you could wait. And it was one of the islands that the other party was dungeoneering.
+
+So I think that'll be our justification for why you guys didn't go to Linwood Isle today.
+
+[Speaker 2]
+Okay. It is approaching.
+
+[Speaker 5]
+I got him. Where can I put him down at?
+
+[Speaker 3]
+Just next to us, I suppose. Oh, you can't see.
+
+[Speaker 5]
+Yeah, that's a problem.
+
+[Speaker 3]
+Just a second. Let me ping. Can you see that?
+
+[Speaker 5]
+Let me look around a little bit. Oh, up top? Okay.
+
+Right there. We'll put Susudio right there.
+
+[Speaker 1]
+Oh, and I need to roll four.
+
+[Speaker 2]
+You put them? Nice.
+
+[Speaker 1]
+There are five doses inside this thing.
+
+[Speaker 5]
+Yeah, you can only see when this person moves.
+
+[Speaker 3]
+Yeah, that's my torch. One second as I adjust myself because I've managed to back myself into a corner.
+
+[Speaker 5]
+I feel like I should have dark vision as a frog, but you know.
+
+[Speaker 3]
+You could scroll up or down while you're using that, by the way. It'll go in either direction.
+
+[Speaker 7]
+Oh, man, in Pathfinder, torches just lit a circle like 20 feet around you.
+
+[Speaker 3]
+This one's a cone. That's annoying. It's a lantern.
+
+It's not a proper torch, so that's why it's a cone. It's directional light. So the people who benefit from not being in the light and are invisible in the dark do not get caught by the torch.
+
+[Speaker 4]
+All Pathfinder lanterns also just have a circle.
+
+[Speaker 1]
+This is a very specific item called a bullseye lantern. Pretty much every edition of D&D and its spinoffs had some iteration of this. It's a lantern that has a small hole in it, which is specifically designed to only project light forwards, and it has a little stopper or shutter that you can close if you quickly need to extinguish it without actually blowing out the lantern.
+
+[Speaker 2]
+So it's just a flashlight.
+
+[Speaker 1]
+Yes, it's literally just a flashlight.
+
+[Speaker 7]
+There was one called a hooded lantern that did that.
+
+[Speaker 1]
+That's basically what that is, yeah.
+
+[Speaker 7]
+And in Pathfinder, there's a bullseye lantern and there's a hooded lantern. The hooded lantern didn't give off much light, as much light as the bullseye one, but you could shut it quickly.
+
+[Speaker 3]
+I mean, there's also a hooded lantern here.
+
+[Speaker 1]
+Yeah. Yeah. There's one of them that's for shut.
+
+They both shut. It's just that one is omnidirectional and one is for a very specific direction. Okay, session reports.
+
+There we go. Fallen, just to keep you updated, session reports is where I put the XP and the loot that folks collect across their adventures. People generally split the loot after the session, and whoever writes up a report of what happened in the session gets usually an XP bounty of about $1,000.
+
+I'm going to tag you in there so you can see the thread.
+
+[Speaker 3]
+I've been writing the thing as we've been going along. The session reports. I love it.
+
+I can't wait to post these session reports. It's a lot of fun.
+
+[Speaker 1]
+I am a crispy warlock. I know, what is it? It's like 40 by 60.
+
+Is that what we're going to do? Nope, that's not what I wanted to do.
+
+[Speaker 2]
+I need to buy myself a torch after this.
+
+[Speaker 7]
+But that means I won't be able to hold my rapier in my hand. Yeah, I don't think I need it.
+
+[Speaker 2]
+Hold it in your mouth.
+
+[Speaker 7]
+Hold the torch in your mouth.
+
+[Speaker 5]
+Get the light.
+
+[Speaker 7]
+I'm going to be like that one guy from One Piece who fights with the sword in his mouth.
+
+[Speaker 3]
+Yeah, it's Zorro, right?
+
+[Speaker 7]
+I don't know. I don't watch that.
+
+[Speaker 1]
+Why did you reference it?
+
+[Speaker 7]
+Well, I just remembered. Okay, fine. I'll admit it.
+
+I used to read One Piece when I was in elementary school, but I forgot the guy's name.
+
+[Speaker 2]
+That's fine. I haven't read or watched it yet.
+
+[Speaker 3]
+I know that guy. What was his name?
+
+[Speaker 7]
+Roronora Zorro. Zorro?
+
+[Speaker 3]
+Zorro. Zorro.
+
+[Speaker 7]
+Yeah, that guy.
+
+[Speaker 5]
+Yeah, it's that guy.
+
+[Speaker 7]
+Yeah, that guy.
+
+[Speaker 5]
+So catch me up to speed. What happened? Where do I fall out of?
+
+Because honestly, he could fall out of anywhere in the building. He's like that.
+
+[Speaker 3]
+We can say that we did see you on account of you being very snaky behind us. Somehow we didn't. But you finally caught up after falling behind us for a while.
+
+You guys just discover a frog in a bag. Yeah, we sort of just like turn around and there's a frog and we're like, ah.
+
+[Speaker 4]
+And it goes bing bing bong bong.
+
+[Speaker 5]
+His name is Susudio, or as he'll, you know.
+
+[Speaker 3]
+How do you spell that?
+
+[Speaker 5]
+Um, here, hold on. Just type in chat and it should pop up. Boom.
+
+As well. It's right over his name.
+
+[Speaker 7]
+Thank you. What are we going to do after this? I think we got to plan that.
+
+[Speaker 2]
+I was thinking about. Generally. Sorry, continue.
+
+[Speaker 7]
+Nah, you can go ahead. I was just thinking out loud.
+
+[Speaker 3]
+Oh, so after the dungeon, generally it's just played as we go home. We take a nap. We come back maybe another day.
+
+[Speaker 7]
+That's not what I meant. Like, I meant like here in the dungeon. What are we going to do next?
+
+[Speaker 3]
+We're just going to like wander around.
+
+[Speaker 5]
+What was the point of being here in the first place?
+
+[Speaker 3]
+Treasure and XP. Mostly treasure.
+
+[Speaker 5]
+Okay.
+
+[Speaker 4]
+The guild has tasked us with exploring the Crepit Mansion. And we've stumbled upon an underground keep. Which is notoriously used for lairs and other nasty hideouts.
+
+For much nastier things than whatever we're fighting.
+
+[Speaker 2]
+And treasure.
+
+[Speaker 5]
+So, like, who lives here? Or who lived here?
+
+[Speaker 4]
+No clue. This is, is this a biggest broken mansion? The beasts up in the first floor, the owls.
+
+They talked something about the previous occupants. And we're in like a decrepit dwarven keep now.
+
+[Speaker 1]
+Buried underneath the mansion. So, go ahead.
+
+[Speaker 2]
+The dwarven keep is being taken over by mermaids, though.
+
+[Speaker 1]
+Specifically the lower levels.
+
+[Speaker 2]
+Yeah.
+
+[Speaker 1]
+You guys are still in the portion that's kind of...
+
+[Speaker 5]
+Does it look spooky? From the outside?
+
+[Speaker 2]
+A little bit. Yeah.
+
+[Speaker 5]
+Does anyone know...
+
+[Speaker 6]
+Sorry.
+
+[Speaker 1]
+Oh, you're fine. No, no, so the... Right now there's a delay.
+
+Because we're in a lot of different time zones right now. So some people are going to talk over each other. And it's, it's fine.
+
+[Speaker 5]
+It happens.
+
+[Speaker 2]
+Hmm? Does anyone know water breathing?
+
+[Speaker 5]
+I don't know the spell, but I can.
+
+[Speaker 3]
+Thank you, very useful. I meant specifically for the people who can't water breathe. I don't think...
+
+I might invest in... Okay, so things to invest in. Night goggles and water breathing items.
+
+So I don't drown and I can see.
+
+[Speaker 7]
+Are they night vision goggles?
+
+[Speaker 3]
+Yeah, no, that's an actual item. Oh, wow. How much does that cost?
+
+It depends on what pricing you're using.
+
+[Speaker 2]
+Let me check. Let's see.
+
+[Speaker 3]
+Night vision goggles. D&D.
+
+[Speaker 1]
+If it's uncommon according to the Chomas Valley item buying rules, it's going to be somewhere between... Somewhere between $500 and $5,000. Probably the lower end of that.
+
+Because it's just, it's an item for darkvision.
+
+[Speaker 7]
+Yeah, I found it. It's uncommon, yeah. Todd goggles of night.
+
+[Speaker 1]
+Zakura, I checked in your result in the chat. Technically speaking, you didn't actually combine this potion. What you have is two mixtures that you were about to put together after mixing them with a bunch of other stuff.
+
+And Zakura recognized that it was going to detonate if you did that. So what you did was you taped the two of them together for any purpose that you may wish. You can either detonate these or it'll count as...
+
+What is it? Hellish rebuke.
+
+[Speaker 8]
+Okay, so question. Uh, GM, if I was to, like, end my downtime afterwards, like, make one very specialized arrow and somehow attach this potion to it like a... That'd be really fucking cool.
+
+Yes, you could do that. All right, I will do that after the session.
+
+[Speaker 7]
+I would give you all the items in my inventory. Not really, but like, in spirit.
+
+[Speaker 5]
+So who is asking...
+
+[Speaker 4]
+Do we, uh, the nearby towns, are there any, uh, glass makers, like glass furnaces? People who make glass stuff, like glass crafts, specifically.
+
+[Speaker 1]
+Uh, what do you ask?
+
+[Speaker 4]
+Because I want to make crossbow bolts, uh, that have poison vials attached to them. So that they don't dry out on my ammunition. But I want to have, like, one piece of poisoned ammunition on the wrist bow that's hidden, right?
+
+And I want that to be, you know, not dried out.
+
+[Speaker 2]
+Because, like, I can apply poison ammunition and it goes up and down.
+
+[Speaker 4]
+Okay, cool.
+
+[Speaker 5]
+Someone was saying something about water breathing. Why?
+
+[Speaker 3]
+Uh, I, oh, right, because I mentioned earlier that, um, the lower levels of the Dwarven Hold, mostly, like was said, but, um, the Dwarven Hold has been taken over by mermaids. Which means water. So.
+
+Okay. So, yeah, that's why I was asking if anyone knows water breathing, in case, I don't know, we get drowned?
+
+[Speaker 5]
+Right.
+
+[Speaker 7]
+I love drowning.
+
+[Speaker 5]
+Mermaids will do that, won't they? Um.
+
+[Speaker 3]
+So, I think we invest in water breathing or, like, ventilating lungs or something. But, uh, those are expensive.
+
+[Speaker 5]
+I wonder how many mermaids are down there? Because. Same.
+
+[Speaker 3]
+We should probably talk to them. But, um, no, no, no, hold on. Before you, before you go down that path, we talked, well, I talked to a turtle and it said they're kind of hostile to people who enter their home.
+
+You know.
+
+[Speaker 5]
+Do they pay the mortgage down there? I don't think they have to. I think, I think they'll just kill anyone who tries to collect.
+
+[Speaker 1]
+All right, you guys.
+
+[Speaker 5]
+I'm sorry, that image. I'm just.
+
+[Speaker 1]
+Bit of time in here at this point. Oh, that reminds me, I need to end that turn tracker.
+
+[Speaker 5]
+What do I see? So, I see a door here and a door here. Um, which doors have we gone through already?
+
+[Speaker 1]
+So, this is a, this is on the third level of the dungeon. It is up a, this is actually in the same level as the turtle, but there was just no entry point from this section of the third level. Um, the party went all the way down to the sixth level, I believe.
+
+Yes. And then they took this chimney that went all the way up to go here. There was a path that continued further into the sixth level.
+
+Um, that led further to like the, what? Yeah, the hold proper and the mermaid's domain. Um, they went up here.
+
+They found a dwarven machine in the room adjacent.
+
+[Speaker 2]
+I have a machine. Okay, I'm now ready. I have to do the dishes.
+
+Where are we going? Ready to look to the party?
+
+[Speaker 4]
+What do you feel like? Should we continue exploring? I can start checking doors and walking through them menacingly.
+
+[Speaker 5]
+Yeah, I, you know what? Let's just, let's open the next door. See what becomes of us.
+
+[Speaker 7]
+I'm gonna do something. Okay. Cast detect magic, but I don't want to have this aura, so boom.
+
+But I don't know how to delete it.
+
+[Speaker 4]
+Everything is tinted. I can taste the color purple.
+
+[Speaker 5]
+Wow. How do I get rid of?
+
+[Speaker 4]
+What are you trying to?
+
+[Speaker 5]
+I can't even see what's on your, uh. I'm gonna long rest just to reset my character.
+
+[Speaker 7]
+I cast detect magic and I don't know how to get rid of the aura because it's annoying.
+
+[Speaker 1]
+I can't even see your aura. It's the purple thing. Yeah, I just can't see it.
+
+[Speaker 7]
+Measurement controls.
+
+[Speaker 1]
+Oh yeah, if it was a place, what should we call it? Place measure template, then you could just delete that.
+
+[Speaker 2]
+Delete.
+
+[Speaker 5]
+Dude, I can triple my jumps distance. Once.
+
+[Speaker 7]
+Oh, there we go. Okay. But yeah, I cast detect magic.
+
+[Speaker 1]
+That's fine. The room next to you is clearly magical. Is that, have we been in that room?
+
+Yep.
+
+[Speaker 2]
+The room to the right. Yeah. I'm looking for trap sign.
+
+[Speaker 4]
+Yeah, I rolled horrible. I rolled a fucking eight. I'm going through the door.
+
+Ready or not. I went back into the main room. I'm not in the room that you are in right now.
+
+I went back into the other room. Just in case it's a fireball spell. Stay back, people.
+
+And I open, is everybody ready? This is a ready check.
+
+[Speaker 7]
+Where you are. I don't even know.
+
+[Speaker 3]
+I am very blind.
+
+[Speaker 4]
+Oh, everybody is blind. Can somebody light up a torch? I have a couple.
+
+I hand out a torch to you because I can see you.
+
+[Speaker 3]
+We have torches. I can, I can get a regular torch. It's just that, um, currently I'm using the special lantern.
+
+[Speaker 1]
+So I feel like people went over this earlier, but the, um, right now the whole purpose of using the hooded lantern or the bullseye lantern specifically is for the, uh, is for Tiana stealth and get hits off. If you want to go with a different strategy, obviously you can, but you should probably confer with your parties, with your party first before you start opening stuff.
+
+[Speaker 4]
+People figure out vision thingies. So that we can move up on doors and go into rooms.
+
+[Speaker 2]
+Okay.
+
+[Speaker 4]
+So I was asked to start tracking, track checking doors and breaching. I need the party to be ready for this.
+
+[Speaker 5]
+I'm gonna, yeah, I'm gonna also stealth. Um, just so I can maybe not get hit immediately and I'm good at it.
+
+[Speaker 3]
+Do we still have the plus 10 from move past without a trace?
+
+[Speaker 1]
+Uh, at this point it is over an hour.
+
+[Speaker 3]
+So why did it pause that? Here, let's fix this. So we're all sneaking.
+
+All right.
+
+[Speaker 4]
+Oh, we are sneaky. Here goes the door. Is everybody ready?
+
+[Speaker 2]
+Yeah.
+
+[Speaker 4]
+Which door are you now doing? Which door? Yeah, now we're stacked on this door.
+
+Uh, the party has gathered after a momentary lapse.
+
+[Speaker 3]
+Hold on. I'm moving away from the door. Oh, token collided.
+
+[Speaker 8]
+Hey, could I ask our healer to maybe use healing word on rock real quick?
+
+[Speaker 3]
+Um, okay. I sing a very, very lovely song and your dog gets Spellbook. Let's see.
+
+[Speaker 2]
+Plus five, six. Not very good, but all things considered decent. All right.
+
+I think we are ready. Here we go. Here goes the door.
+
+Oh, that's hilarious.
+
+[Speaker 1]
+Okay. Uh, the good news is there's treasure in this room.
+
+[Speaker 4]
+Bad words.
+
+[Speaker 2]
+What's the bad news?
+
+[Speaker 4]
+It's a high roll on the encounter.
+
+[Speaker 7]
+I'm afraid.
+
+[Speaker 4]
+A TPK warning. TPK warning.
+
+[Speaker 7]
+Fireball.
+
+[Speaker 2]
+I cast fireball.
+
+[Speaker 5]
+That would be so funny if my character died on like one of the first times using them. He's like, look at this motherfucker.
+
+[Speaker 4]
+He already looks dead. They can make the equivalent of like nuclear bombs or basically napalm. Have you, have you ever encountered dwarven napalm?
+
+It's like those, uh, trap door, uh, trap door traps that crush you. But it also has like oil and a dwarven like fire. I don't remember what their guns are called, but they have like flamethrowers that they can stick in the roof and pour down on you.
+
+[Speaker 2]
+Damn.
+
+[Speaker 7]
+I don't see anything.
+
+[Speaker 4]
+Well, I also do not see anything. If the guys with dark vision, you can see Dryder visibly freeze. And he looks very slowly back to you and signs in thieves camp, not a fucking word.
+
+[Speaker 3]
+You understand that?
+
+[Speaker 4]
+Nobody understands that. But you can see that he's distressed.
+
+[Speaker 3]
+Yeah, but I'm going to, you know, you can put, do the finger to your lips movement, right? Everyone understands that one.
+
+[Speaker 4]
+Oh, yeah. Dryder doesn't, don't know that. I don't know normal.
+
+Thieves and rogues understand Dryder. He lives in a society with thieves and rogues. This is normal for him.
+
+[Speaker 2]
+This is how he warns people.
+
+[Speaker 4]
+Yeah, I wouldn't. The inadequacy of your education is not a drow's concern, to be blunt.
+
+[Speaker 1]
+Hey, so everybody sees a, let's see here. They see a draconic creature with many heads out in the, oh, did that not, that light source not go through? I don't see anything.
+
+[Speaker 5]
+I don't want to mess with anything that has more than one head. So let's just, uh, can I jump onto the ceiling to avoid all of this? Is that a thing that I've even able to do?
+
+[Speaker 1]
+I'm trying to figure out why you guys can't see, um, sorry. It's giving me about 8 billion messages about, there's literally a light source here. Why is it not working?
+
+[Speaker 2]
+I don't know, man. I've got a quick question.
+
+[Speaker 3]
+You know how some creatures have, uh, you know, like medusas and stuff, right? If you looked at, if you, if you pulled like the classic Greek hero and looked at it through a mirror or like a shiny surface, would you still turn to stone?
+
+[Speaker 1]
+I think you would. No, because you're not looking directly at its eyes. Okay.
+
+I just have a light that's useless here. It decides that it doesn't want to, it doesn't want to actually produce light. Useless.
+
+[Speaker 2]
+One more, enjoy.
+
+[Speaker 1]
+All right, so there's a creature with multiple heads over here. It is green and covered in green scales. Uh, you can see little, little puffs of poison, uh, just kind of drifting off of its nostrils.
+
+It is currently asleep. There is a large fresco behind it that looks like, um, there's a large fresco behind it, uh, that appears as a, where do I put this? No, no, I had it right.
+
+There's a large fresco behind it that looks like a large wall of water and the image itself is shifting and casting light onto this creature. Why are you sending me that?
+
+[Speaker 5]
+Um, yeah. Um, in all of Susudio's, uh, couple of years of traveling, has he ever seen anything like this?
+
+[Speaker 1]
+Go ahead and roll me. Anybody who is a, uh, anybody can roll me, uh, nature or arcana check. And those of you who are rangers can make this with advantage.
+
+[Speaker 5]
+Arcana. Susudio has no idea what this is. Absolutely none whatsoever.
+
+[Speaker 4]
+Hey, James, you want- Ryder is fairly sure it's a big fucking beast.
+
+[Speaker 2]
+Hold on, uh, somebody asked me a question.
+
+[Speaker 8]
+Yeah, I said do you want, uh, Rez Potato eating ASMR?
+
+[Speaker 4]
+No, I do not. Fucking hell. Although, uh, potato based characters are based.
+
+[Speaker 1]
+Please. Pretty please. Let's see here.
+
+Oh, where did, uh, where did Tiana go?
+
+[Speaker 4]
+Gone. The guild will have our head if we lose another adventure like this.
+
+[Speaker 1]
+Still on the server. I think she, uh, or wait, no, no. He lost, uh, internet.
+
+[Speaker 2]
+Oh no.
+
+[Speaker 1]
+Okay, those of you who got above a, let's see here. Yeah, probably this, probably 16th and above. Understand that there, that this is a, uh, variant hydra.
+
+[Speaker 2]
+Oh.
+
+[Speaker 1]
+It's kind of a, it's a result of dragons breeding with hydras specifically. Oh no. Or otherwise getting, uh, some kind of, uh, draconic infusion or infusion of draconic magic.
+
+[Speaker 3]
+I can't even see. Dang it, the wizards are at it again.
+
+[Speaker 7]
+I thought the wizard council banned this shit, bro.
+
+[Speaker 3]
+You know how they are.
+
+[Speaker 4]
+There, there, there's always that one, that one weirdo wizard, you know, we all know who that wizard is.
+
+[Speaker 8]
+Is the door there closed?
+
+[Speaker 4]
+No, it shouldn't be.
+
+[Speaker 7]
+Oh, I can see slightly more now, but I still can't see the hydra.
+
+[Speaker 5]
+Hmm. How do I get out of the light?
+
+[Speaker 2]
+Uh, I wish I could be part of this world.
+
+[Speaker 1]
+If there's a light source further down, you should be able to see that specific light source. I don't know why it's not doing that. Anyways, there's a hydra.
+
+[Speaker 3]
+Thank you.
+
+[Speaker 1]
+What are we going to do? Oh, there we go.
+
+[Speaker 3]
+If, if I move forwards, I can see it, but I don't want to move forwards to light it up with my thing, so I'll pretend I can see it.
+
+[Speaker 5]
+I don't care if I can see it. I'm just gonna stand right here.
+
+[Speaker 3]
+Fireball.
+
+[Speaker 1]
+You guys are on the clock, by the way. Oh, right. Except for, I'm gonna pause it, because I really want to make sure that Kiana doesn't just like lose access to the session.
+
+[Speaker 5]
+Does this thing, this thing doesn't like freeze you, right?
+
+[Speaker 3]
+It's, we can see poison drifting from it, so it's probably poisonous.
+
+[Speaker 5]
+Poison isn't too much of an issue for me.
+
+[Speaker 3]
+That's nice. Of course it's not. Oh, uh.
+
+[Speaker 5]
+So, I don't know how I can help in that way. Maybe I could probably go first.
+
+[Speaker 3]
+We could back off and take a different door.
+
+[Speaker 2]
+How does that sound?
+
+[Speaker 3]
+That's a fantastic idea.
+
+[Speaker 8]
+Okay, but like.
+
+[Speaker 2]
+Think of the XP. Think of the beautiful XP.
+
+[Speaker 8]
+I know, I know. Think of the monetary perspective. There's lots of treasure to be gained.
+
+A lot of gold and booty.
+
+[Speaker 5]
+You cannot enjoy the gold if you are dead.
+
+[Speaker 4]
+Look at it this way. I don't have to stand in the poison in order to chop off heads. I can stand with reach, 10 feet away from the hydra, and just chop, chop, chop.
+
+Three attacks per turn. I can do 20. I can do 20.
+
+25 points of damage by myself. I just need somebody to either toss a fire cantrip, or I have to walk. Right.
+
+I don't. Fine.
+
+[Speaker 5]
+I can probably cast entangle. I can go up there and attack it.
+
+[Speaker 4]
+We can cover it with oil. I have flasks of oil. I can toss it and cover it in oil.
+
+And then we light it on fire.
+
+[Speaker 5]
+You know a very fun fact? You know a very fun fact?
+
+[Speaker 3]
+It's asleep.
+
+[Speaker 4]
+Really?
+
+[Speaker 3]
+It is? We don't have to fight it immediately. Yes, that was the first thing you mentioned.
+
+You said that it's asleep.
+
+[Speaker 4]
+Even better. I have traps. If I can take 10 minutes, I can make a, under the guise of a magic user, I can make an improvised fire trap, which covers six tiles.
+
+It's going to be on fire, people.
+
+[Speaker 5]
+10 minutes in the other room? Yeah. We can just shut the door really, really quietly.
+
+Silently. Sneak into the other room. We'll make that.
+
+Come back. Set it up.
+
+[Speaker 4]
+We have to get it out of the pit of water that it's in, though, in order for fire to work.
+
+[Speaker 5]
+It's in water. Oh, it's in water? Fucking fantastic.
+
+[Speaker 4]
+Yeah, it's in water. I never mentioned that.
+
+[Speaker 5]
+Oh, okay.
+
+[Speaker 1]
+No, there's water.
+
+[Speaker 5]
+There's like a ripple thing behind it or something like that.
+
+[Speaker 8]
+Yeah, there's water behind it. Okay, guys. Here's my idea.
+
+Here's my idea. I have a bow, and I happen to be really good with said bow. And?
+
+Fine. What if I just, like, sit by the door and be really annoying?
+
+[Speaker 3]
+We can also- Since it's asleep, it'll also just automatically fail and tangle, so.
+
+[Speaker 5]
+So who else said that they were willing to go up and attack it head on? Because they have a couple of attacks.
+
+[Speaker 3]
+I also have a bunch of fire spells.
+
+[Speaker 7]
+I have Burning Hands, Fireball, Hellish Rebuke, and Scorching Ray.
+
+[Speaker 5]
+If we can get the jump on it, I think we can take it. I'm willing to, you know, attack it. But you guys need to also be willing to attack it.
+
+[Speaker 3]
+I'll be doing this as long as I'm very, very far away from it.
+
+[Speaker 5]
+Yeah, I think that some people should stay far back. You should not be on the front lines because this thing is dangerous. But the people that can do the most damage should be right up at it.
+
+If that's how they do the most damage. If they do the most damage from the back lines, like with a bow, then obviously stay back with the spellcasters.
+
+[Speaker 3]
+You know what I could also do? I could cast Tiny Hut, which means that you can jump in, you know, let's see, larger nine creatures.
+
+[Speaker 5]
+Wouldn't the fire just burn up the poison? Creatures.
+
+[Speaker 4]
+And all we have to do now, I take ten minutes, it's sleeping. So I build a trap using ten minutes. Now it's a poison-type trap that deals fire damage.
+
+That means every turn, at the start of its turn, it takes fire damage. All we have to do is chop heads off, make sure it keeps on getting ticked for fire, and it should be done-ski.
+
+[Speaker 5]
+I don't have anything to cut heads off. Do you think that... Well, I mean, I do, but I can't use my dagger, I can't use it for that.
+
+So I need...
+
+[Speaker 4]
+No, I'll be doing that. Because I can stay ten feet away, outside the poison circle, and just chop it. Don't die.
+
+[Speaker 5]
+I mean, I would... Sorry, go ahead. Oh, is the fire gonna be...
+
+If I was to stand near it, would the fire get me?
+
+[Speaker 4]
+Only if you act... Okay, so the trap works on tiles, right? And...
+
+If you step on the tile, you activate the trap. So we have to make sure that it's the hydra that activates the tarp. And since we have range users that can anger it, we can dump damage on it, turn one, and have it enrage, and we can stay back, we don't have to stand on top of it.
+
+It'll most likely try to charge us, right? It's a beast, so it'll charge in a straight line against us. Or it'll go on the roof, in which case, fuck me, right?
+
+But I have six tiles to work with. I can stack... If I take two tiles in front of me, and then I take two tiles on top of that, and two tiles on top of that, I think I can tell the DM that I'm making a roof-to-floor trap.
+
+[Speaker 5]
+Okay. Well, I'll stay at the door in case it tries to rush at us, and I can hit it there.
+
+[Speaker 8]
+And another thing, I can temporarily front line for our team due to Blessing of the Raven Queen.
+
+[Speaker 5]
+Does anyone have a spell that can make it sit in place? Like that laughter spell that makes everybody giggly? I have Entangle.
+
+[Speaker 4]
+I have Power Word Stun.
+
+[Speaker 5]
+So it can just stay in one place and get continuously hit by the trap?
+
+[Speaker 2]
+Mm-hmm.
+
+[Speaker 3]
+If I cast Entangle, it'll just be wrapped up, and then you can use Stun as a last-minute thing if it breaks out of it again.
+
+[Speaker 4]
+Yeah, one thing about my Power Word Stun is that it also stuns me.
+
+[Speaker 3]
+Last-minute resort. Don't use that straight away. DM, question.
+
+Can you still viciously mock through Tiny Hut since it's technically not like Cone of Cold or anything?
+
+[Speaker 1]
+Or does that count for... I don't think it counts for that spell.
+
+[Speaker 3]
+Ah, pity. So, can't be cast out of it. Alas, I can't just mock people through it.
+
+[Speaker 1]
+Also, I have to walk around the counter here.
+
+[Speaker 3]
+Ah, pity.
+
+[Speaker 1]
+Which you guys did get earlier.
+
+[Speaker 3]
+No Tiny Hut then.
+
+[Speaker 4]
+I'm going to start marking... Actually, I'm going to try and make the trap stealthily. So here is a stealth roll.
+
+Do we have that plus ten bonus?
+
+[Speaker 1]
+Right now, Tiana is currently gone. I tried calling them twice. Or I tried calling Fallen twice.
+
+Fallen's still on the server, so I don't think that they just straight up left. But I do think that their internet went out. Okay.
+
+[Speaker 4]
+In which case, a normal stealth check. I have to put the tiles... I have to almost walk up to it.
+
+It's a random encounter.
+
+[Speaker 5]
+You said something about a random encounter.
+
+[Speaker 3]
+I guess then I will prepare an action in that once the Hydra wakes up, I immediately cast Entangle.
+
+[Speaker 4]
+I am marking the tiles that will be trapped.
+
+[Speaker 5]
+What are you giggling at?
+
+[Speaker 1]
+I might just not be audible right now. Which is kind of unfortunate. I don't know if you guys heard me giggling.
+
+[Speaker 5]
+We heard you giggling and it's unsettling. Stop it.
+
+[Speaker 4]
+Stop giggling. Oh god. My stealth check is awful.
+
+Oh people. People help.
+
+[Speaker 2]
+It's going to go fucking bad.
+
+[Speaker 1]
+I'll definitely put him inside the room while this is happening. I just need to clear these things off. Let's hear it.
+
+[Speaker 8]
+I hope this... I know. Let's do a good fight.
+
+Duh-duh.
+
+[Speaker 5]
+Well.
+
+[Speaker 8]
+We're moving inside.
+
+[Speaker 5]
+Plan for the best. Prepare for the worst. Let's go guys.
+
+[Speaker 1]
+We're going to be down in a row for... Oh Jesus Christ. You guys are going to be aware of it while it's inside this room.
+
+[Speaker 7]
+Former President Barack Obama.
+
+[Speaker 8]
+Okay. I'm like right by the door. Can I just like close the door?
+
+[Speaker 7]
+I didn't leave him in there. I will TPK.
+
+[Speaker 4]
+I will animal handling this Hydra and have it fucking eat you guys.
+
+[Speaker 5]
+Hey. I'll just step out. I'll just jump out of a window and...
+
+[Speaker 4]
+I'll step the drought. That's my job.
+
+[Speaker 8]
+The giant motherfucker that is not... That is not a Hydra. The giant motherfucker that has multiple legs and looks like...
+
+[Speaker 1]
+You are able to close the door by the way. Oh, thank you. That's totally fine.
+
+It is going to begin slamming against the door. Which is going to wake up the Hydra. Well, the alternative is that it bites him in half.
+
+But it's going to wake up the Hydra anyways.
+
+[Speaker 5]
+Okay.
+
+[Speaker 7]
+Is there another thing?
+
+[Speaker 1]
+Yeah. No, I told you guys. I was like, hey, this is a random encounter.
+
+Hey, this is a random encounter.
+
+[Speaker 5]
+Yeah, but we don't know what the random encounter is.
+
+[Speaker 1]
+That's... Right. But the point is that people kept talking about stuff that they were going to be doing.
+
+I just...
+
+[Speaker 4]
+As quickly as I can, I try to exit the room.
+
+[Speaker 5]
+It's called planning.
+
+[Speaker 4]
+No, it's... Oh no. Oh no.
+
+Finally.
+
+[Speaker 5]
+I'm guessing that we are doing initiative now.
+
+[Speaker 4]
+Yes, you are.
+
+[Speaker 5]
+Finally, alright. We're shifting.
+
+[Speaker 1]
+What the fuck are we doing?
+
+[Speaker 8]
+Oh, that is terrible.
+
+[Speaker 1]
+If I say there's a random encounter, that means it's either going to be... Either it's going to be... What, Ryan?
+
+[Speaker 7]
+I said fellas, we're done for. Oh, sorry.
+
+[Speaker 6]
+Oh my god, a seven. That's not good.
+
+[Speaker 4]
+Oh god, I beat the Hydra by one. Oh, god bless.
+
+[Speaker 2]
+Sorry.
+
+[Speaker 4]
+I know what I'm going to do.
+
+[Speaker 8]
+Alright, so I'm stopping the centipede from going through the door, but if I move away from the door, I'm kind of boning the whole party, is what you're saying.
+
+[Speaker 1]
+Right, which you are free to choose to do. I would never begrudge you that. Oh god.
+
+[Speaker 8]
+I have made a clear line of sight though on the Hydra from here.
+
+[Speaker 1]
+Is there... Do you think of some way that you could fire at it? Do you think of some way that you would be able to fire at it and...
+
+[Speaker 8]
+I mean... The way I can think of firing at it, I do have a line of sight. I could use the weight of my body to press against the door.
+
+It would probably make it harder to shoot, so maybe imposing disadvantage or something. We could do that. Alright.
+
+That would be normal. Does a 25 hit the Hydra?
+
+[Speaker 1]
+25 hits the Hydra. And also just roll fucking damage. It'll kill you.
+
+It'll kill your family.
+
+[Speaker 4]
+Fucking Anthrax melee. I swear.
+
+[Speaker 8]
+15.
+
+[Speaker 2]
+Okay. 15 damage.
+
+[Speaker 1]
+19 hit? 19 will just hit. Okay.
+
+Update that. There we go. Alright.
+
+[Speaker 8]
+I'm gonna use action surge immediately. If I can find the fucker.
+
+[Speaker 4]
+We've dealt 35 damage. How many heads does it currently have, James?
+
+[Speaker 1]
+Oh, holy shit. You're level 12? Oh, wait.
+
+No, no, no. No, you're level 5. That's my mistake.
+
+Level 8 ranged fighter. Okay. Oh, wait a second.
+
+You only have... You already rolled two attacks.
+
+[Speaker 8]
+Oh, if you're wondering, it's because Gloomstalker.
+
+[Speaker 1]
+Oh. Because you get... To get like an extra attack at the...
+
+Yeah, that sounds about right.
+
+[Speaker 8]
+Yeah, very first turn.
+
+[Speaker 1]
+Okay.
+
+[Speaker 8]
+And that's my turn.
+
+[Speaker 1]
+5 damage. I...
+
+[Speaker 8]
+I actually managed to hit all of those.
+
+[Speaker 3]
+Good job. Has the Hydra awoken by now, on account of being hit? It was already awake.
+
+On account of the... Oh. Oh.
+
+Then can I have my prepped action entangle work?
+
+[Speaker 1]
+Uh, no. Because, like I said... Like I said earlier, like, the random encounter was happening.
+
+[Speaker 5]
+Okay, fair enough.
+
+[Speaker 2]
+Okay.
+
+[Speaker 1]
+Um... There's a lower door knocking at the door, and also there is a... Okay.
+
+[Speaker 5]
+So there's a knocking at this door? Right here?
+
+[Speaker 1]
+No, at the one to the right of you.
+
+[Speaker 5]
+Oh, the one to the right of us. Okay. I'm gonna turn to everyone and say, we all have to fight.
+
+Um, and then I'm gonna... I'm gonna come through here, and... How...
+
+I have... How far can I go? You know what, it'll tell me.
+
+Um... Right there. Should be enough to hit it.
+
+Um, and then I am going to... Trajectory... Unarmed attack...
+
+17?
+
+[Speaker 2]
+Missing, so...
+
+[Speaker 5]
+Okay. Well, I have another one, so it doesn't matter. 27!
+
+[Speaker 2]
+Hits! Yeah!
+
+[Speaker 5]
+Got a hit. Um, and then I also have... Uh...
+
+I have Stunning Strike. I'm gonna hope that it works. I don't think it will, but I'm gonna hope.
+
+[Speaker 2]
+Um, and... Yeah, that's one key point. Try it out.
+
+Ooh! Damn.
+
+[Speaker 5]
+Alright, well, that was me. Uh, it's been good knowing you. I hope that my sacrifice makes a difference.
+
+I'm gonna get bitten in half. That's my turn. Oh, wait, hold on.
+
+[Speaker 1]
+I'm still...
+
+[Speaker 2]
+Oh, it's never asleep. Hold on a second. God damn it.
+
+Give me a second. It's still prone, right? Nope.
+
+Uh... Oh, boy. Okay.
+
+Um... Since I'm a...
+
+[Speaker 5]
+Since I'm a Grung, does the poison work when I hit, or do I have to manually do that? Because I am... I am poisonous.
+
+If you touch me, you get poisoned. So, you know, if anybody plans to touch me, I have a coat for a reason.
+
+[Speaker 4]
+That's Stranger Danger. Uh... Okay.
+
+[Speaker 2]
+Cool.
+
+[Speaker 4]
+Okay, um... Has to succeed on a saving throw or be poisoned.
+
+[Speaker 2]
+Yeah, you can do, uh... It's immune to poison. So, I can...
+
+Redry him. He's probably... Yeah, he's probably not...
+
+[Speaker 5]
+He's probably immune to poison.
+
+[Speaker 2]
+I started looking over, I was like, uh...
+
+[Speaker 1]
+I was like, oh, wait a minute. No. All right.
+
+[Speaker 7]
+Anything else for your turn? Uh... Did we take off one of its heads yet?
+
+[Speaker 5]
+Nope, we haven't.
+
+[Speaker 1]
+We've dealt a lot of damage. Let me look at...
+
+[Speaker 2]
+But, yeah, no, that's my turn. 25 for more damage in a single turn. One of its heads died.
+
+Okay. Okay, so one of them will...
+
+[Speaker 1]
+So, one of them will be killed by... By Sekiro.
+
+[Speaker 2]
+Okay.
+
+[Speaker 4]
+And, uh... And, uh, don't forget the, uh... The ranger.
+
+Who did, like, the... Massive amount of damage. Oh, he's Sekiro.
+
+Okay, okay.
+
+[Speaker 1]
+Okay, uh... Let's see. Sekiro, go ahead and make me a...
+
+Athletics check at disadvantage. Whoa. Oh, shit.
+
+[Speaker 8]
+Greetings! Oh, my God. Oh, sweet baby Lord Jesus.
+
+Greetings, everyone.
+
+[Speaker 1]
+How many... How many attacks does this thing get? I'm gonna do something funny.
+
+[Speaker 8]
+No.
+
+[Speaker 7]
+I can't even... Don't say that, Liam. I'm scared.
+
+[Speaker 1]
+Uh-oh. Uh-oh.
+
+[Speaker 2]
+What?
+
+[Speaker 1]
+Uh-oh.
+
+[Speaker 2]
+God.
+
+[Speaker 1]
+Sekiro, you take... 50 damage.
+
+[Speaker 2]
+Oh, shit.
+
+[Speaker 5]
+Stop it, Sekiro.
+
+[Speaker 3]
+Stop taking damage. Did you trigger... Did you trigger an attack of opportunity?
+
+[Speaker 1]
+It's about to. Uh, because it's gonna run through this door. With a very grappled Sekiro.
+
+So, anybody... So, Rock can make an attack of opportunity. I don't see where Heart is.
+
+I don't know if I accidentally moved Heart.
+
+[Speaker 3]
+I'm standing in the same... I'm standing in the same spot that Lady Evelyn is. Okay.
+
+Just so that people could see the Hydra. Can I make an attack of opportunity? I'm a little behind, but, you know...
+
+Yeah, there I am.
+
+[Speaker 1]
+Anybody who has a melee weapon can do so. Wait, wait, no. Oh, I do.
+
+Oh, because, uh... Uh, I have a Polnareff. I know.
+
+I have a melee weapon.
+
+[Speaker 3]
+All right, let's go. Let me... Please pretend it's with my magical rapier.
+
+It's just that it doesn't have its own attack button.
+
+[Speaker 1]
+No, it's fine.
+
+[Speaker 7]
+And I miss. Probably.
+
+[Speaker 3]
+Okay, that definitely hits.
+
+[Speaker 1]
+Why am I sideways? How do I fix that? Uh, click on your token and...
+
+Uh, scroll. And also, please ask that question in chat. I will apply damage here.
+
+Cool.
+
+[Speaker 3]
+Clip damage.
+
+[Speaker 1]
+All right, sweet. That's a huge, huge 11, so it should be... It should be slightly lower.
+
+Anyways, that was its turn. Tiana is probably going to fire on the Centipede. I'll have her do that in a moment.
+
+[Speaker 4]
+Dryder, it is your turn. Uh... Dryder looks at the chaos that ensues and shouts to the party, Back up plan!
+
+Let the monster titan fight amongst themselves! Fucking run!
+
+[Speaker 3]
+And then?
+
+[Speaker 4]
+We can handle one giant thing that almost one-shot kills people. But we have to try and save the ranger and then fucking book it. Because we can't fight both of these things.
+
+[Speaker 1]
+Okay, so it should be...
+
+[Speaker 4]
+What can I do to help the ranger that's grappled? You can... I need the...
+
+[Speaker 1]
+Something that you could do pretty easily is you could make a contested roll. With your action to get Zekira out of its grasp. And that would prevent him from getting swamped.
+
+[Speaker 4]
+Okay, is that strength?
+
+[Speaker 1]
+It is strength.
+
+[Speaker 4]
+Okay. I will rage.
+
+[Speaker 7]
+Bro. You let go of my ranger!
+
+[Speaker 4]
+Still has a chance of beating it. I think I have an advantage on strength checks while I'm raging, right?
+
+[Speaker 1]
+Your... Attempt is rebugged. No, you have two attacks.
+
+You can do the second one. This is basically where you grapple.
+
+[Speaker 4]
+So I'm fighting with this thing and it's not letting go. Let him go, you bastard!
+
+[Speaker 3]
+Yeah, let's go.
+
+[Speaker 4]
+Bro! Oh my god!
+
+[Speaker 3]
+Jeez, Louise, that thing is strong!
+
+[Speaker 8]
+It's almost like it busted through a fucking door I was trying to keep it out of.
+
+[Speaker 1]
+Alright, anything else for you, children?
+
+[Speaker 4]
+Booking it. I'm moving... It's like, I can't get him loose!
+
+Shit! And I'm booking it. I'm moving 40 feet upwards.
+
+This way! Proccing attacks of opportunity from the necrotic centipede, probably.
+
+[Speaker 2]
+Okay, so she's also going to... When I say she, I mean Tiana. Tiana is also going to do...
+
+It's... The second one does an additional 1d8. What is that?
+
+That thing is fucking nuts! It's... That's just a weapon with an extra eye attached to it.
+
+Alright, and then...
+
+[Speaker 4]
+Oh, Dryder moved? Dryder moved. Okay.
+
+I think I should move. Party, should I move? You already moved.
+
+Are we staying? Should I try and save the ranger? I was...
+
+Does it have reach? Does the hydra have reach? What do you think?
+
+I think it has reach.
+
+[Speaker 7]
+All those things have like 20 feet of melee reach or something? Or is that another creature?
+
+[Speaker 4]
+Reach is 10 feet. Yeah, that hits. I have resistance due to...
+
+That also hits. Three hits? Is that what that is?
+
+How many hits does it have? I've asked this question like four times now.
+
+[Speaker 1]
+It starts with five hits.
+
+[Speaker 4]
+It has four hits.
+
+[Speaker 1]
+And that's why you shouldn't ask it in the chat. Because that helps me not miss it.
+
+[Speaker 3]
+Has anyone done fire damage to the thing?
+
+[Speaker 1]
+I have not. It has not been my turn yet.
+
+[Speaker 4]
+It gets an extra reaction. If it has four heads, it gets three attacks against me, right? For each head, you don't want.
+
+An extra reaction.
+
+[Speaker 1]
+Okay, so I don't know if you think it might damage any of those. Those were all attack rolls.
+
+[Speaker 4]
+And so shall we.
+
+[Speaker 2]
+So I go back to 79.
+
+[Speaker 1]
+Okay, so it hit you three times. Okay. For a grand total of 39.
+
+Also, Secure Rock did not make an attack of opportunity. It wouldn't do it against the...
+
+[Speaker 8]
+I did. Oh, you did? Yeah.
+
+And it missed. Oh, I'm sorry to hear that.
+
+[Speaker 1]
+Alright. In any case...
+
+[Speaker 2]
+It's your turn.
+
+[Speaker 1]
+It's the Hydra's turn.
+
+[Speaker 8]
+Please tell me that the giant monsters are going to have a monster tango.
+
+[Speaker 3]
+That would be fun.
+
+[Speaker 4]
+If we brace the doors, they might. And we need to... I think I'm going to toss a flask of like...
+
+Oh, shit. The irony is that the necrotic... Oh, wait, no, no, no, it doesn't have poison immunity.
+
+[Speaker 2]
+It also has to roll.
+
+[Speaker 1]
+Alright, so Zekira and this thing have to roll... I think that one is called... Perfect.
+
+It's supposed to be five plus... Yeah, you make it anyways.
+
+[Speaker 4]
+Zekira takes a great way through the poison smoke and just goes like...
+
+[Speaker 1]
+I roll for the Hydra. That's not what I'm supposed to do. Let's try that again.
+
+Okay, it's fine.
+
+[Speaker 3]
+The centipede's fine?
+
+[Speaker 1]
+Might take that as a sign. You take half of 45, which is 22. I've got 4 HP.
+
+Oh, shit. Goodbye. I have damage.
+
+And then... Three heads are going to attack... The Grung.
+
+[Speaker 3]
+Oh, god. Are you dead? Are you down?
+
+Sorry.
+
+[Speaker 4]
+We're about to lose people here. Who are you asking specifically?
+
+[Speaker 3]
+Zekira, who's just been poisoned to end.
+
+[Speaker 1]
+Okay. Let's see here. So...
+
+The Grung takes... What's your face? Ah, god.
+
+Throgitha. Throgitha, are you there?
+
+[Speaker 5]
+Yes, I am. Sorry, I was muted. Hello.
+
+[Speaker 1]
+No worries. You take... Assuming that a 17 hits...
+
+[Speaker 5]
+Let me actually look.
+
+[Speaker 1]
+Does that hit?
+
+[Speaker 5]
+Probably does. No. Oh.
+
+Maybe. Hold on. Actually, hold on.
+
+I'm on the wrong thing.
+
+[Speaker 1]
+I know. You have 18 off glass. That's wrong.
+
+I have 18. You only take... You take 20 damage from the Grung.
+
+20 damage. Okay. And at the end of the Hydra's turn...
+
+I'm going to use a little indicator here to indicate how many heads it currently has. It now has... Six heads.
+
+Wait. No, no, no. That's wrong.
+
+That's wrong. That's wrong. Um...
+
+It's three... Twice as many as it lost. So...
+
+No, no. It does now have six heads.
+
+[Speaker 3]
+Yeah, we need the fire damage.
+
+[Speaker 2]
+We need the bookie.
+
+[Speaker 3]
+Yeah, I can't...
+
+[Speaker 7]
+It's turn... My turn is after it. So I will not be able...
+
+To do fire damage on it.
+
+[Speaker 3]
+No, no. If you do fire damage now... And people hit it...
+
+If we do fire damage now and we hit it later... It will not heal its next turn.
+
+[Speaker 2]
+Okay, that's cool.
+
+[Speaker 3]
+It's just unfortunate that... You ended up after it.
+
+[Speaker 7]
+Yeah. Literally going right after it... Is the worst possible...
+
+I could have... That could have happened.
+
+[Speaker 1]
+Yeah.
+
+[Speaker 4]
+Ryan, see if you can try and save the ranger. That's like grappled. Because he's going to get...
+
+Swallowed by the centipede. And we need to basically try and save the party... And run to the chimney.
+
+[Speaker 1]
+Hey, hey, hey! Let me do my stuff.
+
+[Speaker 7]
+Yeah, let me do my stuff. I'm going to cast command on the necrotic centipede. And I'm going to command it to drop the ranger.
+
+[Speaker 1]
+It does not have a terribly high intelligence here.
+
+[Speaker 8]
+It's a wisdom. More wisdom.
+
+[Speaker 7]
+Okay, so it fails. So it drops the ranger.
+
+[Speaker 1]
+All right. Sekiro, you are no longer restrained. How long did this drop, by the way?
+
+Your fault. Right now it's close to the ground. You're okay.
+
+Okay. Hey, I'm alive!
+
+[Speaker 8]
+Just, you know, blood pouring out of my body. But I'm fine.
+
+[Speaker 1]
+Let's see here. Everyone, anything for your bonus action?
+
+[Speaker 7]
+Do I have anything I can actually use for a bonus action?
+
+[Speaker 1]
+While you are thinking of it, come and go ahead and take your turn. And then type in the chat if you figure a bonus action out.
+
+[Speaker 3]
+I've got just the quick question. If I levitate someone, would that trigger an attack of opportunity?
+
+[Speaker 1]
+Generally... So if you grapple somebody, if you use Gust of Wind, or if you use a pushing attack, it won't force an attack of opportunity.
+
+[Speaker 3]
+Awesome, cool. But just double-checking, both the Hydra and the Centipede have already used up their attacks of opportunity?
+
+[Speaker 2]
+The Centipede... It's funny you mention that.
+
+[Speaker 1]
+The Centipede actually did not use an attack of opportunity against the Drider, because it had Zekira in its mouth.
+
+[Speaker 3]
+So that means... That means I'm going to go and grab Zekira so he can move away from the Centipede and not die.
+
+[Speaker 8]
+I'll be fine. I have Blessing of the Raven Queen. I'll be fine.
+
+[Speaker 3]
+Okay. And... You good?
+
+You good where you are? Because I do want to later try and cast Entangle to get them.
+
+[Speaker 2]
+Or are you just going to keep stabbing at the Hydra? Pragatha. What?
+
+Sorry, I was typing something. Yes, sorry.
+
+[Speaker 3]
+Do you want to be moved away, or are you good? I think I can get away. Okay.
+
+Then I will just... Let's see. Then I will cast...
+
+Ta-ta-ta-ta. Just to make life harder on the Hydra in general, I cast... Yeah, just Vicious Mockery once again.
+
+And... Let's see. Insults.
+
+Just do the Wisdom saving throw while I'm trying to think of an insult for it. Just a pure abomination.
+
+[Speaker 4]
+Can you put it on the Centipede since it has reactions? Yeah, okay.
+
+[Speaker 3]
+That's a good point. Alright, so I insult the Centipede. And once again, insult its...
+
+Why is it so big? That is disgusting. I just sort of look it up and down and go...
+
+Oh, cool, it fails. Five. And then it has...
+
+Disadvantage on its next attack.
+
+[Speaker 8]
+Hey, you heard its ego. Heard you shouldn't do that. Okay, boys.
+
+[Speaker 3]
+That's the end of my turn. Hold on, actually, I'm going to move a little bit away.
+
+[Speaker 5]
+Yeah, I need to start heading out here. That's where we're trying to escape from.
+
+[Speaker 1]
+We have to provide vision, not automatically... Okay, can you guys see the Hydra now? Yes.
+
+No, not really.
+
+[Speaker 3]
+I can see a little bit. If I move away from it, no. Not unless I move my token away.
+
+[Speaker 4]
+If we can manage to evacuate the room, and we can brace the door, there is a fair chance we can get the two unintelligent beasts to start monster rushing.
+
+[Speaker 1]
+It is your turn.
+
+[Speaker 3]
+I'm going to use the lesson of the day. Just please imagine I moved away because I couldn't see it.
+
+[Speaker 8]
+I'm going to use Blessing of the Raving Queen to get the fuck out of here.
+
+[Speaker 2]
+Yeah, good idea.
+
+[Speaker 8]
+And I'm going to use my movement to go here, and would it be possible to use my action to try and just hunker down and hide? Yes. Oh, thank God.
+
+[Speaker 4]
+Okay. And so, Sudio, you're a shot caller on this. If you manage to get to that centipede...
+
+[Speaker 1]
+Oh, yeah, I'm going to mute you if you keep doing the crosstalk.
+
+[Speaker 4]
+Oh, sorry.
+
+[Speaker 1]
+I mute it. Let's see here. Alright, Krogotha.
+
+What is Susudio going to do?
+
+[Speaker 5]
+Susudio is going to completely disengage. He is... Fuck this.
+
+He's out, alright? He is gone with the wind.
+
+[Speaker 2]
+Alright.
+
+[Speaker 5]
+He's going to disengage.
+
+[Speaker 2]
+Which door are you going out of?
+
+[Speaker 5]
+Uh... Here. I'm just going to...
+
+Yeah, do I have to go around them, or can I just go through them? I'm pretty small, so I should just...
+
+[Speaker 4]
+You have to click them.
+
+[Speaker 5]
+Hm?
+
+[Speaker 1]
+You have to click them in order to go through them.
+
+[Speaker 5]
+Okay.
+
+[Speaker 3]
+Well, 30 feet... You know, you don't have to use your key if you're just disengaging, since that in of itself is an action.
+
+[Speaker 5]
+Um... Alright, okay. Yeah.
+
+I don't know how that works. I'll just put my key point back then. Um, where...
+
+Actually, yeah. I'll just have jumped over. Where's the door that we're going?
+
+I can't really see anything. Yeah, sorry.
+
+[Speaker 3]
+Let me try and swivel around so you can see it. That's again why I'm just there, so that... Oh my god.
+
+Let me select... Selecting token. And please let me turn.
+
+There we go. Do it, do it, do it, do it, do it, do it.
+
+[Speaker 5]
+Okay, so right here is where we're leaving. I'm also gonna shut the door behind me. I don't know how.
+
+I don't know, yeah. I'm gonna shut the door behind me. Um, and...
+
+Continue just... Hauling ass out. What does that say?
+
+Oh, okay. Yeah, that's the machine. Resolve.
+
+That's my turn. I'm also just gonna put my... She's not doing anything.
+
+Why is she doing that?
+
+[Speaker 3]
+That's so weird. But since everyone is out, I can move to where I want it to be which would also be out to the door and straight up just Womp here I'm gonna steal lady That's so you guys can see this direction Oh No, so this is just so you guys Worry about it.
+
+[Speaker 1]
+I was just trying to fix something Yeah, no, but it was like at the end of combat battling Tis the centipedes turn I Really think that the centipede and the Hydra is gonna be some rather vicious goings-on In the next room over all right Tiana is just gonna carry her centipede Party I'm rooting for the centipede.
+
+[Speaker 3]
+I hope it wins Yeah, me too, but I don't think it will all right try there. What would you like to do I?
+
+[Speaker 4]
+Would like to try and Okay, I'll spend ten feet of action moving up to the door and I'll spend an action using any available Materials in the room to barricade said door be back in a moment
+
+[Speaker 1]
+No works, oh, yeah, there's a bench by the thing you can totally use that, okay
+
+[Speaker 4]
+I'll Hang on you probably want to strength check or something to the barbarian tosses the fucking bad shit flips the day silly fine
+
+[Speaker 1]
+cool I
+
+[Speaker 4]
+Ram it up against the door Don't and then I'm hauling ass That's 20 that's 30 That's 40 feet of moat, so I'm at the chimney.
+
+[Speaker 7]
+Oh Boy you can do this every time you barricade it has success Yes Are we Lady it is now your turn There's not much I can do you know I'm gonna Go over here Or like right here Or actually like down here Yeah, that's it All right, I'm just too common Well, I am also going Anytime Anytime or two just just in the general area.
+
+[Speaker 1]
+Let me turn around so you can see there we go I just imagine you're spinning around the whole time One does at this point in the round you guys if you would like to escape feel free to do so Somebody probably needs to help rock. I just realized make the 70 foot climb downwards What no 60 foot I?
+
+[Speaker 3]
+Have class It's smart enough it could probably hold the broom like a stick in its mouth and float downwards Okay That's acceptable, okay, can't really control the room.
+
+[Speaker 1]
+It's fine for it to yeah, that's okay.
+
+[Speaker 5]
+I Love that that's just so cute. I would pet the dog. Oh, but it's not really safe, so Yeah, that's the gloves Yeah, I'll need to get get some gloves I just haven't the studio hasn't really been near people for a while, so he's a really needed to Fair enough fair enough all right down the chimney we go are we going down the chimney guy I?
+
+Am oh yeah
+
+[Speaker 8]
+We could also like stay here tend to our wounds real quick and go back into the spray
+
+[Speaker 5]
+You can
+
+[Speaker 3]
+Next door We can tend to our wounds on a lower level, how does that sound Safest part we know it's great here It's a cool idea you you know you know the hydra's next door right the door you're the door that The door that drivers at is oh yeah sure if you barricaded, that's fine
+
+[Speaker 8]
+Then we can ride kind of injured and it might be physically demanding at my current
+
+[Speaker 3]
+State time We can rest What my pact spells bad I?
+
+Do have song of rest so people who are injured can also not be I Like not being injured I forgot I was missing like So are we taking a break you do not have to take the potion of greater. Why did you do that I?
+
+[Speaker 8]
+Just need to heal or take any yes
+
+[Speaker 3]
+But if we're taking a break if we're taking a break, then you would have been able to just you know roll your
+
+[Speaker 1]
+Yeah, probably a limited rate he might he might actually need This is how it's entirely possible that he needs to based on what might happen across the next couple days, yeah
+
+[Speaker 3]
+Okay, so um are we taking a rest or now
+
+[Speaker 8]
+Yeah, let's rest while they do get it out in the other room probably so
+
+[Speaker 7]
+Before how does that work?
+
+[Speaker 3]
+Basically anything that's regenerated by a short rest you were game you can expend any of your as many as you hit dice as you want to um to get health and Yeah, that's about it Let me get song of rest up And I just I sing a lovely song about that sounds a bit like a lullaby I guess let's see
+
+[Speaker 7]
+That is the exact And I get my back
+
+[Speaker 5]
+Alright, I'm at full health this goes to studio So everyone's all healed up ready to go with their
+
+[Speaker 2]
+Their bonus HP, I'll just bonus HP like like temp HP No, it's it's both.
+
+[Speaker 1]
+It can be either I think but it takes the form of regular HP first And yeah, I'd get Because I used to want to hit I was only missing Let's just do the here Long breath long breath anyways music Regain hit points. They regain an extra one day six hit points. Yeah so it's just That wouldn't take you past your max.
+
+That would just heal you up to full There are some features in fifth edition, which will If they take you past your maximum, they'll heal as temporary hit points and then there's a few exceptions Yeah, and then there's something to give you temporary hit points without healing you at all I like I'm healed up.
+
+[Speaker 3]
+All good.
+
+[Speaker 2]
+All right, I'm good. Let's go gang.
+
+[Speaker 7]
+I like warlock.
+
+[Speaker 2]
+I got my spells back That's nice bust bust All right, so down the chimney the dog gets levitated That is actually a cute image now that I think about it down the chimney. Oh Wait now that we're in this room. Actually, can I harvest from the the dead centipedes or they so little nothing much will come out of it Sorry, can you ask that one more time?
+
+Oh I'll say now that we're back in this room Would I be able to harvest from dead centipedes or are they so little it wouldn't really obtain anything Go ahead and make a roll for it.
+
+[Speaker 1]
+I don't know so best to messages roll for it if you get high then I will Okay Sorry about that lighting situation by the way, that's No idea what's going on over there Got an 18 sure you get a vial of centipede poison What is what does it do it poisons Is it particularly deadly Specifically paralyzes people.
+
+[Speaker 5]
+Oh, okay I'm just gonna have it be slightly even after you then from the actual centipede itself The studio knows all about this and he goes into deep detail about it when he sees you harvesting it I Think I thank you generously being like, oh, that's very interesting.
+
+[Speaker 3]
+Thank you very much. As you know, I'm harvesting slightly distracted But I am paying attention to what you're saying So we've gone down the chimney now, we're back to level six
+
+[Speaker 5]
+When you go down the chimney you hear like gross suction cup noises as the city is going down
+
+[Speaker 3]
+You know the sculpting
+
+[Speaker 1]
+Go ahead and create an item with that
+
+[Speaker 2]
+Thank you very much Now put it in my consumables Which doesn't mean to poison it would be so funny Just a quick question
+
+[Speaker 3]
+When you say if they're reduced to zero HP Um, they get the poisoned effect even though they are at Zero HP.
+
+[Speaker 1]
+That's correct. Is it paralyzes them instead of stabilizing them?
+
+[Speaker 3]
+Oh I see So they become poisoned and paralyzed at zero HP which is unfortunate even when they get okay, thank you that makes sense You're trying to assassinate somebody and make sure that they don't get back up Uh-huh. Thank you What a deadly combination That's why being immune to poison would be so funny you just put some in your drink and be like hey you want to Try this you take a sip and you give the rest of them being like Poison tastes nice.
+
+[Speaker 5]
+Yeah, you'd have a hard time poisoning somebody if they're Like do you think poison would just taste like, you know different flavors to them?
+
+[Speaker 3]
+Like, oh this poison tastes like, you know, great soda I Suppose you know how like chocolates poisonous to like every animal but humans, right? Yeah Yeah, so probably be the same thing.
+
+[Speaker 5]
+They'll be like, oh, this is nice for sure that man insect rules this planet It is also rumored that assassins blood tastes like cool it You are a frog what what is your Giants my What do grunts eat hold on, um Whatever the diet of a grung is I don't know flies like giant flies. I You know Whatever, whatever is meaty. I don't know.
+
+I have two little he opens his mouth. He's got like two little teeth in the front Like a Kind of disturbing. Well, you know, there's a couple of frogs out there IRL that actually do have like two little teeth in the front It's very cute What type of folks that I might have heard of them and man frogs I'm googling that real quick Frogs oh those things.
+
+[Speaker 3]
+Yeah. Yeah. Okay.
+
+I know what you mean. They're vicious The first the first result was literally for for YouTube was basically insane takedown They use their one brain cell for violence Such as their rights So we just chilling at the bottom of the right now we're See here.
+
+[Speaker 1]
+I'm just typing shit out. I think I'm gonna get done tonight So I think you guys are gonna have to backtrack to the the dungeons
+
+[Speaker 2]
+The dungeon start and rest there if you'd like
+
+[Speaker 5]
+Okay, yeah after that life-and-death situation we're all a little bit, you know too nervous to go back in
+
+[Speaker 2]
+Is
+
+[Speaker 1]
+See both these guys have been reduced below half hit points and see if one or both of them
+
+[Speaker 2]
+They both lose morale Good I don't need them happy Well, the funny thing is that also means that the
+
+[Speaker 1]
+Centipede your you guys already did your progress.
+
+[Speaker 2]
+So I'm gonna say that the centipede went the other direction after it Went the other direction after it went back down the hole or maybe didn't go back down the hole at all They've went through one of the other doors Well, did it run away from the Hydra or did it kill the Hydra?
+
+[Speaker 1]
+They both ran away from each other Okay, that sucks.
+
+[Speaker 5]
+Now. We don't know where either are You Know there's just you know an injured a very angry and injured Hydra and a very angry and injured centipede somewhere What are an injured angry? Monster than just an angry monster.
+
+[Speaker 2]
+No, the next time you guys meet it We need more minions, you know We need minions I can probably bring out my the bag of tricks and just make sure they state So would we be like short resting or long resting at the entrance of the thing We're ending it here, right?
+
+[Speaker 1]
+Yeah Probably towards the entrance is leave you guys if you guys stay inside the dungeon you haven't like cleared any of these floors or Found a safe place to rest yet. So yeah, there's still too many unknowns Yeah, no, I was just wondering are we long resting or short resting there just so I know what to probably do You would be long resting because the day is so right now if you pull up a simple calendar, it is the was at the 17th of this particular month and then even if you just play tomorrow, then it'll be the It'll be the 18th Okay.
+
+[Speaker 2]
+Thank you And you recover hit points.
+
+[Speaker 1]
+I you know, I just got to add the module for this and hope that it works properly We'll do some testing on it. It's a slow natural healing variant. Usually it doesn't really matter because people are Coming in and playing anyways People are usually their characters are usually playing in like Like one week gaps and there's plenty of time they heal and stuff like that On an island, right?
+
+[Speaker 2]
+This is an island.
+
+[Speaker 5]
+Yeah, okay, so I'm good. All right.
+
+[Speaker 3]
+There's the summary for today Very nice.
+
+[Speaker 1]
+Very nice. I will post XP soon. It was a shame that you guys did not there's treasure in that room I'm sure but there was also death Okay, real quick Um Let me put something this way the the lower level The lower levels always have better loot but sometimes like regular levels can have Can have more deadly monsters, which are more deadly than Them would be appropriate for the level because they're coming up from a different.
+
+Does that make sense? Hmm Just just strategy wise Immigration, I was definitely expecting you guys to keep going through the level six area to get into the Dwarven hold I was like, oh shoot Does anything ever go as expected No, it's fine That's my recommendation you guys got 300 platinum pieces and you got oil of etherealness you got five doses of it Oh, okay.
+
+[Speaker 3]
+Let me just make a note of that.
+
+[Speaker 2]
+No, it's fine. You're gonna put it in the loot thing Anyway, I think you guys can it should be Six Because if it's six we can split it pretty easily just just put times five At the end of oil of a theory on us.
+
+[Speaker 3]
+I'm five. It's also in I
+
+[Speaker 1]
+Should what I'll do is I'll put five doses and because right now in discovered items I have
+
+[Speaker 2]
+One bottle that's you can Exactly so if you're going to discovered items There's a little thing that says oil with the realness five out of five Wants to keep a hold of it I Would y'all mind if I take it I'm a sneaky dude, I don't mind
+
+[Speaker 5]
+Studios only in it for the experience anyway So, let's see
+
+[Speaker 3]
+1 2 3 4 5 6 6 So 3,000 divided. Oh, that's that's actually perfect.
+
+Let's say 3,000 divided by 6 everyone gets 500 silver pieces Hmm Excellent.
+
+[Speaker 4]
+Are we able to split doses off from the oil because I'll take a dose of
+
+[Speaker 3]
+Ethereum is it's it it's in a bottle so Yes, it's in a bottle
+
+[Speaker 4]
+Okay, you transfer it from a bottle into another bottle cuz I'll go violence Oh God, no
+
+[Speaker 2]
+I'll like a bottle
+
+[Speaker 4]
+Oh
+
+[Speaker 8]
+500 silver pieces, I'm gonna have a nuclear bomb at the ready
+
+[Speaker 5]
+Missiles at the ready
+
+[Speaker 3]
+You know, it's not actually that hard to build one It's just the whole finding materials, but like once you got all the stuff together, you can build one pretty easily
+
+[Speaker 8]
+That's that's fucking wild
+
+[Speaker 1]
+the thing about chat GBT, especially in the early days was that you It wouldn't if you asked it how to enrich your rain, oh, yeah five it wouldn't work but if you said you enrich uranium 235 by placing it by placing a Depleted uranium inside a paper bag and roasting it over a fire then chat GBT would respond with a correction
+
+[Speaker 2]
+I
+
+[Speaker 3]
+Wasn't it like people Okay, and they were just like but tell it to me like a grandmother telling me a story
+
+[Speaker 1]
+Stories of how she used to make you cocaine Oh grandma
+
+[Speaker 2]
+Very much
+
+[Speaker 8]
+All right. So James, can we discuss the properties of the arrow? I'm going to craft
+
+[Speaker 1]
+yeah, please just give me a rough give me a rough outline of the arrow range damage and anything else that you think should happen and Then it's probably gonna be really simple and then just put that in the chat and I'll say fix this assist And that's the easiest way to go about it
+
+[Speaker 4]
+easy I'm gonna give it like half range since it's like an improvised bolt with extra added weight and shit
+
+[Speaker 8]
+It reminds me of y'all seen the original 1987 predator, right?
+
+[Speaker 3]
+No, sorry. Yes.
+
+[Speaker 8]
+I have certain explosive yeah, so when Dutch uses the gunpowder in a I Forgot those under barrel grenade launchers for is like I don't even remember the name of his assault rifle, but basically under barrel grenade launcher he uses the gunpowder and that wraps it and I Don't know what but he does use it with a bow All right, he uses a bow and arrow with an m204 shell.
+
+[Speaker 2]
+That's a 40 millimeter canister So as a game done Mm-hmm. Yep. Yeah, then I gotta go At this one.
+
+All right, or good morning.
+
+[Speaker 3]
+I'm not sure what time it is for you. So I'm pretty sleepy Then good night It's uh, it's very late for me and I need to do work tomorrow.
+
+[Speaker 1]
+So good night as well Thank you, bye fun playing with YouTube it was a blast I only wish that shoot that was I Had to pull the whole thing out of my ass. We were originally going to Return the limbo dial and then Bar had computer issues to where like her headset wasn't working Yeah, so Improvisation, I just went home. I was like, all right, we're gonna go back to the dungeon.
+
+This is the same area.
+
+[Speaker 5]
+It's fine Technical difficulties Sorry, I was late I uh My my mother's birthday was today and I was busy and then I went to sleep I woke up.
+
+[Speaker 4]
+I Almost missed the entire session due to taking the tattoo Oh tattoo. Yeah So I managed to do the three and a half hour tattoo session and I got home like 15 minutes before this session started.
+
+[Speaker 5]
+Nice. I Love tattoos. I love getting tattoos.
+
+I only have two but I will get more I'm gonna tattoo
+
+[Speaker 4]
+It's one issue for the better picture in town hall, but it's a it's a Japanese will be mask Or ever they called the Right, but when I when it's in profile, I like to rest On my It makes a good profile
+
+[Speaker 2]
+indeed
+
+[Speaker 8]
+For my birthday actually, I'm getting a tattoo of Lorna Shore on my back Say deathcore band nice I
+
+[Speaker 5]
+Refuse to get any kind of fandom tattooed on me Because I don't want to accident. I don't want to tattoo something on me and then Come out that like the band or something is like full of pedophiles Yeah Fucking genocidal maniacs or something like Upper back Because I have long hair.
+
+[Speaker 8]
+So if you want to see it, you're gonna have to you know, lift up the hair Ah, and the only people I would see I would be like significant others and shit.
+
+[Speaker 5]
+I Want I see I have a toad tattooed on my ankle and a book quote on my arm. I want a frog tattoo I want a little little cartoon froggy not like a cartoon froggy, but like a line drawing like somebody doodled a frog Little frog doodle.
+
+[Speaker 2]
+Maybe the cowboy hat or something something I can like draw accessories on with a sharpie Very nice already people I'm gonna sign off for a little while.
+
+[Speaker 1]
+I might hop back on voice later tonight if anyone wants to hang but I'll probably be asleep. I'm still pretty tired And I feel like I felt like talking to people for the last few nights It's fun.
+
+[Speaker 2]
+It's just something long coffee.
+
+[Speaker 1]
+That's the other thing It won't it wouldn't be Sir James is I'm not gonna try and say you're alive Trice and have you never heard of like Barbra Streisand the Streisand effect.
+
+[Speaker 5]
+I Have not Mom calls me that every night Awful This I love it I Mean I answer things with like your mom all the time So anytime somebody asks me a question, my first instinct doesn't matter what the question is is to say your mom Yesterday yeah, just like I did your mom. Oh, I love your mom jokes my at my internet here When I set it up, I set it up as your mom. So that's what my internet thing is called.
+
+[Speaker 1]
+I Should definitely roll for more of these rooms in advance and just start drawing them out What's better? So James where should I message the properties of the arrow Just drop it in drop it in your character thread and then put it on yeah, just just I Know I just put in your character thread.
+
+[Speaker 2]
+That's fine. Okay. Okay with that.
+
+I'm going to Fuck off I'll see y'all like what? Oh, man, you guys are you guys Oh, man, yes I'd be We have feel bad because that's just kind of like a session I read I Get it. I don't think that's fair.
+
+It's kind of a session. I ran on my ass. That wasn't The end today, no, no, we're supposed to return a little bit It's still be fantastic like girlfriend And you still be fantastic.
+
+My girlfriend may be home I'm gonna say no You're not a chopper Not how that works that works The part about is actually is Because this time I actually am That's like five moves. I was me. Oh my god step behind it Instead this time Perfectly This time it's me people except I'm perfectly Perfectly happy If I just say no, we're not the best I'll do it Oh I mean another get another fancy at a magic sword until fine Yeah You're wrong in every puppy Outside
