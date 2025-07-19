@@ -1,4 +1,4 @@
-[Speaker 6]
+[Referee (James)]
 This is a test.
 
 [James]
@@ -18,7 +18,7 @@ I'm doing all right. A little sleepy. I freaked out.
 
 I had like a schizo moment last night after I got home. As my, uh, my, my toilet kept spontaneously, like, I don't know, not flushing, but doing that thing where it's like refreshing water or whatever.
 
-[Speaker 6]
+[Referee (James)]
 And I heard a noise.
 
 [James]
@@ -66,7 +66,7 @@ Give me that intruder. All right. So Levin, this is your first session, which me
 
 Your first session.
 
-[Speaker 6]
+[Referee (James)]
 Woo.
 
 [James]
@@ -293,7 +293,7 @@ Oh, that might have just been the last group. They'll probably be vanquished.
 [Speaker 7]
 Quick summary.
 
-[Speaker 6]
+[Referee (James)]
 I'm just going to keep going. Umm. We can do it.
 
 It's good. I hope. It's good.
@@ -508,7 +508,7 @@ I'm going to let it look kind of stupid. They look like things to kill.
 [Kuji]
 They look like lobsters, ale with lobster claws.
 
-[Speaker 6]
+[Referee (James)]
 You're right.
 
 [James]
@@ -735,7 +735,7 @@ Let me move the screen. I'm begging you. Give me a sec.
 
 I need my mouse.
 
-[Speaker 6]
+[Referee (James)]
 It goes over there.
 
 [James]
@@ -746,7 +746,7 @@ Unmute, please. I don't like that. Where did it go?
 
 Um, can I delay my turn more?
 
-[Speaker 6]
+[Referee (James)]
 Sure.
 
 [Kuji]
@@ -829,7 +829,7 @@ I'm going to do a little shocky shocky.
 [James]
 Oh, I have to make it safe first.
 
-[Speaker 6]
+[Referee (James)]
 There we go. Bear?
 
 [Kuji]
@@ -889,7 +889,7 @@ I'll do that. Because it popped up within their range. Yep.
 
 Go ahead. I'm just going to do a little pop.
 
-[Speaker 6]
+[Referee (James)]
 Ooh, very good.
 
 [James]
@@ -912,7 +912,7 @@ Okay, good, good, good. Okay, so I don't... The first strike that I hit you with
 
 But I am going to make another strike. With death frenzy.
 
-[Speaker 6]
+[Referee (James)]
 Oh.
 
 [Kuji]
@@ -1183,7 +1183,7 @@ Just cook it. It will be fine.
 [Manaia]
 The devious creature. During this break, what are you guys up to?
 
-[Speaker 6]
+[Referee (James)]
 I think we all went for breakfast.
 
 [Rusk]
@@ -1347,7 +1347,7 @@ Not going to bars is cheaper than going. If you ever go there, take a glass. The
 [James]
 Not going to bars is really stressful and that has like second order expensive effects. Me not having my ADHD medication for like two weeks now because of a single idiot fucking doctor that's causing me to eat a lot more because I have more of an appetite. They have received my network.
 
-[Speaker 6]
+[Referee (James)]
 Hello.
 
 [Manaia]
@@ -1362,7 +1362,7 @@ Don't listen to the devil on your shoulder, listen to me.
 [Rusk]
 The devil on your- Okay, so the devil on my shoulder is very convincing and Oh dear. I'm going to survey the party with skeptical eyes.
 
-[Speaker 6]
+[Referee (James)]
 You're an idiot.
 
 [Rusk]
@@ -1633,7 +1633,7 @@ I thought a shield would be inherently good. You're protecting foes.
 [Mantra]
 You must kill everything in your sight. Christ. That was a real one, by the way.
 
-[Speaker 6]
+[Referee (James)]
 We go to a church.
 
 [Kuji]
@@ -1751,7 +1751,7 @@ Ooh, yay.
 [Rusk]
 Hold up, I do have, like... I guess a question, but...
 
-[Speaker 6]
+[Referee (James)]
 Yeah?
 
 [Rusk]
@@ -1873,7 +1873,7 @@ Yep.
 
 You managed to kill the Goblin.
 
-[Speaker 6]
+[Referee (James)]
 Woohoo!
 
 [Kuji]
@@ -1929,7 +1929,7 @@ Wait, sorry, did I end my turn? I did not. There we go.
 [Kuji]
 Koochie's going to go up there and use his action to attack anything that comes nearby. Come on, commandos! This one goes out there and he does a shriek.
 
-[Speaker 6]
+[Referee (James)]
 Ah!
 
 [Kuji]
@@ -2300,7 +2300,7 @@ No swarm?
 [James]
 Nope. Yeah, it's killed the other one too quickly.
 
-[Speaker 6]
+[Referee (James)]
 Yippee!
 
 [Kuji]
@@ -2536,7 +2536,7 @@ Ah.
 [James]
 Alright, that's enough waiting while I... get ready for the big nonsense.
 
-[Speaker 6]
+[Referee (James)]
 Okay.
 
 [James]
@@ -2627,7 +2627,7 @@ Uh, I think Rusk is... Yeah, Rusk is sitting on here.
 [James]
 I hope he doesn't unsub. I've been revealed. Oh, no.
 
-[Speaker 6]
+[Referee (James)]
 Oh, no.
 
 [Mantra]
@@ -2877,7 +2877,7 @@ Where do you want to go? I'm trying to ping it. You don't have to...
 
 Nevermind.
 
-[Speaker 6]
+[Referee (James)]
 You don't have to kill the wall.
 
 [James]
@@ -2890,7 +2890,7 @@ Okay, so this would be... The wall that's pictured. Why is it saying that color?
 
 Yeah, so that is 25 feet and they're going to be good there.
 
-[Speaker 6]
+[Referee (James)]
 Alrighty.
 
 [James]
@@ -3058,7 +3058,7 @@ Did someone open the door?
 [Manaia]
 Someone opened the door. I think that was... Let's go that way then.
 
-[Speaker 6]
+[Referee (James)]
 Okay!
 
 [Manaia]
@@ -3168,13 +3168,13 @@ So do I add any bonuses to this?
 [Mantra]
 You make an athletic... You don't suffer a penalty. ...to the DC. And then... Oh yes, Mr. James?
 
-[Speaker 6]
+[Referee (James)]
 Mm-hmm.
 
 [Mantra]
 Can Mantra aid with athletics?
 
-[Speaker 6]
+[Referee (James)]
 Yeah. Okay.
 
 [James]
@@ -3250,7 +3250,7 @@ I thought you were implying that you were, like, going to go straight at them? N
 
 Without what is happening? So the dwarves on the other side, they hear somebody else speaking Dwarven, and they're like, Hey! Help!
 
-[Speaker 6]
+[Referee (James)]
 Kill these fucking things!
 
 [Rusk]
@@ -3373,7 +3373,7 @@ We are fighting them. Diplomacy failed. Language barrier too strong.
 
 And I was trying to ask the Nixies first before asking the dwarves. That was my bad.
 
-[Speaker 6]
+[Referee (James)]
 That's the problem.
 
 [Manaia]
@@ -3478,7 +3478,7 @@ Okay, I guess.
 [James]
 Ring is not a trait, okay? If you insist. I feel like you're lying to me.
 
-[Speaker 6]
+[Referee (James)]
 Another one, okay.
 
 [Rusk]
@@ -3566,7 +3566,7 @@ Don't add that damage. Apparently I have to roll for crit. Well, I...
 
 I'm just doubling it.
 
-[Speaker 6]
+[Referee (James)]
 Oh!
 
 [James]
@@ -3628,7 +3628,7 @@ There. It is... It is a 27...
 
 Will save. I can only do this one time, but...
 
-[Speaker 6]
+[Referee (James)]
 You should have done it with a horse.
 
 [Manaia]
@@ -3726,7 +3726,7 @@ Okay. Give me a moment to assign targets, which are all of you. Unless Minaya is
 [Manaia]
 Minaya? As much as I would like to lie, Minaya cannot fly continuously.
 
-[Speaker 6]
+[Referee (James)]
 Alas.
 
 [Manaia]
@@ -3803,7 +3803,7 @@ Wait, what the... Wait, what just happened?
 [Kuji]
 I am... What happened to your initiative? ...healing. I pressed a random button and it moved me.
 
-[Speaker 6]
+[Referee (James)]
 What are you talking... What the f...
 
 [James]
@@ -3885,7 +3885,7 @@ Let's see. I think she's going to... Uh, can you make me a...
 
 What is it? Defense will? Can you make me a will save?
 
-[Speaker 6]
+[Referee (James)]
 Who?
 
 [James]
@@ -3935,19 +3935,19 @@ Okay, I didn't see the damage for the thing. Alright, sweet. I was like, because
 [Mantra]
 Yeah. Alright, thank you.
 
-[Speaker 6]
+[Referee (James)]
 You're most welcome.
 
 [Mantra]
 They are going to stride around to here, and they are going to Flurry of Flows, and that will be the end of their turn after.
 
-[Speaker 6]
+[Referee (James)]
 Oh.
 
 [Mantra]
 Yeah.
 
-[Speaker 6]
+[Referee (James)]
 Oh. Pain, death even.
 
 [James]
@@ -3973,7 +3973,7 @@ Dude, okay. Remind me to move the dead bodies as well. Go ahead and make your sa
 [Mantra]
 I'm going to use Halfling Luck to reroll the crit now. Alrighty.
 
-[Speaker 6]
+[Referee (James)]
 Nice.
 
 [Mantra]
@@ -4170,7 +4170,7 @@ Distracting yourself, eh?
 [Rusk]
 I'm the best distraction, who knew?
 
-[Speaker 6]
+[Referee (James)]
 Look over there!
 
 [James]
@@ -4335,7 +4335,7 @@ This is still rolling off the verge.
 [Rusk]
 I say we fight this.
 
-[Speaker 6]
+[Referee (James)]
 Okay. Shit. Okay.
 
 [Rusk]
@@ -4592,7 +4592,7 @@ And then get ready to do it again.
 [Rusk]
 Yes!
 
-[Speaker 6]
+[Referee (James)]
 Alright!
 
 [Rusk]
@@ -4659,7 +4659,7 @@ Yes, but it would have been...
 [Kuji]
 That's true, if you went down and finished it off, you would have taken it.
 
-[Speaker 6]
+[Referee (James)]
 True, true.
 
 [Kuji]
@@ -4760,7 +4760,7 @@ You can see who's... Remember, you do have the cool knife I gave you. The spark 
 [James]
 That does seem rather important.
 
-[Speaker 6]
+[Referee (James)]
 Yes.
 
 [James]
@@ -5060,7 +5060,7 @@ Yeah, I guess I'll... I'll go up here. So I'll use two actions to stride.
 
 And then I'll do a... I'll do a little nom.
 
-[Speaker 6]
+[Referee (James)]
 Ugh!
 
 [Speaker 7]
@@ -5151,7 +5151,7 @@ He's going to take damage though.
 [Rusk]
 Yeah, I can't use orc ferocity because... I already used my reaction.
 
-[Speaker 6]
+[Referee (James)]
 Oh no!
 
 [Rusk]
@@ -5278,7 +5278,7 @@ Well, not quite.
 [James]
 See, you guys... There's one last thing.
 
-[Speaker 6]
+[Referee (James)]
 Mm-hmm?
 
 [James]
@@ -5529,7 +5529,7 @@ I think... I must target before I make an attack. What?
 
 So it's not letting me actually make an attack roll because I'm not targeting anything? I'll use this guy.
 
-[Speaker 6]
+[Referee (James)]
 Yeah, use him.
 
 [Rusk]
@@ -5620,7 +5620,7 @@ Alright, let's go.
 [James]
 Just gonna drag you all back out to, like, the beginning of the dungeon. Ooh!
 
-[Speaker 6]
+[Referee (James)]
 Mwa ha ha ha ha! Ah!
 
 [Kuji]
@@ -6029,7 +6029,7 @@ No, no, no, no. Last time, we still had to pay 75 gold. They were just less anno
 [James]
 So probably there will be a favor SW by the temple.
 
-[Speaker 6]
+[Referee (James)]
 Yeah.
 
 [James]
@@ -6088,7 +6088,7 @@ You should divide perfectly that way.
 [Kuji]
 No, no, I was just saying, for an easy way, if you do like 500 worth of items, it'd basically be evenly between us.
 
-[Speaker 6]
+[Referee (James)]
 Okay, alright.
 
 [Kuji]
