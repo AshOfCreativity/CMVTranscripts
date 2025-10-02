@@ -1,0 +1,4638 @@
+[Speaker 1]
+Apparently we're skipping a floor? Or something?
+
+[Speaker 3]
+We're not touching the piano, we're not spending 15, no more, half an hour. I want to play the piano. Or I want to steal the piano.
+
+Fuck the piano. I'm not traumatized by pianos, I swear.
+
+[Speaker 5]
+I get school in the piano, and I get playing the piano, but fucking the piano?
+
+[Speaker 4]
+I got sleek ivory keys.
+
+[Speaker 5]
+That's better than roses on my piano.
+
+[Speaker 2]
+Tulips on my organ. That's the...
+
+[Speaker 9]
+That's better than an organ on your tulips. I saw you mention the piano, I thought it might be like a Mario 64 situation. With the teeth.
+
+[Speaker 4]
+Better to have an organ and tulips in your tulips than your organs.
+
+[Speaker 3]
+Uh-huh.
+
+[Speaker 2]
+Earned income level 2. Oh, critical success, very nice.
+
+[Speaker 4]
+I feel like I haven't done my earned incomes when I should be. And indeed you should be.
+
+[Speaker 3]
+Now I should automatically deducted 4 silver for my food for the week. How do I use the bot again? Uh, slash.
+
+[Speaker 2]
+Now it doesn't roll for you, uh, critically. I have to roll in Foundry and then do the thing.
+
+[Speaker 5]
+I hate James. In Foundry, do I need to create an actor or create a folder or anything?
+
+[Speaker 2]
+Oh no. You do need to create an actor to import your character. Okay.
+
+[Speaker 3]
+What's the date today? The 15th?
+
+[Speaker 2]
+It's the 15th. It should say Friday, obviously, but Simple Calendar has this weird bug with Pathfinder 2nd Edition where it always starts on, uh, every month always starts on a Sunday until you manually edit it.
+
+[Speaker 3]
+That, um, the module I sent that if they never update Simple Calendar, you can just import Simple Calendar into it so it might be better if you have too many gripes with Simple Calendar.
+
+[Speaker 2]
+I love Simple Calendar and all my stuff is in it. It's just, this is the only, um, this is the one bug with it. I love Simple Calendar, I just want it in, uh, in V13 is my big thing.
+
+Hey Heart.
+
+[Speaker 8]
+Hello, how's it going?
+
+[Speaker 3]
+I'm good, how are you? Are you feeling better?
+
+[Speaker 8]
+Yes, I am, in fact. Right now I'm just dealing with packing, more packing stuff.
+
+[Speaker 2]
+Which is why you haven't done any other session.
+
+[Speaker 8]
+Any what?
+
+[Speaker 2]
+Session reports.
+
+[Speaker 8]
+Yeah, I know, scandalous.
+
+[Speaker 3]
+And thank god I wasn't a player in the last two sessions, I ran at 8 writing that up.
+
+[Speaker 8]
+Yes, yes, don't worry, but I, you know, I did, I was visiting family and now I have to go to my plane ride, so not now, but like today.
+
+[Speaker 3]
+I think my iron income was a day too long, I need to take away 5 silver.
+
+[Speaker 8]
+I'm in the horror.
+
+[Speaker 3]
+All is right in the world now.
+
+[Speaker 2]
+Yippee! All right folks, go ahead and I'm going to drag you into it. I think what we're going to say is that the dwarves have, yeah, it's just like all the tokens, delete those, perfect.
+
+What we'll say is that the dwarves have temporarily secured the first floor, because they've been trying to get a tunnel to one of the third floor entrances. There's still the elevator to the Nixie Lair, there's still the well that goes down to the fourth floor, then the fifth and sixth floors, that's available from the previous campaign. I think Heart, only Heart is familiar with, I think, Landon, you didn't do a ton of the hidden bluff, I always forget.
+
+[Speaker 3]
+I did not, no, I know nothing of it.
+
+[Speaker 2]
+I'm going to set up a green template for you guys to drag your tokens into.
+
+[Speaker 3]
+I do not have permission to add my character to the party folder, I don't know if that's intentional.
+
+[Speaker 2]
+Definitely not intentional, what the hell?
+
+[Speaker 3]
+Maybe it's just Aisha, hang on.
+
+[Speaker 4]
+Ah, what level is everyone?
+
+[Speaker 3]
+I don't have permission for any of my... It doesn't look like, James, you ever got around to installing the dailies module? Or is it not active?
+
+[Speaker 2]
+I'm not sure which one that is.
+
+[Speaker 3]
+I think I sent it in the ref chat. I don't have the power.
+
+[Speaker 8]
+What does the dailies module do?
+
+[Speaker 3]
+It automates all of your daily preparation stuff, so... I want it for preparing staves, but it does other stuff as well. I think there's a fighter feat where you pick a different feat every day, you can do that with it.
+
+There's probably way more you can do with it, I know Potter wanted it for...
+
+[Speaker 2]
+Going to reload the application.
+
+[Speaker 3]
+Holy moly, I'm blessed, I have a kind god.
+
+[Speaker 7]
+Really, I should have checked for it every time I ran, but here we are.
+
+[Speaker 2]
+So right now I'm using Bluetooth. Once you guys add yourselves to the party, and add yourselves to the green template that's kind of like in the middle of the map, you can just drag, if this is your first time using Foundry, you just drag and drop it.
+
+[Speaker 7]
+I have this new server available. Right now it's just a bit slow. I wonder how big the world size is.
+
+Probably need to archive some stuff. It's not that big actually. Isn't it?
+
+[Speaker 9]
+Nope.
+
+[Speaker 6]
+Yeah, I'm getting an error, it says no currently active game session.
+
+[Speaker 2]
+There you go, so it reloaded the entire thing. That's totally fine.
+
+[Speaker 5]
+It's asking me for administrative access for Foundry.
+
+[Speaker 2]
+Just wait one moment, everything is going to be fine, just a sec.
+
+[Speaker 4]
+Why is it asking for my credit card?
+
+[Speaker 2]
+That one's up there on purpose, go ahead and fill that out. Listen, I can't set up an appointment without having the card inside. It's just the way it is, just the way my system works.
+
+[Speaker 7]
+More importantly, I don't get credit. If I don't get your credit card sale. You should be able to attempt to log in now.
+
+It's loading. I see a bunch of errors in here, but I want to make sure it's not. Great, it's kind of foggy blue at the edges.
+
+Nope. It reloaded and it crashed again. I'm sorry about that, folks.
+
+This might be the fault of dailies. It's going to suck. It's PL2E dailies, right?
+
+Yep.
+
+[Speaker 4]
+Oh no, I'm breaking things again.
+
+[Speaker 11]
+99 year old GM still makes sessions the old-fashioned way.
+
+[Speaker 7]
+This is sometimes those session starts are slow.
+
+[Speaker 2]
+They are not normally this. Hold on there. I'm writing package down.
+
+[Speaker 3]
+I'm going to say you should start the fight as we get the game.
+
+[Speaker 7]
+Sorry, can we resolve the piano while we're waiting? Technically speaking. Oh, oh, it's Lattice.
+
+I'm going to join in as Lattice. I'm going to fill my coffee while this guy gets it. No available server.
+
+Oh dear.
+
+[Speaker 2]
+Yeah, all right, we're going to have to uninstall dailies. I'm so sorry, Landy.
+
+[Speaker 3]
+I don't know. It's so strange that it just nuked the game like that.
+
+[Speaker 7]
+My bad. This is why we can't have anything nice. I guess I'll look at how my stave works.
+
+[Speaker 4]
+I told you, you get a number of charges equal to the number of the lowest spell level you can cast.
+
+[Speaker 10]
+What spells do I get though?
+
+[Speaker 4]
+Based on the stuff. Nah, based on my subclass.
+
+[Speaker 7]
+Let me just quickly pull up Rune Lord.
+
+[Speaker 3]
+Are my curriculum spells on it? No, I think it's just my lost spells. Charm command.
+
+Which feature is that one?
+
+[Speaker 7]
+The one with your stuff? It's part of the school of Thessalonian Rune Magic. So are you a wizard with the Rune Lord wizard or are you Rune Lord dedication?
+
+[Speaker 3]
+It's the same thing. You have to take the dedication if you're the subclass.
+
+[Speaker 7]
+There we go. All right, I think it's... I'm looking at the console.
+
+[Speaker 11]
+It looks to be going faster this time.
+
+[Speaker 4]
+It's the sin spells.
+
+[Speaker 3]
+From your sin up to the highest rank of spell you can cast, including your cantrips.
+
+[Speaker 7]
+So I get shield.
+
+[Speaker 3]
+All right, that's the lost days message. Charm command.
+
+[Speaker 2]
+Very cool. All right, everybody should be able to get back in now.
+
+[Speaker 3]
+I think I can actually guess why dailies fucked the server. I guess there's like 60 million player characters that was probably considering all of their preparation options every day.
+
+[Speaker 2]
+So while I actually fill my coffee this time, because I heard that the server crashed so I ran back. Go ahead and introduce your characters to one another. Just a little bit of a general description.
+
+[Speaker 9]
+Did the server just crash again?
+
+[Speaker 3]
+I think the server just crashed again, yeah. It wasn't my fault. I'm vindicated.
+
+I'm going to foundry server now.
+
+[Speaker 7]
+It's only two gigs. The wild file. Well, I have 12.
+
+[Speaker 3]
+Uh, typically you don't want your wild file to be bigger than like 100 megabytes.
+
+[Speaker 2]
+Okay, that's...
+
+[Speaker 3]
+Let's go delete all the music I've uploaded. That'll probably make it a bit better.
+
+[Speaker 2]
+That shouldn't be the thing that crashed it.
+
+[Speaker 7]
+I'd be surprised if that was the thing that crashed it. So with your, uh, what are you deciding to do with the runelord? Sorry?
+
+[Speaker 11]
+So runelord shouldn't get a bonus to delves.
+
+[Speaker 3]
+In the arcane bond and personal rune section of the runelord archetype, you... So you get the archetype technically at level one, but you don't get the dedication to level two.
+
+[Speaker 7]
+The...
+
+[Speaker 3]
+That's flavor text. You must choose a poem or a spear as your arcane bond. In place of an arcane thesis, you have a personal rune which appears on your bonded weapon.
+
+This weapon functions as a staff. Only you can prepare and contain the sin spells from your sin up to the highest rank of spell you can cast. Your personal rune isn't a property rune and doesn't count against the weapons limit of such runes.
+
+When you prepare your bonded weapon as a staff, you can physically merge one other staff in your possession into it. Adding the staff spells to your bonded weapon until your next daily preparations. While merged, the weapon hath...
+
+[Speaker 11]
+The weapon hath takes on aesthetics of the staff. The music folder is almost a full game. Not quite.
+
+[Speaker 7]
+You get two staffs! Fuck. That's awesome.
+
+[Speaker 3]
+You get two staffs. That sucks. They're single staff.
+
+They use the same charges.
+
+[Speaker 2]
+The maps is like half a gigabyte, but that's insane because there's like not...
+
+[Speaker 7]
+We don't even have that many maps yet. Was the server like this when Rez ran?
+
+[Speaker 2]
+When Rez ran, the server got a lot slower. And I think it did... It got like extremely slower.
+
+And it did crash. That's the last one that we ran, actually.
+
+[Speaker 7]
+When was Rez uploaded? That's an excellent question. It's a critical failure.
+
+[Speaker 2]
+Folks, I don't want to keep you waiting here all day. There's a good chance that we're not going to run today, given what's going on here.
+
+[Speaker 11]
+This does not make sense to me.
+
+[Speaker 7]
+I'm tempted to revert it to an earlier version. How long are you going to revert it to? Bandwidth used.
+
+7 gigabytes. How much bandwidth do I get? I get 50 gigs of bandwidth.
+
+12 gigs of storage space. Hey, James.
+
+[Speaker 5]
+If we aren't able to run today, do you normally have your server up so that we can... So I could like create... Yeah, it stays up 24-7.
+
+[Speaker 2]
+What I'm doing right now is I just upgraded it back to the $12 a month.
+
+[Speaker 7]
+More cores, more RAM.
+
+[Speaker 3]
+But typically, a 40 megabyte world is considered huge for Foundry.
+
+[Speaker 2]
+There's no way. They must mean like... But when they're saying world, that can't be including music and shit like that.
+
+[Speaker 7]
+Are you talking just about the map sites? Like everything in the world. Which I think music doesn't count because it streams.
+
+There we go.
+
+[Speaker 2]
+All right. Now we're properly loading. I am going to disable a few things.
+
+I haven't seen Xanth or whatever his name is in a while.
+
+[Speaker 7]
+Ian, awesome.
+
+[Speaker 3]
+Xanth might have played in... Was it this game? Maybe?
+
+I don't know. Oh, I wasn't there. You probably know.
+
+[Speaker 2]
+I was there.
+
+[Speaker 3]
+No, I didn't see you. Yeah, Robin hasn't. Robin hasn't made any sound in like months.
+
+[Speaker 2]
+Yeah, ideally.
+
+[Speaker 3]
+Delete her stuff.
+
+[Speaker 2]
+Oh, no, definitely.
+
+[Speaker 3]
+Holy shit, I'm in. Minotaur in front of me. I can't select my toad.
+
+[Speaker 2]
+I'm going to delete the Hollow of Helsing. Sorry, Rez. I'm going to remove the mobile module.
+
+I can't remember which one that is.
+
+[Speaker 3]
+It kind of sucks, honestly. I think it's mobile improvements.
+
+[Speaker 2]
+There's also mobile companion.
+
+[Speaker 3]
+Depends on both, though. Fuck it. I think that one's for the actual user mobile device.
+
+[Speaker 4]
+Well, they both are.
+
+[Speaker 3]
+The only person we've had play by mobile complains about every time they have to do anything. They're quality of life things, I doubt they would be taking up much.
+
+[Speaker 2]
+Yeah, it seems unlikely. All right, get ready. It's going to reload everything.
+
+[Speaker 7]
+Oh, I is in. Oh, no. No, Scotty.
+
+[Speaker 3]
+Yeah, my guess for file sizes would be like maps and images and stuff. Like you have like a lot of files and images and stuff. 50 actors with people uploading images for all of them and stuff.
+
+[Speaker 7]
+I can see a summary of storage as I'm looking over this.
+
+[Speaker 3]
+Turns out I was actually uploading all of my maps in 4K. They're actually all video files that are statics. They're just really long loops.
+
+And they're each like 10 gigabytes. You're welcome.
+
+[Speaker 7]
+Music folder, 717 megabytes. You only have 100 megabytes for map data, Landy. Otter has 345 megabytes.
+
+I'm going to bet that it's a boundary server problem at this point.
+
+[Speaker 3]
+None of it sounds egregious. Apparently, you can keep your map sizes within like 50 megabytes. Like, and that's OK.
+
+[Speaker 11]
+And like I know mine aren't anywhere near that. This is allegedly...
+
+[Speaker 7]
+Are you talking about like individual map file sizes? That's for video. I'm not sure how the world size is calculated, what is considered.
+
+[Speaker 11]
+I assume it's...
+
+[Speaker 3]
+Ideally, you want to have your maps for foundry like within... 5 to 8 megabytes.
+
+[Speaker 2]
+Yeah, world is... So there's your data folder, and then there's like a world.
+
+[Speaker 11]
+I mean, your world folder is nested in that data folder. So world for something like Chillness Valley. That's 66 megabytes.
+
+[Speaker 7]
+OK, that's a little big, but like nothing egregious.
+
+[Speaker 3]
+Might just be a bandwidth thing. Like when the server reset, we had what, like eight people trying to load into it again.
+
+[Speaker 2]
+That could be it.
+
+[Speaker 1]
+How did you get the frame?
+
+[Speaker 2]
+Folks, let me know once everybody is in.
+
+[Speaker 6]
+I'm in.
+
+[Speaker 2]
+That's probably how I should phrase it. Is anybody not in at this point?
+
+[Speaker 4]
+I'm not in. This thing's loading in for me. Bad gateway.
+
+I think he's unconscious. Oop, successfully done eating.
+
+[Speaker 5]
+I'm a shadow. I see the anvil in the corner, but it's still on the black screen, and it's been there for a minute.
+
+[Speaker 2]
+Yeah, it's probably going to remain there for a minute. We have a bunch of people trying to connect from around the world right now.
+
+[Speaker 3]
+I'm in.
+
+[Speaker 6]
+By the way, I went with a large ancestry. If that's annoying in this dungeon, I can change it to the subclass or the heritage that has a medium token.
+
+[Speaker 2]
+It's up to you, man.
+
+[Speaker 1]
+OK. I just work here. We're about to learn how many 2x2 hollows exist in this game.
+
+[Speaker 6]
+Yeah, exactly. I'm GMing Abomination Vaults right now, and it would not be good in that zone.
+
+[Speaker 1]
+Yeah, I've played that one. The DM I've played that with sized the entire thing up, because every fucking mage is just in a literal 2x2 box that they can't escape from.
+
+[Speaker 6]
+Yeah, I am about four floors in, and I think every map after that I'm going to double the size of.
+
+[Speaker 1]
+Yeah, at least just some weird stuff like the corpses on the ground looking like giants, but I don't know, say they're giants or something. What are people going to do? Call you a liar?
+
+[Speaker 11]
+I will wait some remainder of you to log in.
+
+[Speaker 4]
+Uh, what level are we doing? I just realized that. Oh my god, it's level three now.
+
+Uh, level one, level two, level one, level three.
+
+[Speaker 1]
+We got a good range.
+
+[Speaker 4]
+Whoa, what have we got?
+
+[Speaker 1]
+Ah, dude, this is going to be rough for me. In order to afford the- I'm playing a Magus. I'm going to get my fucking ass beat.
+
+[Speaker 3]
+We have a wizard, a swashbuckler, an animus, mages, rogue.
+
+[Speaker 4]
+All right, should I bring, uh, Ky- uh, Kuji or Hooch? Like, Mr. Druid? Uh, Mr. Druid.
+
+[Speaker 8]
+Who can heal more? That's the question.
+
+[Speaker 4]
+Yeah, probably Hooch. Uh, well, Kuji has the heal spell. Like, two of them.
+
+But then Hooch has so many potions.
+
+[Speaker 1]
+Like, Druid, I've never seen one of those before. That's fun. Mission, update actor.
+
+What actor am I trying to update? I don't know. I feel like I can get more money.
+
+Level one's going to be rough for me, because in order to afford my eight gold piece fucking weapon, I had to really cut back on things like armor.
+
+[Speaker 8]
+Oh dear.
+
+[Speaker 1]
+Yeah, I bought one of those, like, uncommon ancestry weapons. A breaching pike. It's insane how much of your starting cost that shit is.
+
+You start with 15 gold, right?
+
+[Speaker 4]
+Yeah. Yes.
+
+[Speaker 8]
+Good luck, don't die.
+
+[Speaker 4]
+Where abouts are we starting?
+
+[Speaker 5]
+And, James, uh, I was hoping to be a mixed ancestry, uh, dwarf. Can I just add a- Could you add darkvision to my character? To Seamus?
+
+[Speaker 3]
+I'm not sure actually how to do that.
+
+[Speaker 5]
+It doesn't have in the character pages.
+
+[Speaker 4]
+You just have to add darkvision. If you go into foundry and just search up darkvision, and just type it in the bonus feed.
+
+[Speaker 5]
+There's greater darkvision, but not darkvision.
+
+[Speaker 4]
+Could be a familiar ability that you could just- What was that?
+
+[Speaker 2]
+Okay, so which character is this for? Seamus. Seamus, okay.
+
+[Speaker 1]
+All right, who has a fucking dinosaur? Well, I'm guessing it's the lizard folk. Very typical.
+
+[Speaker 4]
+You leave my QG alone.
+
+[Speaker 1]
+I thought it said kaiju, so it's great to learn that that's how it's said. Oh no, no, there is a kaiju too!
+
+[Speaker 4]
+Oh, Jesus Christ. I got QG, kaiju, and then kaiju.
+
+[Speaker 2]
+Darkvision isn't on there as a feat, so I don't have that at the moment. We're not going to worry about that for the moment.
+
+[Speaker 8]
+Heal twilight dweller. You can just drag and drop that. It should update it for a new- Even though technically it's not for dwarves, it will do the same thing.
+
+[Speaker 5]
+Twilight dweller.
+
+[Speaker 8]
+Twilight dweller, yes. Okay.
+
+[Speaker 4]
+You like the vampires and the werewolves and the shiny sparkliness? Perfect.
+
+[Speaker 2]
+Thank you.
+
+[Speaker 8]
+You're welcome.
+
+[Speaker 2]
+All right, assuming everybody can sit, now please drop yourselves into the green square. Add yourselves to initiative.
+
+[Speaker 1]
+Add myself to initiatives. Yep, that's about right. Seven.
+
+[Speaker 2]
+How many do we- Wait, one, two, three, four, five, six, seven. Okay, we can't have a seven-player cut. Heart, I'm going to cut you loose for this combat, because I can't do a seven-player combat for- Oh, that is perfectly fine.
+
+[Speaker 8]
+I can be doing other things in the meantime.
+
+[Speaker 2]
+Four newbies. That's what- I'm happy if you spectate as well, though.
+
+[Speaker 8]
+Yeah, I can listen in. It's all good. Whatever you'd like to do.
+
+Uh, how- Just extract me from the fight. That is all good. I'll be, uh, sorting other things out over here.
+
+[Speaker 2]
+So two people who are either not in the thing or not in initiative.
+
+[Speaker 5]
+Uh, I'm working on my inventory real quick.
+
+[Speaker 2]
+Wait, drag yourself in first.
+
+[Speaker 5]
+Uh, I'm going to be ready for the, um, all I see is prepare campsite.
+
+[Speaker 4]
+Um, up there. Drag you out. Wait, why are you- Hold on.
+
+Oh, are we dragging? Sorry. Move that into a room.
+
+[Speaker 8]
+And then- I was going to make them invisible so I could spectate. Oh, okay. Because I can't see everyone.
+
+[Speaker 3]
+I can stream my screen if you'd like.
+
+[Speaker 8]
+I'm more too visible. Okay. I think I just vanished.
+
+I'm just gone now. Oh dear. Thank you, Landy.
+
+[Speaker 3]
+You're welcome. I'm sorry if you're trying to watch and I get distracted and alt-tab.
+
+[Speaker 8]
+Oh, that's perfectly fine. I- it's okay. I get it.
+
+[Speaker 10]
+What's that? Yeah, it's a secret, as well as- No, I see.
+
+[Speaker 2]
+All right.
+
+[Speaker 4]
+So, Rez dragged- Every time he needed something, um- You're dragging new ones to the Samity Compsite.
+
+[Speaker 2]
+Yeah, from the- from the compending map. Then I'm gonna find other stuff like that. Oh no.
+
+[Speaker 3]
+Because I was working pretty fine when I ran and I had a lot of stuff going on on some of those maps.
+
+[Speaker 2]
+It just got- it just got really bad when he was running. And it still might not have been his fault, to be clear. I thought that was definitely up.
+
+[Speaker 3]
+I'm really impressed he ran a six-hour session. Jesus Christ. That was great.
+
+I was really happy with it.
+
+[Speaker 2]
+Giant ant. Indeed. But I don't know where he's gone.
+
+[Speaker 1]
+He's with us now. He's a part of the party. Not a very stealthy ant, but we saw it.
+
+Things only medium. I can't take that as a mount.
+
+[Speaker 4]
+Dinosaur. How do I ride my dinosaur again?
+
+[Speaker 3]
+Is it M? I think it mounts M. If you have your token selected and then hover, it can guide you and press M.
+
+[Speaker 4]
+Oh yeah.
+
+[Speaker 3]
+Incredible. Mount is M. Unmount is M.
+
+[Speaker 1]
+The dinosaur's supposed to be wounded and drowned.
+
+[Speaker 3]
+It just wakes up every day, fucked up.
+
+[Speaker 9]
+Not a feeling.
+
+[Speaker 1]
+He's had a rough week. Apparently. What the fuck knocks out a dinosaur?
+
+Apparently giant ants, maybe. They're apparently moving at a speed of M.
+
+[Speaker 2]
+I thought I had the level one version. Um, now I have the level one version.
+
+[Speaker 3]
+Can I watch Private Dice?
+
+[Speaker 1]
+Oh, sure.
+
+[Speaker 3]
+About to get stampeded by ants.
+
+[Speaker 1]
+Yeah, this is not loading well. About to get our shit absolutely rocked.
+
+[Speaker 2]
+Which means we're beginning, I suppose. First ant's gonna have to move. I don't believe that they don't really have hands.
+
+And the door is shut. I'm going to try to force open.
+
+[Speaker 3]
+Not using a crowbar. They're not using a crowbar.
+
+[Speaker 2]
+That's true, that's fair.
+
+[Speaker 9]
+Wait, no. I'm in front. Yeah.
+
+[Speaker 1]
+Shield should have been raised. That's an exploration activity, right? Ah!
+
+[Speaker 2]
+With its final action, that's its turn. Move in.
+
+[Speaker 1]
+And attack Tessa.
+
+[Speaker 2]
+Oh, wait.
+
+[Speaker 1]
+Oh, fuck. A great start. Ah!
+
+Get fucked, ant. A second attack. Oh, oh no.
+
+Assuming that I do actually get my shield up, because that's an exploration activity, I would like to shield block that. You're gonna shield block? Immediately using my shit.
+
+If this explodes my shield the instant I get it.
+
+[Speaker 4]
+That's probably the dumbest shield block. And like, this is my shield.
+
+[Speaker 1]
+I've also, I've had that happen before. You just get crit once by a fighter and say, I shield block, and suddenly you're still half dead and your shield's gone. One mandible strike with a miss.
+
+[Speaker 2]
+And a miss with a stick. Hell yeah. There's two in a tavern.
+
+Remind me, still listening to my wireless.
+
+[Speaker 1]
+Get in there and fuck them up. Fine. Ah, is this a hit T to target people situation?
+
+[Speaker 3]
+Yep.
+
+[Speaker 1]
+Yeah, okay.
+
+[Speaker 9]
+Oh, a hunted shark, sorry.
+
+[Speaker 2]
+Oh, there we go. Miss. Yes!
+
+[Speaker 9]
+You're dying. Oh yeah, take that.
+
+[Speaker 1]
+That'll be mine.
+
+[Speaker 3]
+That's more giant ants.
+
+[Speaker 1]
+Great news for us guys. That ants can't flank us, but it certainly can move through its friends.
+
+[Speaker 2]
+Yeah, no climb. Oh, it does have a climb speed.
+
+[Speaker 3]
+It just moves through its ally.
+
+[Speaker 1]
+Yeah. Oh no, why is it going up there?
+
+[Speaker 10]
+No. No.
+
+[Speaker 1]
+Oh wait, no, that's not bad.
+
+[Speaker 3]
+That's a beautiful wizard.
+
+[Speaker 1]
+There's this guy here, so it's not too bad.
+
+[Speaker 2]
+I think they always attack the furthest person out, wherever they're moving.
+
+[Speaker 1]
+Yeah. Let me squeeze his head. We're getting by the skin of our teeth.
+
+[Speaker 2]
+Aisha.
+
+[Speaker 3]
+My character is Aisha. She is an elven wizard. She is going to cast shield with her first action.
+
+Makes sense. That automatically... Oh no, I applied that to the minotaur.
+
+Sorry, if someone could remove shield from the minotaur. Now, if I target both of these ants and cast electric arc, and I roll the damage, it should have them... Yep.
+
+Fuck off, no way. Okay, no, we'll take it. They all take double.
+
+Very good. I'd like to use a reflex save. Yeah, they did it.
+
+[Speaker 4]
+One was a crit, one was a crit fail.
+
+[Speaker 1]
+Yeah, I'm just trying to get a read on what these guys are bad at.
+
+[Speaker 3]
+Ah, yep. Ah, that's my turn.
+
+[Speaker 2]
+Very good.
+
+[Speaker 1]
+Coochie.
+
+[Speaker 4]
+Coochie commands Kaiju to run forward and maul the big giant ant. And the guy goes... He goes...
+
+Missing. But as he misses, Coochie jumps down to try to do a little fight of his own. Plus I'm missing.
+
+It's gonna try to do another snap, and he goes num num num num. For nine damage.
+
+[Speaker 2]
+Very good.
+
+[Speaker 4]
+And that's my turn.
+
+[Speaker 2]
+Famous.
+
+[Speaker 5]
+Okay, uh, seeing everything going on, I'm gonna take a step back and give a little bit of room for the minotaur to come in smoothly, and then I'm gonna take a couple strikes at the ant between me and Esha.
+
+[Speaker 10]
+Hell yeah.
+
+[Speaker 5]
+Hit. Very good. I will just take a second swing at it real quick.
+
+Got a second?
+
+[Speaker 3]
+Hold on.
+
+[Speaker 2]
+Looking pretty bad.
+
+[Speaker 3]
+Perfect.
+
+[Speaker 5]
+That's my turn. Oh, there's my turn.
+
+[Speaker 2]
+All right, you got the minotaur up next.
+
+[Speaker 6]
+Hello, this is Cure next. He needs some room, so he's going to, I think, attempt to tumble through. We'll see how this goes against the middle ant here.
+
+Oh, a success. The big man knows how to get through. If it's okay, I think I can move here.
+
+Is that right? I believe so. Okay.
+
+And then I'm going to use this thing for the first time ever. Raise slabs. So if I can get all adjacent creatures to make that reflex save.
+
+[Speaker 2]
+Do you target all the guys who are adjacent, and then you press the message icon?
+
+[Speaker 6]
+I believe so.
+
+[Speaker 2]
+Let's have the action.
+
+[Speaker 6]
+You want me to make the reflex save for him?
+
+[Speaker 2]
+Well, you click that icon where it says DC 17 basic reflex. The little message icon.
+
+[Speaker 6]
+Okay. That, to me, makes me roll the reflex slave, I believe.
+
+[Speaker 3]
+It might be the damage that you roll, and it will ping the saves. Oh, you know what? I think you're right.
+
+[Speaker 6]
+Yeah.
+
+[Speaker 3]
+Here you go. Yeah, there's the damage. One damage.
+
+[Speaker 6]
+Classic.
+
+[Speaker 3]
+Wait, how many giant ants are there?
+
+[Speaker 1]
+That's still potentially five points of damage. Not the worst thing ever.
+
+[Speaker 5]
+Not bad. It could be 10 if they all crit fail.
+
+[Speaker 1]
+Who knows? Who knows? Hey!
+
+Wow, okay. Okay. So we're doing...
+
+We're doing six points of damage.
+
+[Speaker 6]
+So you see him run in, tumble through, knock over this one ant, and then stone rises from the ground to smack him all in the face.
+
+[Speaker 2]
+Is it like minimum one damage for half-hundred second edition, or is it about...
+
+[Speaker 3]
+I think it rounds down to zero on a save like that.
+
+[Speaker 2]
+Yeah, if I press half, then it goes down to zero.
+
+[Speaker 3]
+That'll do it for you. Trust the game.
+
+[Speaker 2]
+I'm gonna trust the game. Knock that guy prone, bro.
+
+[Speaker 6]
+Oh, cool, yeah, knock one prone.
+
+[Speaker 2]
+Which one is prone?
+
+[Speaker 1]
+Uh, the one that critically failed. This guy right here.
+
+[Speaker 6]
+End of turn? Should I hit it in return, or do you want to do that?
+
+[Speaker 2]
+Oh, you go ahead and hit end of turn. Okay. Hey, flanked.
+
+Oh no.
+
+[Speaker 6]
+Yeah, this is probably the end of Kirin-X.
+
+[Speaker 1]
+Hey, we got a Druid who is the one with the heal spell, apparently.
+
+[Speaker 2]
+Go hit the heal, turn the ants off.
+
+[Speaker 4]
+Oh yeah, I should've rolled here. The Aqua's just like, wow, okay. And healing vows.
+
+Wow, okay. You love to see that.
+
+[Speaker 1]
+He's just like, picking up his legs and being like, get off me. All right, risk. Another ant goes.
+
+[Speaker 6]
+Dude, I should've taken that pilgrim token. Suspend an action grappling hook.
+
+[Speaker 2]
+Yeah, why not? Oh no.
+
+[Speaker 4]
+What's the damage? Now we see the African fire ant style, where you just get to decimate it. Oh, critical miss.
+
+[Speaker 1]
+All right, toss. Hey, it's... Uh, so this little hobgoblin with her shield.
+
+I was going to cast timber, and then I realized that my DC is terrible because I'm more invested in strength. I'm going to spell strike the prone ant. So if I understand how this works, I make an attack against him, and that affects my...
+
+Yep, and I'm going to be putting the needle dart spell into this. Uh, so I'm going to... Now that I've hit him, I roll damage for this.
+
+So 1d6 plus 4. And then I also, I believe, cast and then do a two-action version. And then I just simply roll 3d4.
+
+So I do 11.6 damage. I killed the fuck out of that bullshit. Uh, and then instead of raising my shield, which might be the better idea given how many enemies there are around me, I'm going to, uh, use my arcane cascade.
+
+Uh, which should be piercing damage because I just used needle darts. Uh, that is my turn.
+
+[Speaker 2]
+Twink. Come down to a giant ant.
+
+[Speaker 1]
+Oh, wait, let me try to remove that. Raise shield. There we go.
+
+[Speaker 2]
+I'm just going to attack Tessa. And attempt to grab. No grab.
+
+Get luked.
+
+[Speaker 1]
+Just damage.
+
+[Speaker 2]
+Oh, fuck.
+
+[Speaker 1]
+I'm at 6 HP, boys.
+
+[Speaker 2]
+Oh, that should be, that should be this.
+
+[Speaker 1]
+Okay. Ow.
+
+[Speaker 2]
+It's turn. We have another one right next to you. This one is...
+
+Well, they go with the forward most, so this one's going to go for the larger one.
+
+[Speaker 1]
+Oh, thank God. This little shit grapples a dinosaur.
+
+[Speaker 4]
+Can it grapple two sizes larger?
+
+[Speaker 3]
+I don't know. That's one size larger, isn't it?
+
+[Speaker 4]
+Yeah. That's good. It's not huge yet.
+
+He's huge next level. And then I'll never be able to use him in a dungeon. Ah.
+
+[Speaker 2]
+Yeah, we'll try out some giant ants, uh, then grab him.
+
+[Speaker 9]
+Up to here. Make that one like home. And try another hunted shot.
+
+[Speaker 2]
+It's... It is near death.
+
+[Speaker 9]
+Yeah, shouldn't have that precision on it. I think, I don't think it's alive anyway.
+
+[Speaker 2]
+It's very, very dead. At 20 hit points, as we... Like, 20 hit points is its max.
+
+I think there was, like, no way that you weren't killing it. All right, this one, the most forward person is Seamus. Range.
+
+Back. Roll to grapple. Nice.
+
+[Speaker 1]
+Forgot I'm supposed to have a focus spell.
+
+[Speaker 2]
+And then the stinger. Ah, no cigar. Oh, it didn't apply grapple.
+
+That still would have missed because I missed by... I missed by three. And it's to Aisho.
+
+[Speaker 3]
+My first two actions, I'll cast electric arc again. Get next to me and the other one I have targeted. See it?
+
+[Speaker 1]
+Ah.
+
+[Speaker 2]
+That one takes it out. Very good.
+
+[Speaker 3]
+Last action, I'll cast shield again. And my turn.
+
+[Speaker 4]
+Fuji. All right, time to curbstomp this guy. Okay, go kaiju!
+
+He goes, rawr! And he does a curbstomp. And he goes stumpy stump again.
+
+Woo.
+
+[Speaker 1]
+Cesar's finally woken up from the wounding nap.
+
+[Speaker 4]
+Yep. And then I realized that I'm not trained for this weapon and I can't use it. It's so bad.
+
+I'm gonna cast guiding claw on that ant. Nice. Nice.
+
+So, uh, double that damage and... It's dead. Goodbye, ant.
+
+46 persistent bleed. It's dead.
+
+[Speaker 2]
+It's dead.
+
+[Speaker 4]
+Oh. Dead and bleeding.
+
+[Speaker 2]
+All right, Seamus, you are no longer grabbed.
+
+[Speaker 5]
+Oh, okay. Um, I'm going to, uh, seeing everyone's kind of nearby is dead, I'm gonna put away my weapon. I'm gonna pull out my bow.
+
+And then I should be able to target this bottom ant, the healthy one.
+
+[Speaker 2]
+Are you correct?
+
+[Speaker 5]
+Oh, okay. Ah, okay. That's my turn.
+
+[Speaker 3]
+Get him, big boy. I actually think you have an action left still. To swap a weapon adds one action.
+
+[Speaker 5]
+Oh, is it? I thought that sheathing was... Okay.
+
+[Speaker 3]
+If you're just sheathing, it's an action, but to swap is an action as well. That's really good to know. Okay, uh, yeah, we'll take another shot at it.
+
+[Speaker 1]
+Your bow explode or something?
+
+[Speaker 5]
+No. I was really concerned about putting my weapon away that I just took an arrow and just didn't even load it.
+
+[Speaker 6]
+You see this, like, ghostly apparition kind of rise out from his body as he casts Embodiment of Battle, and he comes better at his Glaive Strikes, which he takes and misses, of course. And then I think he's going to...
+
+[Speaker 1]
+I'll just move up here in order to give people room to come in. People can move through you just fine. Oh, that's a good point.
+
+Yeah, moving through allies takes, I don't think, anything additional. Yeah, let's just try again.
+
+[Speaker 6]
+There we go.
+
+[Speaker 1]
+You can walk him up. Yeah, yeah, there it is. Nine points of life.
+
+Take it.
+
+[Speaker 2]
+Very good. That brings us to...
+
+[Speaker 1]
+You also have Reactive Strike now, don't you? I do.
+
+[Speaker 2]
+The Reactive Strike, you also have Grabbed from earlier. It did not apply because it didn't automatically apply it.
+
+[Speaker 1]
+That would have been what, a 17 then?
+
+[Speaker 2]
+Oh, it still hits.
+
+[Speaker 3]
+I think it still affects your...
+
+[Speaker 2]
+Yeah, what I'm worried about is my guy's hitting. He did not want to spend an energy to grab the new target. Okay, sweet.
+
+Oh my god, finally. Go ahead and make your fortitude save.
+
+[Speaker 11]
+Fortitude save, come on.
+
+[Speaker 10]
+This is rough.
+
+[Speaker 6]
+Oh, you're out. And here is where his tale ends. The first fight, baby.
+
+Good thing character creation is such a fun process.
+
+[Speaker 1]
+They're going for it. I believe.
+
+[Speaker 2]
+All right, and do you have to make... I think you have to make another fortitude save.
+
+[Speaker 3]
+Additional exposure, yes.
+
+[Speaker 2]
+Yeah.
+
+[Speaker 1]
+That one probably succeeds at least. It's a DC 16.
+
+[Speaker 4]
+Damn. Oh no.
+
+[Speaker 1]
+That's... I believe I'm dying two?
+
+[Speaker 6]
+Is that right?
+
+[Speaker 1]
+Dying two? Yeah, you went down to a normal hit and then you got hit again.
+
+[Speaker 3]
+All right, now... Hold up. The first...
+
+The stinger hit did eight piercing damage. That would have put you to dying two. The poison damage from going to stage two of the poison would put you to dying three.
+
+[Speaker 6]
+What's... Why dying two for the first one?
+
+[Speaker 3]
+You went down to the poison, didn't you? You went down to the initial poison, right? I believe so.
+
+That would put you at dying one. It attacked you again. This piercing damage put you to dying two.
+
+And then you failed the poison save, which puts you to dying three.
+
+[Speaker 2]
+Do you want to re-roll? Oh, that counts as a separate instance? With a...
+
+It does. But do you want to re-roll fortitudes?
+
+[Speaker 3]
+You could spend a... No, you could spend a hero point to just not be dying. That's true.
+
+Isn't that on your turn now? No, it's when you increase your dying level. So you can do it as you're about to die.
+
+Which, your dying level's just increased. You could spend your hero point. Look at me go, James.
+
+Rules layering for the party. Inflicting dying three on them.
+
+[Speaker 1]
+Oh, don't worry. That next guy goes... Yeah, you get them back, you get them.
+
+[Speaker 6]
+So I'm still unconscious, though?
+
+[Speaker 2]
+Yes. But you're not wounded. Is it dying three?
+
+[Speaker 6]
+I'm not wounded at all. Or is it the one that kills you?
+
+[Speaker 2]
+By the way.
+
+[Speaker 6]
+Dying four. Yep. Do I get wounded three, or...? I...
+
+No, you're fine. No. You're just fine now.
+
+Okay. Oh my god, this fucking ant! So dying one now, is that right?
+
+Yes. Yep.
+
+[Speaker 3]
+Hey! It's not going good, Hart. It's not going good.
+
+Wow, that's huge!
+
+[Speaker 1]
+You're fucking just fine, man. Holy shit.
+
+[Speaker 6]
+It's like ants just crawling over this giant mentor, yeah.
+
+[Speaker 1]
+Okay, uh... Goat. I've never played Arcane Spellcaster.
+
+Focus points come back on a 10 minute, like, timer, right?
+
+[Speaker 4]
+Yep, you spend 10 minutes refocusing. Yeah, it's a downtime activity, so you spend 10 minutes to... Like, you're going to have something that you need to focus on.
+
+[Speaker 1]
+Tess is going to... Do I move? Okay, I'm going to move here.
+
+I'm going to target this guy. I'm going to Shielding Strike. Do not have enough focus points to cast a spell.
+
+Liar! Yes, I do. I think it's because I forgot to add that earlier.
+
+And I had to add it, like, five minutes ago. So I raise a shield, and I also make a normal melee strike against this guy. Which also disrecharges my spell strike because it's a strike I'm doing.
+
+Or it's my focus spell. So I do six points of damage to that giant ant. Fuck you, nearly dead piece of shit.
+
+So I have one action left. I think because I've got my shield raised and because I've got all this shit, I'm just going to go for a really low chance secondary strike. And I miss.
+
+And that's my target. Hm? Uh, I moved, I casted Shielding Strike, and then I...
+
+[Speaker 2]
+Oh, yes, no, you're right.
+
+[Speaker 1]
+Oh, yeah, yeah, sorry. I got the order wrong anyways. So we're good.
+
+Something's not letting me raise my shield. There it is.
+
+[Speaker 2]
+Now everybody starts to think I'm a boy.
+
+[Speaker 4]
+Yes. Oh, you get a hair point. You get a hair point.
+
+Everyone gets a hair point.
+
+[Speaker 2]
+I guess I get to do that. That was close.
+
+[Speaker 10]
+Yeah, sure.
+
+[Speaker 3]
+Uh, I'm not even gonna ask. I'm just gonna do it. I'm gonna spend an action to shred.
+
+I'll spend an action to draw a, uh, health potion. And I'm gonna feed it to Kieran.
+
+[Speaker 4]
+Save it.
+
+[Speaker 3]
+Sorry?
+
+[Speaker 4]
+Save it. Kill the ants.
+
+[Speaker 3]
+Kill the ants?
+
+[Speaker 4]
+Yeah.
+
+[Speaker 1]
+Yeah, I think he's got healing spells, and you got a tasty electric arc.
+
+[Speaker 3]
+All righty then, instead of drawing healing potion, I will target both the ants with electric arc.
+
+[Speaker 1]
+Come on, get that fucker.
+
+[Speaker 3]
+Five damage again. I love d4s. Oh, oh, is that the one?
+
+[Speaker 1]
+I think it still takes half on a basic, which means it's...
+
+[Speaker 3]
+Not dead! They both survive. Damn.
+
+You're welcome, team. That's my turn. I'll click the button.
+
+[Speaker 4]
+Cast level 2. That's living. Oh yeah, yeah, yeah.
+
+Right, 12 healing. Thank you. Thank you, sir.
+
+And then I'll get Taiji to run up here, and he's gonna do a little nom. He's gonna show me his worth! He's not gonna show me his worth!
+
+[Speaker 1]
+My turn. Still have time for this guy.
+
+[Speaker 5]
+Very nice. Okay, I'm gonna come down here, get a little bit closer to the action. And I'm gonna take a shot first at the top one.
+
+[Speaker 1]
+Oh no. The loop. The hellish loop.
+
+I'm going to...
+
+[Speaker 5]
+it looks so close to dead, I'm gonna take another shot at it.
+
+[Speaker 3]
+No! He has a hero point on the first one.
+
+[Speaker 5]
+Can I hero point the first one? Yeah, you can hero point anything. Well, not literally anything, I think it's a fortune effect.
+
+Aww. You get it, man. I just look at my bow and I'm like, this is...
+
+this is cursed.
+
+[Speaker 2]
+This happens sometimes for just like everybody else. Now conveniently, you are already above a... already above them in initiative, so paradox.
+
+[Speaker 6]
+Perfect. Let's go ahead and cast shield. And...
+
+Get out of there, man! Stand up.
+
+[Speaker 1]
+I'm gonna attack a dinosaur.
+
+[Speaker 6]
+And then... I think I'm gonna have to pick up my weapon. That'll be my three actions.
+
+I think I can stay there for now. Am I still grabbed?
+
+[Speaker 4]
+You don't need a weapon, just go. You are still grabbed. I believe in you.
+
+[Speaker 6]
+Hmm, should I escape to...
+
+[Speaker 1]
+Let's... Increase my AC a bit. You stood up, you cast...
+
+Oh wait, you can't stand up, because you're grabbed. Oh, you can't? I didn't know that.
+
+Isn't that a movement thing?
+
+[Speaker 6]
+To stand up? I don't know, that's a good question.
+
+[Speaker 2]
+That is a move action. Yeah, because it provokes reactive strike.
+
+[Speaker 6]
+Okay, well let's go ahead and... Okay, escape. If I can just do things in different order, I'll just escape, stand up, cast shield.
+
+[Speaker 3]
+That works.
+
+[Speaker 6]
+Am I getting feebled for some reason? Poison. Oh, the poison.
+
+That's right.
+
+[Speaker 3]
+Chan inflicted it. I think it was in the top one? The top one missed all of its attacks, I think.
+
+It is?
+
+[Speaker 1]
+It's the bottom one. I just assume with how harshly we've been treating this top one, that it's the one doing all the scary stuff. Oh, don't worry, someone's probably going to die.
+
+Am I rolling that one?
+
+[Speaker 2]
+Yeah, you're going to roll some venom.
+
+[Speaker 1]
+Oh, fun. Oh no. You don't have a hero point anymore.
+
+Good news.
+
+[Speaker 3]
+I believe. Feebled for, Jesus Christ.
+
+[Speaker 4]
+Well, he never lost his poison. Bye. He never lost his poison.
+
+[Speaker 1]
+Bye.
+
+[Speaker 10]
+Bye, all allies.
+
+[Speaker 1]
+Okay, you got overzealous. And we're, as new guys, level 1 characters, learning a great deal about how not to die.
+
+[Speaker 4]
+Don't run in front of poisonous ants.
+
+[Speaker 6]
+I believe in the team, is all.
+
+[Speaker 1]
+Sacrificial bull, is that the term?
+
+[Speaker 6]
+Uh-huh.
+
+[Speaker 2]
+Here we go, mandibles.
+
+[Speaker 1]
+Fuck!
+
+[Speaker 2]
+Just barely hit. Why does it have...oh, wait a minute. I got worried at first, I was like, oh no, it's still treating you as ground.
+
+[Speaker 1]
+Oh my god.
+
+[Speaker 6]
+Shield block? Oh yeah, hold on, let me do that real quick.
+
+[Speaker 3]
+Do you have shield block?
+
+[Speaker 1]
+I have shield block.
+
+[Speaker 3]
+With the spell you get it, if you cast it. Yeah, block damage. Just hope we kill them this round.
+
+Yeah.
+
+[Speaker 1]
+That was a miss. Hey, love to see that.
+
+[Speaker 6]
+I still got 11 HP, I'm fine. Miss.
+
+[Speaker 2]
+Miss. Bullshit. Alright.
+
+Hey! Had to come to be so polite.
+
+[Speaker 1]
+So... This is not within my reach. Which sucks.
+
+This diagonal shit always kills me. We're dealing with a guy... I think...
+
+I think it's worthwhile to... Yeah, I think I'm going to cast Timber on these two. Let me target both of these two guys.
+
+I'm putting it in the corner there so I don't hit the big ol' dinosaur.
+
+[Speaker 2]
+Understandable. Now, some of these, when you click roll damage, it will include the save in the message and let me click it. Sometimes it doesn't.
+
+In this case, it did.
+
+[Speaker 3]
+Where are you putting the trace? Sorry, you created it in your square. Oh, wait, it's in my square?
+
+[Speaker 1]
+Oh shit, yeah, no, you're right. Nevermind, I change all my shit. I don't do that.
+
+I move down here with one action so that this guy's within my reach. And so that this big guy can still die for me. And I'm going to make a spell strike against this simply injured one.
+
+That is a hit. And I'm putting Needle Darts into this, of course. That's my high damage boy.
+
+11 points of damage there. And then I'm also going to... Why did you look to found the Needle Darts?
+
+Okay, I did 19 points of damage. That makes me feel happy. So move, spell strike, that's my turn.
+
+[Speaker 2]
+Holy shit.
+
+[Speaker 1]
+There we fucking go.
+
+[Speaker 4]
+Toast. Little coming across now.
+
+[Speaker 1]
+Not quite ready for sacrifice yet, big man. A well fought battle.
+
+[Speaker 3]
+Ugh.
+
+[Speaker 6]
+God dammit. Okay. Nice.
+
+[Speaker 1]
+Okay. So, are we going to spend the time to heal and stuff? How do we normally do this?
+
+[Speaker 4]
+Oh no!
+
+[Speaker 1]
+You hit the wall! Oh no!
+
+[Speaker 2]
+So, I typically roll random encounters once every 1-3 dungeon turns. Which are... A dungeon turn is about 10 minutes.
+
+I'm an adult.
+
+[Speaker 4]
+She's on speedrun strats. I'm an adult. Oh.
+
+How did you even think of that? Just say we take 10 minutes and do one dungeon turn to do a little bit of healy-healy.
+
+[Speaker 1]
+Yeah, I'd say we make sure that door is closed first. We don't want those ants to spend actions forcing that door open, of course.
+
+[Speaker 2]
+Closing doors, unironically, is very handy.
+
+[Speaker 4]
+I look at someone... Anyone here good with martial weapons?
+
+[Speaker 1]
+Uh, yes. But I've got a very specific thing going on. Tazza.
+
+[Speaker 4]
+Tazza? With the aid of my ancestors, I am. I've got this fine-looking spear here.
+
+But I can't use it with my little shabby claws.
+
+[Speaker 1]
+Would you like to use it? Does that have the reach trait? Yes.
+
+Uh, is it one-handed?
+
+[Speaker 5]
+It is... I mean, you need it two-handed. It's a nice weapon.
+
+[Speaker 1]
+Give it to the big boy. He's got a two-handed weapon. And I've got a spell specifically for upgrading my weapon.
+
+[Speaker 10]
+How does that work?
+
+[Speaker 6]
+Can he just give me really powerful weapons? Is that the thing? For this session.
+
+It's on loan.
+
+[Speaker 2]
+And if you kill the person who gave it to you, then...
+
+[Speaker 1]
+Well, in this case... Probably the dinosaur and the guy, so I don't know how tantalizing an option that is. And then you bring a bunch of fucking trainees in and they just kill you.
+
+Take your shit. Get one. Now, in a little rest, I'm going to re-up my focus point.
+
+Do we have anyone that does healing over ten minutes? Yes.
+
+[Speaker 6]
+Well, thank you. May I take that? Oh, that's your toss-up, sorry.
+
+[Speaker 1]
+If there's another, I'll take it.
+
+[Speaker 4]
+One to three turns. Is what he said. Do we want to rest an extra ten minutes?
+
+Yes, please.
+
+[Speaker 1]
+I want to be level two, so I think experience would be lovely.
+
+[Speaker 4]
+I do have battle medicine and some other backup emergencies in case as well, too. Oh, okay.
+
+[Speaker 5]
+I mean, I just barely got scraped. But I'm down a little bit.
+
+[Speaker 1]
+I'm eleven of twenty. I am, uh, oh, I need to apply that. Wounded, so I'm at...
+
+I'm at eleven out of nineteen.
+
+[Speaker 4]
+Do you want me to burn battle medicines and heal these very thought quickly?
+
+[Speaker 1]
+I think I would appreciate that, yes. Sorry, what's the XP trade there you were talking about? XP trade?
+
+No, I said that random encounters would be good because they give XP. Okay, that's what I was trying to get at. I didn't know how that worked.
+
+At least I think I'm going to do. I've never done random encounters.
+
+[Speaker 4]
+Burn some battle medicine! Yes, please.
+
+[Speaker 1]
+Nice. Jesus Christ, okay, I'm at fucking full. Apply...
+
+Does this apply a different immunity to me? No, it does not. Immune.
+
+There we go.
+
+[Speaker 6]
+Cure nexus full as well.
+
+[Speaker 1]
+Hell yeah. Look at this big ol' croc.
+
+[Speaker 3]
+Hey James, are you kind enough to let me prepare my new spells I just got?
+
+[Speaker 2]
+If they're available.
+
+[Speaker 3]
+I just hit level 3, which gives me second rank spells, but normally you prepare spells at the start of the day.
+
+[Speaker 8]
+Congratulations on your new spells.
+
+[Speaker 2]
+You can prepare the new spells for the new rank.
+
+[Speaker 6]
+Yeah, I think the new rank is the rule.
+
+[Speaker 3]
+What was that, sorry, James?
+
+[Speaker 2]
+No, I said you can do it for the new rank.
+
+[Speaker 3]
+Yeah, thank you. Thank you.
+
+[Speaker 1]
+Minotaur, what's your AC? 18. Okay, so mine is technically higher than you if I do the razor shield exploration activity.
+
+Cool, yeah. I've got reach too, so I don't necessarily need to be in the front. Okay.
+
+[Speaker 4]
+Righty, let's get out there and go, go, go.
+
+[Speaker 6]
+And James, just to clarify, you're okay with me taking this, or borrowing, or whatever, this plus 1 striking?
+
+[Speaker 2]
+Yeah, you can borrow it for the session, that's totally fine. I got it at level 1, so...
+
+[Speaker 8]
+Wait, sorry, who's... Was the weapon part of the loot, or did you just snag it from someone?
+
+[Speaker 6]
+He had it and can't use it. Yeah. Luigi gave it to me because he can't use it, yeah.
+
+[Speaker 1]
+Okay, I think... Unless you want your dinosaur at the front, I think me and the Minotaur should stay in front, despite how badly that just went.
+
+[Speaker 4]
+Yep, and then during that down time, within that 10 minutes, I'm going to swap out Kaiju for Kijin.
+
+[Speaker 5]
+James, can you delete the giant ant that's over my token?
+
+[Speaker 2]
+Which one is over your token?
+
+[Speaker 5]
+Oh.
+
+[Speaker 1]
+Ah! Dinosaur! Okay, let me just make sure I got my shield raised, so that I'm not blindsided by a giant ant again.
+
+[Speaker 3]
+Does anyone need their shield repaired while we're having downtime? Because I didn't do anything.
+
+[Speaker 1]
+I could use a shield repair, because I believe the only other person that used a block action was the spell from the Minotaur.
+
+[Speaker 3]
+I believe I can use my feat to have a repair kit with, um...
+
+[Speaker 1]
+An adventure? Can it be a weapon? Armor?
+
+A chemical item? Magic item?
+
+[Speaker 3]
+Yeah. That sounds about right. 13, I think that's a fail.
+
+Hey, as long as you don't break it!
+
+[Speaker 1]
+I only shield blocked once, so we're still good.
+
+[Speaker 3]
+Shield's what, a level 0 item? It's DC 14.
+
+[Speaker 1]
+I'm griefing you.
+
+[Speaker 3]
+There we go, I fixed it.
+
+[Speaker 1]
+Hey, I get 3 HP back on my shield, probably.
+
+[Speaker 3]
+I don't know how that works. I mean, current it's 10 hit points. Oh no, it'd be 20 hit points with some expert, so I assume it's back to full.
+
+Yeah, it took 3 points of damage.
+
+[Speaker 1]
+Okay, so I'm going to hopefully not step onto a shit ton of traps here.
+
+[Speaker 5]
+By the way, I have trap finder, so I'm always searching for traps.
+
+[Speaker 1]
+Oh, get up here, man! Get up here, little guy. I thought about buying a 10 foot pole, and then I realized I always have both hands occupied.
+
+[Speaker 3]
+Okay James, how do we go to the next floor? We're done here. Let us move on.
+
+Oh, is this the first floor? I assumed we started down there.
+
+[Speaker 8]
+Elevator.
+
+[Speaker 3]
+Taking the elevator? Swimming sounds awful. Elevator.
+
+Elevator's my vote.
+
+[Speaker 1]
+Elevator! Elevator time! Time to die at a lower level!
+
+[Speaker 8]
+Yippee! Is anyone taking- I like the voice in your head telling you where to go.
+
+[Speaker 1]
+The instruction guide, just sitting in the back pocket.
+
+[Speaker 3]
+We just have to listen to our hearts.
+
+[Speaker 1]
+Something like the scout activity, which I think would be good. I can scout if that's helpful. Yeah, I think it gives a plus 1 to initiative, if I remember correctly.
+
+Got it.
+
+[Speaker 4]
+Yeah, I got scout up.
+
+[Speaker 1]
+With how many of us are level 1, and then there's a level 3 character, I'm very scared, so... Someone else is scouting, I heard? Yeah.
+
+This is two level 3s, isn't it?
+
+[Speaker 4]
+Okay.
+
+[Speaker 1]
+Level 2. Oh no. Yes, there is now.
+
+[Speaker 4]
+Wait, is we getting anything from that last fight? Rants. QNX will then search as an exploration activity.
+
+They might have like a refuse pile. Where they store all their goodies. They're ants.
+
+Yeah, but they bring things back to their base to eat, you know, the refuse pile.
+
+[Speaker 8]
+Gamer tip, there are Nixies down there.
+
+[Speaker 3]
+Just steal from the Nixies. They will have actual money. I think we head down.
+
+Or up?
+
+[Speaker 2]
+Who's down? Elevator time.
+
+[Speaker 6]
+Where are we, by the way? What is this place?
+
+[Speaker 2]
+The Hidden Bluff is a former Dwarven stronghold. It was flooded by mermaids at some point, and then taken over by Nixies. Or the top invaded by Nixies, you could have said.
+
+So Nixies typically control middle floors or somewhere around there. They have a lair on the third and fourth floor. Mermaids are primarily on the 7th, 8th, and 9th floors.
+
+Primarily on the 7th floor, really. Dwarves... Go ahead.
+
+[Speaker 1]
+No, no, no, keep going. I thought you were going to ask a question. Dwarves are typically found on the first and second floors.
+
+[Speaker 2]
+Opening up new paths. They've been friendly to the players so far, because the players have helped them.
+
+[Speaker 4]
+Hey, we saved a little drowdy.
+
+[Speaker 1]
+I was going to ask, since some of us are level 3, do they have experience with the Nixies? Nope. Ro-ro.
+
+Okay, I was going to ask if you know of any weaknesses. I'm obviously weak to cold iron.
+
+[Speaker 4]
+What does the guide say?
+
+[Speaker 2]
+I've faced them before.
+
+[Speaker 4]
+Unless it was the one that was on the Hippocras. Which, yes. I don't think I have.
+
+I guess you have. I was.
+
+[Speaker 2]
+Not only were there a bunch of normal Nixies around there, but there was an elite Nixie there that you also faced and took that weapon from.
+
+[Speaker 4]
+Yeah, the Hippocras.
+
+[Speaker 1]
+What does the little instruction manual in my back pocket say?
+
+[Speaker 4]
+Whoever has that weapon, it actually came from the leader of the people we're about to fight. Cold iron, okay.
+
+[Speaker 1]
+Well, that would be great.
+
+[Speaker 8]
+If you have any fire, that's going to be useless.
+
+[Speaker 1]
+Okay, fire is useless. That's great, because I have ignition. And if we find cold iron, I have needle darts.
+
+[Speaker 4]
+Let's do this.
+
+[Speaker 1]
+Bring me deeper into this hell.
+
+[Speaker 2]
+I just need you guys to wait for a moment while I look for the map.
+
+[Speaker 3]
+I was about to say, I'm actually going to yell three more things at James to do while he changes the scene and sets up the next encounter.
+
+[Speaker 2]
+Go ahead and just take a ten minute break.
+
+[Speaker 3]
+Sweet. EOB. Come on, guys.
+
+[Speaker 1]
+Great first go.
+
+[Speaker 8]
+You didn't die. That's very good.
+
+[Speaker 1]
+By the way, I was going to ask a question. During the intro video I saw, it said infernal machines in reference to the equipment the drow use. Is that literally infernal machinery, or is it just saying damned?
+
+[Speaker 8]
+What are you talking about, James? The drow use? Yeah.
+
+[Speaker 1]
+Yeah. Okay. I don't know.
+
+I saw it in the... I don't know what it is. I watched the introduction video and I remember hearing about...
+
+I just remember the word infernal machine and wanting to ask that. I remember drow for some reason. Maybe I'm wrong.
+
+We'll learn in time.
+
+[Speaker 2]
+If you heard war machines, you're probably thinking about the dwarves coming from the east.
+
+[Speaker 1]
+Ah, okay. Well, either way. Where did I get that from?
+
+I'll watch it later and answer next time.
+
+[Speaker 5]
+Hey James, do you let us know when we get hero points, or do we just get them every hour or something?
+
+[Speaker 2]
+I do let people know when they get hero points. For the moment, I've just been giving it to people once every hour.
+
+[Speaker 11]
+Hmm.
+
+[Speaker 1]
+I try to not screw up my Elgato. Between each session? Pretty much, yeah.
+
+Okay, great. Because I saw a bunch of people that don't have darkvision and heard that there were dungeons. And when I get to level 2, I'm going to pick up darkvision elixir so that I can solve that problem for 10 minutes.
+
+Cooperation! At least I don't think halflings have darkvision. I think they have, like, lowlight or something.
+
+[Speaker 5]
+Halflings have king's vision, but I actually took a mixed ancestry for dwarf.
+
+[Speaker 1]
+Ah, okay. Well, still, I checked out the list of characters that saw human halfling, and I'm assuming not all of them are half dwarf or something. Yeah, I'm a halfling, I don't have darkvision.
+
+So you don't have darkvision? No, because I'm a halfling as well. Okay, yeah, yeah, yeah.
+
+I've also got cheetah elixirs on standby. When I get money, I'll have cheetah elixirs on standby, which give a tasty little bonus to speed.
+
+[Speaker 5]
+And I do have a couple torches in my pack if anyone needs one.
+
+[Speaker 1]
+Oh yeah, I also have torches. I guess that just comes with the adventurer pack, even though I don't need them. But if we run into, like, kalygni, they're useful still.
+
+Who is Levent again?
+
+[Speaker 8]
+That was the cat that was there for a couple seconds. That was my character before it was revealed we had too many at a time.
+
+[Speaker 6]
+You got it.
+
+[Speaker 1]
+I love this business card, this is awesome. Oh, I'm so glad. This is so cool.
+
+I just imagine the back of it is the tutorial stuff we've been getting.
+
+[Speaker 8]
+Indeed, indeed. One of his bits is that if you are in the same party as him, you will get a business card, so do not be too concerned if you find it in your inventory.
+
+[Speaker 6]
+I have replaced the spear with this in my hand. I'm going into combat with it next.
+
+[Speaker 8]
+Of course, of course.
+
+[Speaker 1]
+Much better than a plus one strike. Every time? Does that mean that you hand them to people you've already given them to?
+
+Yes, I'm now in...
+
+[Speaker 8]
+If I go from them, I'm giving it to them. I think I've given someone, like, three.
+
+[Speaker 1]
+I'm going to hide these in a hot back pocket of my backpack just so that you can keep handing them out.
+
+[Speaker 8]
+Okay. I am now a member of the pyramid team. If you do get duplicates, you can hand them to other people.
+
+It's not like I'm in every session.
+
+[Speaker 5]
+Yeah, I'll take a stack. You know, spread the good word.
+
+[Speaker 1]
+Oh yeah, I also have a face mask.
+
+[Speaker 5]
+See, I almost think you need to make that into a calling card and just leave it on every body. Yeah. Yeah, she rubbed it.
+
+[Speaker 4]
+Levent rubbed it, dude. I think we have a paper class, though. Levent rubbed a person and then left them the card.
+
+And now they have people chasing them.
+
+[Speaker 8]
+I was like, surely this will not have any dire consequences. They would definitely want to hire me after this.
+
+[Speaker 1]
+Hey, show off your work. Sorry, all I can think of is the ending of Titanfall when he throws the business card at you. I will be right back.
+
+[Speaker 5]
+I'm going to go get another drink.
+
+[Speaker 1]
+Okay, we got however many left out of ten minutes. I hope there's no tuberculosis down there. Which I forgot is a thing that you can get in this game.
+
+I got this shit just for that. Also because I figured we'd be doing crimes.
+
+[Speaker 4]
+Did anyone bring a canary?
+
+[Speaker 1]
+Canary? No, but we did bring a minotaur that seems to maybe die. Yeah, I'll test it out for you.
+
+Don't worry. Big guy, big lungs, big breaths means that you probably would die faster.
+
+[Speaker 6]
+I need to get the toughness drink as quick as possible.
+
+[Speaker 1]
+Yeah, toughness on a not super, it's always great. It's always good. I mean, I've got medium armor.
+
+I feel like I'm somewhat tanky.
+
+[Speaker 4]
+I'm just thinking of like, we're going down a slight decline in the minotaur than everyone else. So everyone else is still carbon monoxide first. He just sees everyone behind his fall down collapse.
+
+[Speaker 6]
+Do I technically need to squeeze through five foot doors?
+
+[Speaker 1]
+I believe so. I think they're by default difficult terrain for you, which means that you couldn't like step into a doorway. So, you know, let's hope that doesn't become relevant.
+
+I think the biggest hurdle for me right now is that I'm wearing hide armor when I want something better than that. I only have a dex modifier of one. I spent all my money on breastplate.
+
+This fucking thing is what I spent all my money on. How did you all get borders on your tokens? Is that a thing?
+
+Or did you do that outside of the game?
+
+[Speaker 3]
+I made it on a website.
+
+[Speaker 1]
+Yeah, token creator and then just upload it.
+
+[Speaker 3]
+Token stamp too.
+
+[Speaker 1]
+I also had to buy a formula book because I don't get that free. I hope I don't at this point because I did pay for it. I'm going to buy a new map.
+
+I have goblin, tassa, frag, border.
+
+[Speaker 5]
+I really like James's commitment to the 10 minute downtime.
+
+[Speaker 2]
+Yeah, that one was not intentional. I was just taking way too long to actually find the map. Now I'm just waiting for...
+
+because I wanted to use the same one from last time, but I have like a separate foundry instance. So I don't have even longer load times with all of the uh, with all of the 5e nonsense.
+
+[Speaker 1]
+There we go. Okay, let's hope that updates eventually.
+
+[Speaker 2]
+We'll just start there.
+
+[Speaker 1]
+We've got two scout trucks. We don't need one of those. Silly game.
+
+Is Kithy a beastmaster, I'm assuming?
+
+[Speaker 4]
+Sorry, what was that?
+
+[Speaker 1]
+Are you a beastmaster?
+
+[Speaker 4]
+No.
+
+[Speaker 1]
+No? What gives you... oh, wait, don't...
+
+How'd you get in this dinosaur?
+
+[Speaker 4]
+I am... the untamed daughter.
+
+[Speaker 1]
+Okay. I was thinking... I intend to go cavalier when I get my archetype.
+
+How much does a beetle cost?
+
+[Speaker 4]
+Uh, you get the beetle for free.
+
+[Speaker 1]
+Oh, I do? Okay, great. Hell yeah, that's wonderful for me.
+
+Oh, why is... Ah, I made two tasses and their token's still the same.
+
+[Speaker 4]
+So, do you know how to upload your token?
+
+[Speaker 1]
+Uh, yeah, I did it, and it's showing in the, like, character-like little window, the token that I have, but it's not on the dragout.
+
+[Speaker 3]
+So what's going wrong here? You need to edit your prototype token to have the picture you want. It's when you're looking at your character sheet, it's at the top.
+
+[Speaker 9]
+If you open from the side menu, not from on the map, if it's on the map, you just edit whatever token you selected.
+
+[Speaker 1]
+Uh, yeah, on the side it has the little ring on it now.
+
+[Speaker 9]
+Yeah, but you see, if you open your character sheet from the side, you see at the top, where it says configure, next to it says prototype token.
+
+[Speaker 1]
+Prototype token.
+
+[Speaker 2]
+What is this?
+
+[Speaker 1]
+Open tassa... Prototype token, okay.
+
+[Speaker 2]
+Sometimes the thing that's going to stay consistent across your characters...
+
+[Speaker 1]
+Eh, whatever, it's not a big deal. There are still two of me, though.
+
+[Speaker 2]
+I can fix that. Actually, you're not going to have to worry about it, because we're switching it.
+
+[Speaker 1]
+I killed the other me to assert dominance.
+
+[Speaker 10]
+That always ends well. It ends well for this version of me.
+
+[Speaker 1]
+Eh, whatever, I'll figure it out later. I don't got the brain space this early. Minotaur man's crushing me.
+
+[Speaker 6]
+Sorry, I don't want to leave the green space.
+
+[Speaker 1]
+Ah!
+
+[Speaker 4]
+I need an adult. How about now? The audience, I'd love to see.
+
+[Speaker 1]
+I just think it's great that we bought a cow into a megadungeon. That feels very appropriate from what I understand of how these things are supposed to go.
+
+[Speaker 6]
+It's funny, though, because I think part of the lore of minotaurs is that they're from caves and underground.
+
+[Speaker 1]
+Yeah. And mazes? It's all of those things.
+
+Minotaurs are varied peoples. Also, we barely fit into this- Oh, we don't fit into this square.
+
+[Speaker 2]
+We can have the squares just to let you guys know which room to try to do it in.
+
+[Speaker 4]
+I know, it's just great. I better swap my annual commanion over, just in case. Nah, for my- So, Kaiju is an animal order druid.
+
+With the cross-faction Untamed Order. And he's got a beastmaster dedication. It's a nice race.
+
+Crazy. But he got the order because he's an animal order druid.
+
+[Speaker 1]
+I'll be right back.
+
+[Speaker 2]
+I'll note that you guys had to squeeze on the elevator on the way down.
+
+[Speaker 1]
+I don't know that- That halfling had to shoot. Sorry, keep going. I was just gonna say- No, keep going!
+
+You go, you go. I was gonna say the halfling's probably just standing under the minotaur. It's not important.
+
+[Speaker 5]
+Probably, yeah.
+
+[Speaker 2]
+You guys are down, the world's your oyster.
+
+[Speaker 5]
+That being said, I don't see my token, but I do see a party token.
+
+[Speaker 2]
+You have to drag your token onto the screen if you haven't already.
+
+[Speaker 5]
+Oh! Okay, my apologies.
+
+[Speaker 1]
+Oh, you have art now!
+
+[Speaker 5]
+Yeah, I spent the ten minutes trying to get that updated. What am I looking at in this room? Sorry.
+
+[Speaker 2]
+In this room, there is an altar. And then there's a bunch of, uh, let's see here. There's a Nixie art on the walls, which is typically made out of animal bones.
+
+In this case, it has a few more dwarf and mermaid bones, along with animal bones. There's the elevator, along with the mechanism to power it. You guys had to squeeze onto the elevator to get down here.
+
+The elevator, upon reaching the bottom, powered off.
+
+[Speaker 1]
+Is this... Ominous? Is this the lowest we know it can go, or is this like, someone's fucking with it?
+
+I'm assuming it's the second one.
+
+[Speaker 2]
+Good question. Who cares? I'm thinking about how you would test that.
+
+[Speaker 1]
+Nah. I'm not here to ask questions, I'm here to stab stuff with a smear. Okay.
+
+Uh... Oh, that was a lot.
+
+[Speaker 2]
+I think there was a locked door.
+
+[Speaker 1]
+I look at any of the other people, because I don't know how to deal with that.
+
+[Speaker 5]
+Uh, I could break it down. I mean, I can attempt to pick a lock. That seems more sensible.
+
+[Speaker 1]
+Yeah. We don't want to alert every guy down here that we're here already. Unless we do.
+
+I don't care.
+
+[Speaker 6]
+KieranX slowly puts his crowbar back into his pocket.
+
+[Speaker 5]
+We kill them either way. After you, Seamus.
+
+[Speaker 4]
+Uh... I'm gonna do a rassing flash on our minute companion.
+
+[Speaker 5]
+Uh... Just a sec. I actually...
+
+I accidentally picked up these tools, or placement picks, instead of the full set, which I was meant to grab. So let me grab that real quick.
+
+[Speaker 6]
+Did you mean to put that on me, or...? Yeah, it's temp HP.
+
+[Speaker 4]
+Okay. Last for a minute, 1d4. I'm not sure if it actually gives you the temp hit points.
+
+It's on there already.
+
+[Speaker 1]
+Is this the configuration we want for whatever hell lies beyond that door?
+
+[Speaker 6]
+Yes. I'm happy to step up to here if you want, but... Can tiny creatures, or small creatures, stay in the same spot as me?
+
+Is that a thing? I don't remember. Uh...
+
+[Speaker 3]
+Tiny creatures can.
+
+[Speaker 1]
+Okay, PCs can.
+
+[Speaker 3]
+Got it, okay. I mean, a pixie could, but I don't know if anyone plays a pixie.
+
+[Speaker 1]
+Gotcha. There are pixies. You got at least two.
+
+[Speaker 4]
+You got a saddle?
+
+[Speaker 10]
+I have.
+
+[Speaker 4]
+He doesn't have a saddle bag, I'm too poor for armor. Actually, I do have gold. Can I actually buy some barding?
+
+[Speaker 8]
+Imagine if you will, putting the card in the raptor's mouth. You just find it stuck between his teeth.
+
+[Speaker 1]
+Jeez. He's a little well-behaved, by the way.
+
+[Speaker 2]
+Yeah, he's pretty well-behaved. Are you guys breaking through?
+
+[Speaker 1]
+He rolled a pick-a-lock.
+
+[Speaker 2]
+Oh, excellent, excellent. I can't believe I missed that.
+
+[Speaker 3]
+What level of luck is it, Gene? You gonna run the lock properly?
+
+[Speaker 2]
+Yeah, okay, so... What am I supposed to look at for the level of the lock?
+
+[Speaker 3]
+There are like four types of lock. A poor lock is level 0, simple lock is level 1, average is level 3. Which of those levels do you think it would be?
+
+A poor lock's 2 checks, a simple lock's 3.
+
+[Speaker 2]
+I think it's a simple lock.
+
+[Speaker 3]
+So, 3 thievery checks, DC 20. So it takes 6 actions to open this door if you succeed on all of them. Oh, okay.
+
+[Speaker 5]
+In that case, I will...
+
+[Speaker 3]
+Yeah, do two more.
+
+[Speaker 2]
+Yeah, so just 3 checks, it's just that they, you know, for combat's sake, they would take 2 actions.
+
+[Speaker 3]
+Yeah.
+
+[Speaker 6]
+I'll cast Guidance on you if you'd like. Oh, okay. Can I drag that over?
+
+[Speaker 1]
+Oh yeah, we can just drag effects onto each other. Oh, I didn't know I could do that. I think I'd drag battle medicine immunity onto you earlier.
+
+Oh. Get in there, little man.
+
+[Speaker 5]
+Oh, thanks. One more.
+
+[Speaker 3]
+You need to keep going until you get it. Oh, we're stuck here.
+
+[Speaker 1]
+Is this one of those, oh hell yeah.
+
+[Speaker 3]
+Nice, that gets it.
+
+[Speaker 5]
+I assume that between 27 and 18 and 22, I got a couple successes.
+
+[Speaker 1]
+Yeah, 22 and I think 27. Hell yeah, hell yeah, hell yeah. Well done, sir.
+
+[Speaker 5]
+Thank you, thank you. I'm gonna step out of the way so that I'm not the first one going through the door, though.
+
+[Speaker 1]
+I will be the first one going through the door, because my AC is only slightly better than yours, big man. It's okay. Oh, it's still locked.
+
+[Speaker 2]
+It is, because I'm gonna put a monster in here. Go ahead and add yourselves to the initiative I just added.
+
+[Speaker 1]
+Well guys, it's great knowing ya. I've placed myself in a fresh hell. Oh, Isha!
+
+Hey, we got another 7 initiative, baby! I do this to myself every time. This is what I get for having a plus 2.
+
+Look at all you, with your nice little 25s and 21s. Taz is just opening the door, not even realizing someone's there.
+
+[Speaker 4]
+I feel like my Raptor's touch is too high.
+
+[Speaker 1]
+I can't open the door, I got two hands full. I just have shame as I open it from the side there. You know, we need to be technical about these things so I don't get absolutely blasted the moment this door opens.
+
+But big man gets to stab over my head now.
+
+[Speaker 6]
+15 feet.
+
+[Speaker 1]
+Oh, do you get more reach on your weapon?
+
+[Speaker 5]
+Because I'm large. We didn't get reach unless you had the enlarge spell.
+
+[Speaker 6]
+I thought it was because you were large.
+
+[Speaker 1]
+I could be wrong, but I don't know. That's not true. By default I don't think you get.
+
+But, you know, you can still hit the guy that's about to kill me. So, you know, we're good. And it's still not opening the door, by the way.
+
+Yeah, he's putting monsters on the other side so they can explode us. Don't worry, you'll probably live. Me, on the other hand, is questionable.
+
+[Speaker 9]
+Yeah, large players get reach upwards, but not across. You can stab things in the air, but not further away in the ground.
+
+[Speaker 6]
+Gotcha, thank you. I guess the 10 foot square, though, still kind of gives me a little more zone of control.
+
+[Speaker 1]
+Yeah, it's also great if you have something like an emanation coming off of you, like if you were a champion. Because then it just does get a better reach on it. Which is why I love champions.
+
+[Speaker 4]
+I don't get 15, but still more squares. You get that huge champion.
+
+[Speaker 1]
+Yeah.
+
+[Speaker 4]
+So many squares. Like 14 squares for a 5 foot emanation.
+
+[Speaker 1]
+Yeah, in one of the other games that I play, we did the Pathfinder Society scenario. And I played the Battle Zoo Frost Giant Ancestry. And I played a Whirling Strike Barbarian.
+
+So I had like 100 something spaces. Oh wow. Yeah, it was wild.
+
+Oh no, these guys rolled a 27?
+
+[Speaker 4]
+A couple of them did.
+
+[Speaker 1]
+Are these what Nixies are? These little fuckers? Nope.
+
+[Speaker 4]
+These are referees.
+
+[Speaker 5]
+Oh no. I love that because of where I'm standing, I can only see the one down here.
+
+[Speaker 4]
+Does it use an action to say something?
+
+[Speaker 2]
+This room is, for most of you, ankle deep. But there's only about a foot of water in this room.
+
+[Speaker 4]
+I wonder what's the key sign summing stuff. Yeah, there's a key sign.
+
+[Speaker 1]
+We're probably going to have to be aggressive on this one, unfortunately. Which is a real shame for me, specifically. Come on, little man.
+
+Come here so I can kill you.
+
+[Speaker 2]
+That's good. I'm a tiny creature, so I would still have to... Yeah, so weird.
+
+I'm just going to move him adjacent so it's not like super annoying. Yeah, I'm just going to strike once.
+
+[Speaker 1]
+Damn. Okay, I will shield block. Might as well.
+
+Yep, I take no damage. We'd love to see it. Come on, little man.
+
+Unfortunately, if that thing does summon things, we're going to have to kill these guys. Damn, okay. Oh, sweet.
+
+Okay, one point of damage. I can live with that.
+
+[Speaker 2]
+They're really too boring. Okay.
+
+[Speaker 1]
+Okay. Hey, hey, we're going to survive, I think, guys. Until that fucking keystone summons, I don't know, an elemental or something.
+
+[Speaker 4]
+You might need to pay attention to the poisons. Poisons! Nope, remind him.
+
+[Speaker 3]
+Can I do a recall knowledge on the keystone?
+
+[Speaker 2]
+Where'd he go?
+
+[Speaker 3]
+I need to remember how to do that, sorry. I think I did that correctly, it was targeted.
+
+[Speaker 2]
+No clear information.
+
+[Speaker 3]
+Good. I'll spend two actions casting Electric Arc on these goons in the doorway. Unfriendly goons, if you guys are goons, I'm not attacking you.
+
+I'm a goddamn soldier, okay? Whoops, I didn't mean to target the keystone.
+
+[Speaker 4]
+Fuck you.
+
+[Speaker 3]
+I can only target creatures, unfortunately.
+
+[Speaker 1]
+Well, you know, if you had struck it, we would learn if it's a creature, technically.
+
+[Speaker 3]
+Answers. What was that, sorry?
+
+[Speaker 2]
+Anything else on your turn?
+
+[Speaker 3]
+No, that was my last two actions.
+
+[Speaker 5]
+All right, shameless. Okay. Watching these guys kind of sneak through the door.
+
+And since my bow is put away, I'm going to use my weapon that can actually hit.
+
+[Speaker 1]
+Hey, Scorpion Whip, we love that.
+
+[Speaker 5]
+And then I will take another action striking it. And then, if it's still up, I'll...
+
+[Speaker 2]
+No, it's dead.
+
+[Speaker 5]
+Oh, it's not? Okay. I will take an action to move over to this side.
+
+Kind of behind the minotaur.
+
+[Speaker 1]
+Leave me to die at the door, why don't you?
+
+[Speaker 5]
+I had to get a better view of the situation.
+
+[Speaker 1]
+There you did, little man.
+
+[Speaker 5]
+I really, I couldn't see in this room at all.
+
+[Speaker 1]
+Octopus. Yeah, I know. Octopus?
+
+There's an octopus?
+
+[Speaker 2]
+Player character is up, also known as Coogee.
+
+[Speaker 4]
+Coogee? So, just quickly double checking. My anachromatic companion can only move and support.
+
+It can't attack and support, can it? He's going to go here, and he's going to count as that square for flanking purposes. Ooh, tasty.
+
+[Speaker 1]
+This guy's off guard.
+
+[Speaker 10]
+Fuck it.
+
+[Speaker 4]
+What the hell? I think Coogee's going to come up to here, and he's going to try num-nums. Whoops, I disregarded that, that's the wrong attack.
+
+I'm in the fangy section. As it goes, yum, num-num.
+
+[Speaker 9]
+Making my play. Can I record knowledge on these things?
+
+[Speaker 2]
+Absolutely.
+
+[Speaker 9]
+What do you want for it?
+
+[Speaker 2]
+With this, you go into your basic action macro.
+
+[Speaker 6]
+How do I pull in the basic action macro?
+
+[Speaker 2]
+No, I'm going to go ahead with this, so go ahead and click on Browse Macro Directory. It's right next to your hotbar.
+
+[Speaker 5]
+Little folder icon.
+
+[Speaker 6]
+Got it, thank you.
+
+[Speaker 2]
+And then you should see something that says Basic Action Macros. And you can pull that onto your hotbar. Where is your character?
+
+I'm going to do it for you, just for this one. By clicking on your token, and then targeting the guy next to you. And recall knowledge, and it's basically just roles, there's one role.
+
+It'll have a bunch of your, like, you know, your lower DCs, or any kind of skills that you're proficient in. Which I am not sure if you've done your proficiencies, or you have done proficiencies. Oh, there you go, you also have recall knowledge inside your thing there.
+
+Uh, you would not recall... Yeah, I don't think that there's anything on here. And how about the rest of your actions?
+
+[Speaker 1]
+Oh yeah? Oh, fuck yeah. You explode that little fucker.
+
+Uh oh.
+
+[Speaker 11]
+Oh no.
+
+[Speaker 10]
+Clicking on that fortitude?
+
+[Speaker 4]
+I should have done targeting. What do you mean by, you people? I think he means all of us.
+
+Oh man, could have stayed where I was.
+
+[Speaker 1]
+Uh, sparkling targe, is this a magical effect, I believe? It is a magical effect. Oh fuck, I don't get my sparkling targe thing because I haven't...
+
+Ah, damn it. Uh, stone face, is this a airborne disease or a fear effect?
+
+[Speaker 5]
+No. It's a wave. Uh, I'm gonna use my halfling luck to re-roll that.
+
+[Speaker 2]
+Okay.
+
+[Speaker 5]
+Wait, would it get a soul if it's a wave?
+
+[Speaker 2]
+How discriminate... Have you seen a wave before?
+
+[Speaker 1]
+I think he means a literal wave.
+
+[Speaker 2]
+I'm sorry, that's the most confusing question I've heard in my life.
+
+[Speaker 1]
+Also, by the way, Minotaur, you accidentally moved back, unless you said to do that? No, I'm... Oh wait, no, it looks like you're getting...
+
+[Speaker 2]
+Yeah, people are being moved back, this is the fun part. So, on the hazard's turn, it sends a wave of water along the fork. It's hitting the nearest PC.
+
+Any creature along that fork or on the surface of the water must attempt a DC 18 fortitude save. Keystone's guardians are accustomed to these surges and are immune to this effect. What's everybody made there?
+
+Okay, so Shameless still got pushed back. Coogee gets pushed back. Where's their Coogee and player character?
+
+Who's player character? Oh, okay. That's the...
+
+Dinosaur. That's the dinosaur. Minotaur critically fails and gets knocked prone, but everybody else is unaffected.
+
+[Speaker 1]
+Not used to taking a slash, eh, big guy? My luck continues. Yeah.
+
+It was so close.
+
+[Speaker 2]
+The room you're standing in now has water in it. These guys are going to... This guy's going to hug the wall.
+
+[Speaker 1]
+Come here, little octopus, or whatever you are. You have no name. Yep.
+
+Called it. What? It's in my space.
+
+Oh yeah, it's a tiny creature.
+
+[Speaker 4]
+Wait, tiny... Medium? I feel scared when I see something named after an Australian animal.
+
+[Speaker 2]
+Appropriately so. I mean, Landy runs the... Landy, you run an Australian game, right?
+
+[Speaker 3]
+I do. There's plenty of good Australian animals in the system already. Kangaroos.
+
+[Speaker 6]
+Alright, he stands up and shakes himself off. And I guess he'll... Just stride forward and take a strike at this thing.
+
+[Speaker 1]
+You're in the same spot as QG.
+
+[Speaker 6]
+Oh yeah, of course. Of course, of course.
+
+[Speaker 3]
+Sorry.
+
+[Speaker 6]
+Sorry, little fella.
+
+[Speaker 1]
+Now why are we tactically flanking this octopus?
+
+[Speaker 3]
+No, because it's in the square. It's right here. Damn.
+
+[Speaker 1]
+Well, isn't the...
+
+[Speaker 5]
+Isn't the dragon mount... Providing... Flank you far away.
+
+[Speaker 2]
+It counts as being in a different space.
+
+[Speaker 3]
+Okay. Unless James says... Unless James says it's being flanked, of course.
+
+[Speaker 1]
+Oh, that's what you mean. Minotaur man. Oh, but you hit anyway, so yeah.
+
+What is energizing?
+
+[Speaker 2]
+Let me take off. Bro.
+
+[Speaker 4]
+So, if you go into your actions, there should be energizing that adds elemental damage to it.
+
+[Speaker 6]
+But you have to take acid, coal, or fire, right? Or electricity or something.
+
+[Speaker 9]
+Yeah, it's a reaction. So taking that type of elemental damage. Yeah.
+
+[Speaker 1]
+I mean, it's near dead, that might be worth it. I have to take damage before it's energized. It's my reading of it, at least.
+
+[Speaker 9]
+Yeah, so you can absorb and fire it back. It's not like a natural activation.
+
+[Speaker 2]
+Ah, okay. Alright. I believe that's the end of your turn.
+
+[Speaker 1]
+Mhm.
+
+[Speaker 2]
+On to another blue-winged octopus.
+
+[Speaker 1]
+Oh, goddammit. Well, you know guys, I'm pretty confident for no particular reason. Even though I've been hit by two little gribblies.
+
+[Speaker 3]
+Are they moving through the wall?
+
+[Speaker 2]
+No, it's using jets with a 60-foot movement, so it's like...
+
+[Speaker 3]
+In a straight line, though.
+
+[Speaker 2]
+Ooh, I didn't catch that. Well, I mean, they did move in a straight line through that wall. But it's not supposed to.
+
+Alright, so it would have to move up. Yeah, move up and then move over. It uses two actions for its normal moves.
+
+If anybody has reactive strike, which I don't think anybody here does...
+
+[Speaker 4]
+Minotaur!
+
+[Speaker 6]
+I don't until I use my focus spell, yeah. Oh, hey!
+
+[Speaker 2]
+I didn't realize that I hit. Go ahead and make me that point save.
+
+[Speaker 4]
+Awesome. Oh, no!
+
+[Speaker 2]
+That is the end of its turn. We have another Jinkin.
+
+[Speaker 1]
+Yeah, that's right. Come here. Stand by your dead friends and try to stab me.
+
+Just part the fucking sea of corpses.
+
+[Speaker 2]
+You have to do two actions for this.
+
+[Speaker 1]
+Hit? Okay. This guy's also off guard now, because of the dinosaur.
+
+[Speaker 3]
+Oh, no, he's technically in your square.
+
+[Speaker 1]
+Uh, this guy?
+
+[Speaker 3]
+Yeah, he has to be in your square to hit you. James is in there for convenience. Oh, okay.
+
+[Speaker 1]
+I'm just getting crowded by a bunch of little fuckers. Uh, okay. So, I don't care about that squid, because it's nearly dead.
+
+So what I'm going to do, is I'm going to spell strike this little shit that just stabbed me. Let's go for the Breaching Pike. Oh, fuck.
+
+I will hero point that. So that's two actions gone. But it still counts as a spell strike, I believe.
+
+So I will enter, uh... So I can't enter Arcane Cascade unless I'm... Yeah, these guys aren't doing a lot of damage, and we still got healers.
+
+So I will use Arcane Cascade as my last action. And because I would have put Needle Darts into it, I apply that unto Piercing. And that is my turn.
+
+[Speaker 2]
+Hey, Wolverine and Octopus.
+
+[Speaker 1]
+Ah! They're all coming after me! I made a mistake!
+
+A horrible mistake!
+
+[Speaker 2]
+I haven't covered you in these. Yeah.
+
+[Speaker 1]
+Oh, fuck yeah. Okay, great. Oh, goddammit.
+
+Oh, my Razor Shield should be gone. Let me make that Fortitude Rune. Uh, this is not a magical effect, I'm assuming, because it's a little Octopus grabbing me.
+
+Success.
+
+[Speaker 2]
+Ooh, very good. Uh, oh, I didn't mean to do that. That is its turn.
+
+We come out of Asia.
+
+[Speaker 3]
+That Jynkun can die. I'm going to spend three actions costing Boss Barrage on him. Which gives me...
+
+Uh... Three. I've done this before.
+
+Alright. Get to roll that three more times. All of them at that...
+
+Under the door. I think I targeted him.
+
+[Speaker 5]
+It's my turn. Okay, so... Uh...
+
+Does Tazla count as flanking for the people in his square?
+
+[Speaker 2]
+Not for the, uh... Not for the tiny creatures.
+
+[Speaker 1]
+He does not. Unfortunately.
+
+[Speaker 2]
+I don't actually... Uh... No, it's the tiny creatures that don't count for flanking.
+
+So, if you are adjacent to Tazla, then...
+
+[Speaker 5]
+Yes. Well, if I come here, because I have a reach weapon...
+
+[Speaker 1]
+Oh, then he's flanking there. Yeah, you'd also for sure be flanking because the dinosaur's there.
+
+[Speaker 4]
+Okay. I'm going to... No, the dinosaur's at him.
+
+That's right.
+
+[Speaker 1]
+Oh, that gets rid of its, like, flanking up there?
+
+[Speaker 5]
+That's why I wanted to make sure before coming over here. I mean, I'd probably do that anyways.
+
+[Speaker 2]
+Yeah, Tazla counts for more.
+
+[Speaker 5]
+For those guys? Yeah. Okay.
+
+Okay, double strike. I'm going to... Do you want me to go ahead and strike, or do you want me to...
+
+[Speaker 2]
+It's a matter of plus two or plus nine. Like, the people think it's roll first. If you're going to miss by way more than two, or hit by way more than two, then, you know...
+
+[Speaker 5]
+Like those. Okay.
+
+[Speaker 2]
+Exactly. Exactly.
+
+[Speaker 9]
+Yeah. It counters both spaces for the support benefit. Okay, perfect.
+
+It counts for being in a space, or an empty space, of your choice of intensity, determining whether your companions are flanking. You can choose a different space for each of your attacks.
+
+[Speaker 10]
+And that's great.
+
+[Speaker 2]
+Unfortunately... Yes.
+
+[Speaker 1]
+Head out. We're fighting octopuses and little gribblies. Why are we having so much trouble hitting these little shits?
+
+[Speaker 5]
+Hey, crit success.
+
+[Speaker 1]
+Oh yeah?
+
+[Speaker 5]
+Wait, does that mean that I can grapple it? Yeah. It wasn't versus a...
+
+[Speaker 2]
+It was your fortitude save.
+
+[Speaker 5]
+Yeah.
+
+[Speaker 2]
+Okay. You're in support.
+
+[Speaker 1]
+So I'm grapped.
+
+[Speaker 11]
+You are indeed.
+
+[Speaker 1]
+Okay. A series of unfunctioning events are unfolding at this doorway.
+
+[Speaker 4]
+Gucci. Gucci's going to move up here. He's going to target this little guy here.
+
+And he's going to do a... Bite.
+
+[Speaker 1]
+Hey, there it fucking is. Those are the numbers we've been looking for, folks. Right there.
+
+[Speaker 4]
+As he just runs up and just knocks on his head. Kaiju's going to do a bite on this guy. And does that kill him?
+
+Hold on a sec. Yeah, hell yeah. Yeah, and then he'll do a...
+
+What is it? Yeah. He's going to do a little secondary attack.
+
+[Speaker 1]
+Oh, shame. These guys don't wear armor.
+
+[Speaker 4]
+Fuck yeah. For extra damage. That is better.
+
+[Speaker 9]
+I'd probably... I need to find a good shot on this one.
+
+[Speaker 1]
+Fuck yeah.
+
+[Speaker 2]
+Second shot. Ooh, second. Damn.
+
+[Speaker 1]
+And what fucked up thing is this rock going to do to us?
+
+[Speaker 2]
+The fun part is that it is still... It's at two-thirds charge at the moment.
+
+[Speaker 1]
+Promising. Frightening, even.
+
+[Speaker 2]
+Everybody's gone inside the room.
+
+[Speaker 1]
+Let me double check... How my sparkling cards ability worked.
+
+[Speaker 2]
+I just barely see a bit of a mural on the south wall. That is progressively...
+
+[Speaker 5]
+appearing more and more real. Okay.
+
+[Speaker 10]
+Well, we need to go in here.
+
+[Speaker 5]
+Hey James, would I be subject to the roll if I'm around the corner?
+
+[Speaker 2]
+Roll first, don't make me think of fluid dynamics.
+
+[Speaker 4]
+First of all, I thought I'd be safe. Oh no. Seamus, my man.
+
+[Speaker 1]
+What happened to you? Well, at least you know you're just going... Wait, actually, doesn't that break you out of the grapple because it moves you?
+
+[Speaker 5]
+Maybe, yeah.
+
+[Speaker 2]
+It does.
+
+[Speaker 1]
+Hell yeah, you know. There's a silver lining to that, Seamus. We can pretend like you did that on purpose.
+
+[Speaker 4]
+Now, do the other creatures need to do the same as well, too? No, specifically in the description he said that they don't.
+
+[Speaker 2]
+Monolith guardians are accustomed to these surges that are... to this effect. They are no longer grabbed.
+
+[Speaker 10]
+Okay.
+
+[Speaker 2]
+You are prone, however, for predictably failing.
+
+[Speaker 1]
+Oh no, and that other little guy is next to you now? Yeah. Fuck you.
+
+Okay, well, you know, still. We call that a win, or we can't.
+
+[Speaker 2]
+We have news.
+
+[Speaker 1]
+Come on, Gribbley.
+
+[Speaker 10]
+Do you want to move up?
+
+[Speaker 4]
+What's James Bean and Dream Bean mean?
+
+[Speaker 5]
+Oh. Aww.
+
+[Speaker 2]
+I'll try to hit you.
+
+[Speaker 10]
+Nope.
+
+[Speaker 2]
+That's his turn. We come to Paranoid.
+
+[Speaker 6]
+Oh, excuse me. Excuse me. Finally get this up.
+
+And then I'll take a crack at this guy harassing Seamus.
+
+[Speaker 1]
+Ooh!
+
+[Speaker 6]
+Okay, never mind.
+
+[Speaker 1]
+Rough stuff, man. Oh yeah, you moved. Okay.
+
+That's incredibly unfortunate.
+
+[Speaker 2]
+Oh, hey!
+
+[Speaker 1]
+There's a little halfling on the floor there.
+
+[Speaker 2]
+There's a halfling on the floor.
+
+[Speaker 5]
+I just want to say, it saw that it was attacked by the minotaur, right? Yeah, but you're right there.
+
+[Speaker 6]
+No, probably not, because I swung so terribly. I, like, swung at a height of six feet, and it's, like, one foot.
+
+[Speaker 1]
+These guys are really, uh...
+
+[Speaker 11]
+They're sticky.
+
+[Speaker 1]
+Hey, at least there's that. Minus two. Jesus Christ.
+
+Okay. Tassa... We broke the system.
+
+Getting close to the end, and I heard something about a fucking entity being summoned. So I think what I'm going to do is I'm going to cast Runic Weapon on myself. Makes my nasty little spear even nastier.
+
+And I can't reach you, Seamus, so sorry to say. But I can, however, reach this little guy, which I think we've just learned I'm flanking against. Oh, no, but that guy's injured.
+
+Oh, but I'm not going to kill that. Well, I might. Yeah, no, we're not.
+
+I'm going to go... Uh, yeah, I'm going to cast Shielding Strike. And I'm going to raise a shield on myself, and then I'm going to stab this little fucker here.
+
+Hey, bridging pike. Fifteen. Love to see it.
+
+2d6, 11 points of damage. Kills. Love to see it, and that's the end of my turn.
+
+[Speaker 2]
+Oh, shit.
+
+[Speaker 3]
+I'll try another Recall Knowledge on the Keystone, just on how to turn it off. It's a penalty for doing it twice. I understand.
+
+[Speaker 2]
+Last time you rolled a 3, this time you rolled a 6.
+
+[Speaker 3]
+Cool, never seen anything like that before.
+
+[Speaker 1]
+A 1% increase.
+
+[Speaker 3]
+Drew, I remember from last time, how he shut it down?
+
+[Speaker 4]
+It was like an occult or something else, wasn't it?
+
+[Speaker 3]
+I'm going to target these two octopi, and give them a zap.
+
+[Speaker 2]
+That was surprising, I failed that one. What's next?
+
+[Speaker 3]
+Now it's my turn.
+
+[Speaker 5]
+Shave this. I'm going to spend an action to stand up, I'm going to kind of shake myself off, and then I'm going to strike the one in the corner, and then, seeing how badly I'm doing right now, I'm actually going to just run behind the rest of the party. That's going to be my three.
+
+[Speaker 2]
+No worries. I have another blue-ringed octopus.
+
+[Speaker 1]
+Minotaur, if you'd like to, you could reactive strike him. You could reactive strike.
+
+[Speaker 6]
+Yes, please. Which one is it again? The one that just moved here?
+
+[Speaker 1]
+This one right here, yeah.
+
+[Speaker 6]
+Yes, please.
+
+[Speaker 1]
+Ah, come on.
+
+[Speaker 6]
+Rolling great, rolling great. Squirrely little bastards.
+
+[Speaker 3]
+Over that.
+
+[Speaker 4]
+Mr. Kooji. I'm going to run up here, going to do an interaction thingy, try to sable it. Does it appear to be working in any particular way?
+
+[Speaker 2]
+Not with a roll of two.
+
+[Speaker 4]
+Okay, and then Kooji's going to do a little vicious bite as he goes, nom nom nom nom nom nom.
+
+[Speaker 2]
+Disabling check is two actions.
+
+[Speaker 4]
+Ah, disable that? Yeah.
+
+[Speaker 2]
+Don't worry for me too. Put this in chat.
+
+[Speaker 1]
+Oh yeah, because you had to move up there.
+
+[Speaker 4]
+Yeah. Nine. So don't do any nom noms then.
+
+These are the checks.
+
+[Speaker 2]
+If you can read fey or thalassic. You get a plus one circumstance bonus, plus two if you can speak both.
+
+[Speaker 3]
+Guess I know what I'm doing next turn then. For real?
+
+[Speaker 9]
+Yeah. I'll hunt probably the, uh, that one.
+
+[Speaker 5]
+And hunted shot one of both. How close to it do you have to be to do those checks? How do I do it?
+
+[Speaker 2]
+Uh, to physically alter them, so... So touch range pretty much? Yeah, in most cases it would have to be touch range.
+
+Okay.
+
+[Speaker 9]
+Thanks for that. Again?
+
+[Speaker 2]
+Good hit.
+
+[Speaker 9]
+Yeah, thanks for that.
+
+[Speaker 2]
+Very good. Pisto!
+
+[Speaker 5]
+What's up everybody?
+
+[Speaker 1]
+Okay, now I get to add sparkling charge bonus on this.
+
+[Speaker 5]
+Hey, I didn't succeed or fail!
+
+[Speaker 1]
+Okay.
+
+[Speaker 5]
+That's great.
+
+[Speaker 6]
+Poor Kirinax can't keep his footing in the water.
+
+[Speaker 1]
+Okay. Could be worse, probably.
+
+[Speaker 6]
+Technically it could be worse, yes. Yes.
+
+[Speaker 2]
+At the end of that, uh, the mural... ...at the bottom becomes, uh, completely... Uh, Kuji, you see a cavern that's filled with water?
+
+You see a large fish... ...with a, with two chests, uh, basically placed like saddlebags... ...on top of it. And it has, uh, it's, it has Nixie art barding. Nixie design barding on it. Is it magical barding?
+
+You see a magical mural with a fish on the other side. It's gone from being a mural to completely, you know, looking photorealistic.
+
+[Speaker 11]
+Chicken's gonna...
+
+[Speaker 10]
+...move here.
+
+[Speaker 2]
+Try to hit you. Miss. And then you're gonna run up this way.
+
+I've got thirty... One more. Kirinax.
+
+[Speaker 4]
+Hmm. Right, I'm thinking about...
+
+[Speaker 6]
+Do I have to tumble through tiny creatures?
+
+[Speaker 1]
+I don't think so, especially as a large creature, probably not. I don't think they can obstruct you.
+
+[Speaker 6]
+How do you, and how are you gonna rule the doorway? I didn't ask last time, but should I, can I just go through it? Difficult terrain, squeeze?
+
+You have to squeeze. I have to squeeze, okay. Which is what kind of check again?
+
+[Speaker 1]
+Uh...
+
+[Speaker 3]
+I think it's just difficult terrain. Okay, I'm reading it.
+
+[Speaker 6]
+You can torture a squeeze through space, so small it can barely fit through. The action is exceptionally small.
+
+[Speaker 3]
+Squeeze action is for exploration. Oh, it's for exploration. That's for really small spaces.
+
+[Speaker 2]
+I think it's just...
+
+[Speaker 6]
+So difficult terrain, is that right? Yeah. Yeah.
+
+Okay. So 5, 10, 15, 20, 25... I can't get to the door.
+
+Okay. So... No, I can't be on that guy either, sorry.
+
+Uh... If I stride twice, can I get through the door? Because I end my stride here.
+
+I guess I could end it here. And then go 5, 10, 15, 20, 25. Like this.
+
+Does this work?
+
+[Speaker 10]
+Sure.
+
+[Speaker 6]
+Okay. And then I'm still in range of this guy, right? Okay.
+
+Hopefully, that prevents me from going back into the room. And I'll strike. And I miss, of course.
+
+[Speaker 1]
+End of turn. Awesome. Okay.
+
+Uh... I'm going to just make a normal strike against this, uh... Little squidly on me.
+
+[Speaker 3]
+Hit.
+
+[Speaker 1]
+And then it's 2d6. 13 points of damage. Does that kill the little squidly?
+
+[Speaker 2]
+Where's my button?
+
+[Speaker 1]
+Yeah, okay. So that's great. Now I'm going to, uh, raise a shield.
+
+And I'm going to 5, 10, 15. Oh. 5.
+
+10. 15. Where is the fish becoming real?
+
+It's like down here? Uh... Hmm.
+
+I'm hurt. And scared. 15.
+
+Uh...
+
+[Speaker 2]
+That didn't really count because you guys have, uh... Kill while being involved in the critters.
+
+[Speaker 4]
+I'm going to grab the fishies! Oh, sorry.
+
+[Speaker 10]
+Level 4!
+
+[Speaker 4]
+How do I grab the fishies? You ask.
+
+[Speaker 2]
+There we go. Woop! I just wanted to have it redo the calculation for, um...
+
+For XP.
+
+[Speaker 1]
+Fish with chests, I heard.
+
+[Speaker 2]
+I'll give you guys a round of repair.
+
+[Speaker 1]
+Oh, uh, okay. Sounds like shit's about to go down, so... I'll keep my shield raised.
+
+[Speaker 5]
+It takes two actions to do the, uh... To work on the keystone.
+
+[Speaker 2]
+Oh, check these, uh... These two actions, that's right.
+
+[Speaker 1]
+Okay. Isn't there like a loot token? Where do you get that short sword from?
+
+[Speaker 3]
+Wouldn't you like to know, weather boy?
+
+[Speaker 1]
+Yes. Yes, I would.
+
+[Speaker 6]
+I will try to interact with the keystone.
+
+[Speaker 1]
+It's nothing, uh...
+
+[Speaker 2]
+Just a moment. There we go. Ah, that is one success.
+
+Beautiful, thank you.
+
+[Speaker 1]
+Uh... I will also take a look at the keystone with Arcana. Failure.
+
+I have no fucking clue what this thing is.
+
+[Speaker 5]
+Oh, hey!
+
+[Speaker 2]
+I forgot about this.
+
+[Speaker 10]
+Uh oh.
+
+[Speaker 2]
+Is that what we get for failing? Give me a... A screwflix.
+
+[Speaker 7]
+Uh... Critical error.
+
+[Speaker 10]
+Oh.
+
+[Speaker 7]
+Ooh!
+
+[Speaker 1]
+That's most of my health.
+
+[Speaker 5]
+Does everyone...
+
+[Speaker 1]
+Oh, sorry, keystone?
+
+[Speaker 5]
+The reflex save. Does everyone need to make one?
+
+[Speaker 2]
+Uh, no. Hold on a second. Uh, Tabal, that wasn't your damage, that was, uh...
+
+[Speaker 1]
+That's, uh... There we go. I will shield block that, which I can do because I'm a sparkling target, I guess.
+
+[Speaker 3]
+You should be able to raise a shield on the turn that you walked up to it and...
+
+[Speaker 1]
+Uh, I take the raise a shield exploration activity. Uh, when I'm not in combat.
+
+[Speaker 2]
+You're kind of in combat, you just had, like, a round for... Preparing.
+
+[Speaker 1]
+I did also, in that case, raise my shield on my last turn.
+
+[Speaker 5]
+Oh, can I make a thievery check on it?
+
+[Speaker 2]
+Anybody can make a check on it if they haven't, uh... If they haven't already.
+
+[Speaker 4]
+That's a success. Can I check out the fishies? You make me a save.
+
+[Speaker 2]
+You'd be able to... Yeah, you're just a gap. There you go.
+
+Uh, the fish has been joined by a rider. Go ahead and take five minutes, folks.
+
+[Speaker 5]
+Take five? Yeah.
+
+[Speaker 2]
+Yeah, if I don't, it's gonna be that much, but...
+
+[Speaker 5]
+No worries. I will be right back.
+
+[Speaker 2]
+I'm getting tired. About time for me to go to bed.
+
+[Speaker 1]
+Oh, you can just click on the corpses, that's how you got that show. Okay.
+
+[Speaker 3]
+Yeah, I wasted an action doing that instead of fixing the keystone. My bad.
+
+[Speaker 1]
+You bring your dinosaur to the room? Probably should. Yeah.
+
+Okay, well, you know, we can steal those little short swords and sell them.
+
+[Speaker 3]
+All those short swords will pay for my food for the week.
+
+[Speaker 10]
+Yeah.
+
+[Speaker 3]
+Let's stock up a bit. I'm almost gonna...
+
+[Speaker 1]
+We're getting there. Food cascade. That ends at the end of initiative.
+
+[Speaker 5]
+I'm back, by the way.
+
+[Speaker 1]
+I'm back. How does it keep spawning the razor shield action on my feet? Is it because I keep dragging it from my sparkling charge thing?
+
+So it's great that this is happening right after, because otherwise my runic weapon would go away.
+
+[Speaker 3]
+What was that problem you were having, sorry? You'd have multiple effects of the same thing on you, was it? Yeah, so I've been...
+
+[Speaker 1]
+Because my sparkling charge shielding strike thing, when I click... Sorry, let me put that down. I keep clicking the razor shield thing.
+
+Which I think is just adding new entries of razor shield into my actions tab. Huh.
+
+[Speaker 5]
+Was there someone who had battle medicine, by the way?
+
+[Speaker 4]
+Yes.
+
+[Speaker 5]
+If you haven't used your actions this turn, I am really low.
+
+[Speaker 4]
+You didn't have it before? Yeah, we'll do that.
+
+[Speaker 2]
+Alright, I'm ready to... Begin again if you folks want.
+
+[Speaker 3]
+Dessert? Sure.
+
+[Speaker 4]
+Let's kill a fish. Battle stat.
+
+[Speaker 1]
+Oh god, are we gonna have to swim? Oh no. Okay, well at least I get to try to roll a better initiative this time.
+
+[Speaker 5]
+Thank you for the healing.
+
+[Speaker 1]
+Hey, it is better this time, guys.
+
+[Speaker 3]
+Famous is on it.
+
+[Speaker 5]
+Oh, look at me. I got healed up and I'm like, I'm ready to go!
+
+[Speaker 1]
+It looks like Star Wars fishy.
+
+[Speaker 4]
+I want that pet.
+
+[Speaker 1]
+Good luck getting it off the elevator. Goodbye, heart.
+
+[Speaker 11]
+See ya.
+
+[Speaker 1]
+Oh no, there's more of them. This is what Nixie looked like? I was beckoning something more sinister.
+
+Hey, we kill them all the same. It's our job.
+
+[Speaker 9]
+And it gets more taxis.
+
+[Speaker 1]
+Yeah.
+
+[Speaker 5]
+Okay.
+
+[Speaker 2]
+Famous, top of the row.
+
+[Speaker 5]
+So, are we still trying to... Um... Roll on the keystone?
+
+[Speaker 2]
+What's up with you guys?
+
+[Speaker 1]
+I... I don't think we should in the middle of combat anymore, because that thing did... Fire damage.
+
+Nasty fire damage. Okay.
+
+[Speaker 5]
+In that case, I'm going to run all the way up to... Here. And...
+
+Take a couple quick swings at the one on the bottom. Oof. These guys are...
+
+Slippery. There we go. Okay.
+
+[Speaker 1]
+Take a sandwich to that one. These are pixies. I'm expecting nasty spellcasting then.
+
+[Speaker 9]
+Oh. Got... The...
+
+The ride of my... Uh, prey. I'm gonna fire at them.
+
+[Speaker 10]
+Oh.
+
+[Speaker 9]
+Yeah. Uh... So, I'll...
+
+I'll call a nudge on the fish.
+
+[Speaker 2]
+Okay. Go ahead and... Click on your, uh...
+
+Use the basic action macro for... There you go. Excellent.
+
+Nature is a success. What is your question? Uh...
+
+[Speaker 9]
+Does it have any weaknesses? It...
+
+[Speaker 2]
+It does not have any weaknesses. Uh, it is slower on land. Obviously.
+
+I should note the water at this point is about 2 feet deep.
+
+[Speaker 4]
+Alright. So... Coogee's gonna...
+
+Do the little... Rider. And he's gonna go...
+
+Nom nom. Uh, can't open cartridge sheet. No!
+
+Sorry. And... First thing, I will do though...
+
+Sorry, I will... Use... A spell.
+
+Unique body. And I'm going to cast that on Kaiju. And Kaiju's gonna attack that guy.
+
+[Speaker 1]
+Oh, there's a third one in the corner, I didn't see.
+
+[Speaker 4]
+So it's gonna hit at the 12. And it's gonna do a second attack. Awesome moves.
+
+So... 23 damage. And...
+
+Now it's my turn. My turn. Uh...
+
+Sorry, that's supposed to be... Doing... Extra damage dies.
+
+It did 2d8.
+
+[Speaker 2]
+Supposed to be 3d8. Supposed to be 3d8? Now it's just normal.
+
+[Speaker 4]
+Well... Because I hit level 4... It became mature.
+
+And it gets an extra weapon dies.
+
+[Speaker 2]
+Okay.
+
+[Speaker 4]
+And I thought I did it. But... I'm not too sure.
+
+It's an extra 12 damage thing.
+
+[Speaker 2]
+Brutal. Oh, is it just totally dead after that? Oh, it is.
+
+Okay. I rid of the damage to Kaiju. So now...
+
+Well, shouldn't it have been...
+
+[Speaker 5]
+About 6 damage, not 12? Because it should have been... An additional 1d...
+
+Uh, he hit twice. He hit twice. Oh, okay.
+
+[Speaker 2]
+That makes sense. Oh, I went on the wrong person anyway. Was it right or was it right?
+
+It's Nixie. Uh... Spells first.
+
+[Speaker 10]
+Oh! Oh!
+
+[Speaker 4]
+I told him... Get the Rider of the Mount.
+
+[Speaker 1]
+Nice. Gucci! Oh my god.
+
+That could have been so much worse.
+
+[Speaker 2]
+So that... Damage... And then...
+
+I gotta roll the damage.
+
+[Speaker 3]
+Uh, the damage for the dinosaur attack... Was correct with the striking.
+
+[Speaker 4]
+Uh... So increase damage dice... From 1 dice to 2 dice.
+
+And then with the striking... You should have added an extra 1d8. From the...
+
+[Speaker 3]
+No, it only increases it from 1 to 2. With striking as well. They both...
+
+Set it to 2. They don't add dice. You would need greater striking for it to be 3 dice.
+
+[Speaker 4]
+Oh. Yeah, so it doesn't work... It doesn't...
+
+That feat's useless after level 4?
+
+[Speaker 3]
+Which feat?
+
+[Speaker 4]
+The... The Spell of Runic Body and...
+
+[Speaker 3]
+You would need to cast it at... A higher level. Whatever...
+
+Level does the greater striking.
+
+[Speaker 6]
+Yeah, like I have... Runic Weapon in my... Prepared spells and it's not...
+
+Helpful anymore since I got the striking.
+
+[Speaker 9]
+Yeah, yeah. Runic Weapon just makes it... Just makes a weapon a striking weapon.
+
+[Speaker 3]
+The striking rune adds... A dice from 1 to 2. Specifically.
+
+It doesn't add an extra dice. It goes from 1 to 2.
+
+[Speaker 4]
+You know what I'm saying? All runic weapons add a striking rune. So yeah, it's a striking weapon.
+
+Could I redo that... Attack then? For the spell?
+
+And do another attack instead?
+
+[Speaker 2]
+I'm not coming back. Like, 6.
+
+[Speaker 4]
+Oh, okay. I don't know when.
+
+[Speaker 2]
+Just... I don't know... If you're not going to cast...
+
+Runic Body, you could like... Quickly attack something.
+
+[Speaker 4]
+Well, that's what I was going to say. If I can't do Runic Body... I'll just quickly do an attack.
+
+[Speaker 2]
+If you do it quickly, yes.
+
+[Speaker 4]
+Yep.
+
+[Speaker 2]
+Because right now I'm going back to... Some of these magic weapons... That I've been putting out.
+
+Like... Oops. I guess for head striking...
+
+So... Why isn't it doing... There you go.
+
+[Speaker 4]
+For 12 damage.
+
+[Speaker 1]
+Okay, it's the same anyways.
+
+[Speaker 2]
+Yeah. Something like this.
+
+[Speaker 1]
+I guess it's not automatically... Adding the extra damage.
+
+[Speaker 2]
+All these times I've been putting... Magic weapons in. Ah, that's really upsetting.
+
+Oh wait, no. That for a claw attack. Maybe it has been doing it.
+
+I didn't know that. Nope, it's not putting in the... The rune for the base damage.
+
+I had to keep that in mind.
+
+[Speaker 10]
+Pardon?
+
+[Speaker 4]
+Yep, perfect. And then that one should be dead. With the extra damage.
+
+[Speaker 10]
+Mhm.
+
+[Speaker 2]
+You get hit. And you'll just... Get moved into him.
+
+And... I don't really have another turn with this one. Oh wait, no.
+
+A little bit of flanking. That's her turn. Goes to...
+
+Hydraulic push. To critical miss. Don't move here.
+
+That'll bring us to... Aisha.
+
+[Speaker 3]
+Is the keystone going to go off this round?
+
+[Speaker 10]
+Oh yeah.
+
+[Speaker 3]
+Alright, I'll try and disable it then. I'll step up and... Ah, I go right off the check.
+
+I'll just roll an arcana check. What was the bonus I get? Whoops.
+
+I just gave myself dying. Ignore that. She did not step up to it to die.
+
+She only has fey. She doesn't have the other language. What was the other language you mentioned?
+
+Nah, don't have that one. So no bonus then?
+
+[Speaker 2]
+Plus one?
+
+[Speaker 3]
+Sorry.
+
+[Speaker 2]
+Both languages just need to get a plus one.
+
+[Speaker 3]
+I have fey.
+
+[Speaker 2]
+Whatever, you roll first, and then... Yeah.
+
+[Speaker 3]
+Whoops, 28.
+
+[Speaker 2]
+Yeah, so you're able to disable it.
+
+[Speaker 3]
+That's an action to move, two actions to disable. That's my turn.
+
+[Speaker 2]
+Play Garbage.
+
+[Speaker 6]
+Hmm... I think I'm going to cast Protector Tree and place it right here. I don't know how you go about doing that, but...
+
+[Speaker 2]
+I don't know why this guy's in my square, but... When you're going to...
+
+[Speaker 6]
+Oh, I'm sorry, I did it out of turn.
+
+[Speaker 8]
+You go 50.
+
+[Speaker 10]
+I'm going to cast Kaiju.
+
+[Speaker 2]
+I'm going to use... Swallow Hole, which I need to make. That's funny.
+
+I should put this whole thing down. That is a wall of text.
+
+[Speaker 3]
+Swallow Hole is a big wall of text.
+
+[Speaker 4]
+What size creature is it? Elusive or immediate.
+
+[Speaker 2]
+Which kaiju is, you know?
+
+[Speaker 4]
+I... Think it is... A medium-sized creature.
+
+[Speaker 2]
+That's what I figured. Paradise.
+
+[Speaker 6]
+Hmm...
+
+[Speaker 4]
+Is he Swallow?
+
+[Speaker 2]
+He is Swallow.
+
+[Speaker 4]
+Okay. He's grabbed and slowed one.
+
+[Speaker 6]
+I guess I already cast it. Can I put a Protector Tree right... Man, I don't know.
+
+I was going to put it right there, but then...
+
+[Speaker 5]
+He moved in space. Well, Protector Trees don't take up space.
+
+[Speaker 6]
+Oh, good to know. Yeah. I didn't realize that.
+
+Can I put it right on top of this Nixie, then? Sure.
+
+[Speaker 4]
+It needs to be an unoccupied space, doesn't it? A medium tree suddenly grows in unoccupied space.
+
+[Speaker 6]
+Think the ability? I put up in chat. I'll ping it again here for you.
+
+Oh, thank you.
+
+[Speaker 9]
+I accidentally clicked it out of turn. A medium tree suddenly grows in unoccupied space.
+
+[Speaker 5]
+Oh, it doesn't touch me at all. Unoccupied space. But it doesn't...
+
+Lower down.
+
+[Speaker 6]
+It only touches me in Tavel there, is the unfortunate part. But I'll do it for now. Got it.
+
+I'll put it right here for now, I guess. And then I'll just take a swipe at the mount thing. Unfortunately.
+
+End of turn. Maybe I can draw a tree.
+
+[Speaker 2]
+Pass it.
+
+[Speaker 1]
+Okay, we are going to... I'm assuming I can't move through the keystone space. So 5...
+
+10... 15... 20...
+
+Yeah, okay. I'm going to take this chance here. I'm going to Spellstrike this Nixie with Needle Dart.
+
+So we are going to make an attack against this guy with my runic weapon still up. That's a fucking crit, baby! So critical damage.
+
+And then I also, because I did Needle Darts in this, that means I also crit with Needle Darts, but it's already dead. So that's move, Spellstrike, that's the end of my turn.
+
+[Speaker 5]
+Okay. I'm no longer going to try to attack that guy because I just watched it just slump to the ground. So I'm going to come down here.
+
+Am I flanking with Kira on the crocodile?
+
+[Speaker 3]
+I think so.
+
+[Speaker 5]
+I think, yeah.
+
+[Speaker 3]
+It should automatically calculate that.
+
+[Speaker 2]
+Remember, roll first, and then...
+
+[Speaker 5]
+I'm going to do an underarm swing for the second one to get a slightly better map. And... nothing.
+
+That's my three. I just, I look at it, I'm like...
+
+[Speaker 2]
+Did you add darts to your point from earlier, or did you scroll that already?
+
+[Speaker 5]
+I used one early in the campaign.
+
+[Speaker 2]
+We got a second one between you guys swapping levels.
+
+[Speaker 5]
+Oh, I haven't grabbed the second one. That's why I was asking you earlier whether I needed to not coupon it or whether...
+
+[Speaker 2]
+I probably missed it, I'm sorry.
+
+[Speaker 5]
+No, you're fine.
+
+[Speaker 10]
+There we go.
+
+[Speaker 9]
+So... I'm trying to hit that one for...
+
+[Speaker 2]
+Nice. Jeez. And this...
+
+[Speaker 9]
+And the second one's a shot.
+
+[Speaker 4]
+Gucci. First action, I'm going to... do that sphere so it doesn't fly off just in case anything happens.
+
+It's in the party smash. I'm going to attack the creature holding my mouth hostage. I'm going to go a little bite it back, see how it likes it.
+
+No! I'm going to give an action to... two actions so it slows so it has one to try escape from the creature's mouth.
+
+[Speaker 3]
+I would take the swallow damage at the start of its turn, a d6 plus 2.
+
+[Speaker 4]
+Yep, and James, did you want to roll that damage for me?
+
+[Speaker 2]
+I'm looking for it. Alright, there we go.
+
+[Speaker 4]
+Ooh, the swollen creature's off guard. Alright, that matters. Does the creature have a 17 AC?
+
+Does a 17 hit?
+
+[Speaker 2]
+That's the... Oh. Can I have a physics check?
+
+[Speaker 4]
+To break out of the swallowed creature.
+
+[Speaker 2]
+Yeah, so 15 fails. Yep.
+
+[Speaker 10]
+No.
+
+[Speaker 2]
+Anything else in your turn?
+
+[Speaker 4]
+Oh no, I already ended it, it's Nixie's turn.
+
+[Speaker 2]
+I'm forgetting, it doesn't pop the noises when you're GMing. Ooh. I think Nixie's going to flip through the wall.
+
+Yep.
+
+[Speaker 1]
+Run away, you little...
+
+[Speaker 2]
+Yep. Yeah, sure.
+
+[Speaker 3]
+I'll spend three actions costing Horizon Thundersphere at the... lizard thing.
+
+[Speaker 4]
+Alright, alright. Nice.
+
+[Speaker 2]
+Brings us to the plate door base.
+
+[Speaker 3]
+And haven't targeted, sorry.
+
+[Speaker 2]
+Oh, okay, you're not doing the version that... that's my bad.
+
+[Speaker 3]
+No, I'm not spending two rounds, sorry. Just one full round. Oop.
+
+[Speaker 2]
+It's... I do not want to grab the... I want to boost the damage.
+
+Yeah, we'll try one more. That misses. You're next.
+
+Okay.
+
+[Speaker 6]
+Um... I will cast... Surestrike.
+
+Try to attack this guy. Dilemmas. Cool.
+
+Shield it is.
+
+[Speaker 4]
+Oh no, you're not trained in the USPRE though. No, I am.
+
+[Speaker 6]
+Unfortunately, I didn't get to... I had to drop the sustain on my embodiment, which makes me trained, so... I am performing under par right now.
+
+[Speaker 1]
+Pass. Okay. 5, 10, 15...
+
+8, 20... I'll move over here. This is the point.
+
+Move... I can't spellstrike. And if I recharge it, I will...
+
+Instead of doing that, I will raise a field. Oop. Why can't I raise my field?
+
+Oh, yeah, there it is. I'm going to raise my field, and then I'm going to just do a normal stab against this... thanoso.
+
+11 points of damage.
+
+[Speaker 2]
+Very good.
+
+[Speaker 1]
+That is the end of my turn.
+
+[Speaker 5]
+Dilemmas. Okay. Seeing the Nixie has run away, and seeing just this lizard dude, and knowing that he's started to eat one of our companions, I'm just going to...
+
+[Speaker 3]
+Sorry. Can I interject? The piercing damage that Tassa just dealt was enough to beat the rupture value of the Swallow Hole.
+
+That's enough to break each attack.
+
+[Speaker 2]
+I thought rupture was only against the critter.
+
+[Speaker 3]
+If the monster takes piercing or slashing damage equaling or exceeding its elicit rupture value from a single attack or spell, the engulfed... Oh, no, sorry. I've wasted our time.
+
+That is the engulfed creature. Yeah. Trying my best.
+
+Sorry.
+
+[Speaker 10]
+It's okay.
+
+[Speaker 5]
+I'm still going to just focus down on it and try to take it out as quickly as possible. And I will hero point that one.
+
+[Speaker 10]
+Damn.
+
+[Speaker 5]
+I'm just going to keep trying to hit it. Bring it down. Oh my god.
+
+Yeah. No, I'm struggling here.
+
+[Speaker 2]
+Yeah, those are the best ones. For real.
+
+[Speaker 9]
+I'm trying. I'm going to hold this shot.
+
+[Speaker 10]
+All right.
+
+[Speaker 2]
+Engulfs.
+
+[Speaker 9]
+Throw that charge.
+
+[Speaker 4]
+All right, Coogee's going to do a little bite. He's going to try to bite his way out. I believe in you, Coogee.
+
+That hits. Come on. And I'm going to do a swappy swap.
+
+[Speaker 3]
+Would you like me to roll the swallow hole damage?
+
+[Speaker 2]
+No, you don't have to swallow the hole. Nice.
+
+[Speaker 4]
+So, eight damage and two plus.
+
+[Speaker 10]
+Good. Very good.
+
+[Speaker 4]
+You do double damage and double bleed damage. And four persistent bleed damage. Sorry, six persistent bleed damage.
+
+[Speaker 2]
+If the encounter is ended. This one will be.
+
+[Speaker 1]
+Three actions to cut him out after the creature is dead.
+
+[Speaker 5]
+Yeah, I would help with that.
+
+[Speaker 1]
+Same.
+
+[Speaker 3]
+We should also cut out the 750 silver pieces in its belly.
+
+[Speaker 2]
+No, it's on the saddlebags.
+
+[Speaker 3]
+Saddlebags. That's a less exciting place to keep silver.
+
+[Speaker 2]
+I mean, I guess.
+
+[Speaker 4]
+How many of us are there? We can check in the guild stash and we can just auto split it.
+
+[Speaker 1]
+There's heart.
+
+[Speaker 2]
+Gosh, I wish heart was here for this right now. So, we're reaching the end of the session that I have time for anyways. This is a good thing to plan for any session since we're doing one-to-one time and stuff like that is to plan for what's your exit strategy.
+
+[Speaker 3]
+Go up the elevator. Back to the elevator.
+
+[Speaker 2]
+You guys go back to the elevator. There's a lever for moving it up or down.
+
+[Speaker 1]
+Oh. I didn't get any money from that auto split thing. Oh, wait, no, it's still.
+
+Sorry, never mind. I thought that it was like a button that you hit.
+
+[Speaker 4]
+I grabbed the party. Yeah, yeah, yeah. Mr. Minotaur man, can I please have my weapon back?
+
+[Speaker 6]
+Oh, yeah, of course. Is that Coogee? Is that right?
+
+Yep. Here you go.
+
+[Speaker 1]
+Alright, we've cleared this room out.
+
+[Speaker 3]
+Is the party stash accurate to what we found? The spear?
+
+[Speaker 5]
+Yes.
+
+[Speaker 3]
+No, the spear is someone's. Oh, that is someone's?
+
+[Speaker 5]
+No.
+
+[Speaker 3]
+The dancing spear was what Coogee.
+
+[Speaker 2]
+Can you guys hear me?
+
+[Speaker 6]
+Yeah.
+
+[Speaker 3]
+Yeah?
+
+[Speaker 2]
+Yeah, no, that spear was just on the lady. She just got killed beforehand.
+
+[Speaker 6]
+Oh, nice. Oh, hiya.
+
+[Speaker 2]
+How does loot work? I don't know where the 50 gold and the Elixir of Life came from, though.
+
+[Speaker 3]
+Yeah.
+
+[Speaker 9]
+I just checked. Yeah, I'm believing it.
+
+[Speaker 3]
+Any opposition to going back to town and selling the spear and splitting the money between us all?
+
+[Speaker 1]
+I want that money. I need armor.
+
+[Speaker 5]
+I mean, I would use the weapon, but we all have, it's worth a lot of gold. I'm not opposed to selling it. Yeah, I feel the same way, but I'm happy to sell it.
+
+[Speaker 2]
+Yeah. How are you guys getting back to town, by the way?
+
+[Speaker 3]
+Fuck, we're at the bluff. I mean, the bluff isn't a problem.
+
+[Speaker 2]
+I don't have a phone. There's merchants on boats all over the place. Here's my question.
+
+Shoot me. How are you getting out?
+
+[Speaker 6]
+So when we try to use the elevator mechanism, it doesn't work?
+
+[Speaker 2]
+Yeah, it doesn't. It's still de-powered. They'll come back online in...
+
+I believe it's 8 hours. Oh my god. Double check.
+
+This is why I wanted Hart to be here, because this is what happened. He took it down here. It's really funny.
+
+[Speaker 1]
+Why didn't they pull an elevator?
+
+[Speaker 2]
+Yeah, I'm trying to find... And then they came back to rescue one of the party members.
+
+[Speaker 1]
+What is this? It's just a little shit. Oh, okay.
+
+I thought we were about to get stabbed again. I think we just camp out at the elevator, keep the door closed.
+
+[Speaker 3]
+Pile the bodies up outside.
+
+[Speaker 1]
+Pile the bodies up outside to let people know not to fuck with us.
+
+[Speaker 2]
+Alright. I'm going to... So I normally don't leave off with a cliffhanger, however...
+
+[Speaker 4]
+It's ratified, swap weapons. The weapon I'll swap is worth more. It's ratified, swap weapons.
+
+[Speaker 2]
+Don't sell anything off yet, just because you guys aren't out yet.
+
+[Speaker 4]
+I'm not going to swap stuff off. I'm just swapping off for the purpose of equipment. Pardon?
+
+[Speaker 6]
+If we're stuck down here, do you mind if Kirinax holds onto the spear to use until we sell it?
+
+[Speaker 1]
+No, that makes sense. Okay, can I grab it for now?
+
+[Speaker 6]
+Of course, if I'm not here whenever you need it, just take it off my... I don't know how that works.
+
+[Speaker 3]
+I'm going to take 125 silver. That's 750 divided by 6. Just split between everyone?
+
+Not from the party stash. You'd need a loot container.
+
+[Speaker 2]
+Just take the 125 you said?
+
+[Speaker 3]
+Yeah. If there's 6 of us and I haven't miscounted. The party stash is when you look at the list of actors.
+
+There is an open sheet at the top of the party, above Esheesha. You can click that and then look at the... P.
+
+P? P. Oh my god, you've saved me so much time.
+
+Thank you.
+
+[Speaker 5]
+Nice. Very satisfying. I'll grab part of the silver as well.
+
+[Speaker 1]
+I almost grabbed the 5,000.
+
+[Speaker 2]
+Verheeshee, would you like to add rescue the Hidden Bluff players to the quest board? If you're down for running that for your session tonight?
+
+[Speaker 4]
+What do I have to do for it?
+
+[Speaker 2]
+Rescue the Hidden Bluff players.
+
+[Speaker 4]
+Elevator on! I have to do something. I wasn't here for the last time, what's getting stuck in here?
+
+How are we stuck in here?
+
+[Speaker 2]
+The elevator doesn't turn on for another 8 hours.
+
+[Speaker 4]
+So we just need someone to come in here to turn the elevator on?
+
+[Speaker 1]
+The foes are above us and the operator just kind of fucked off.
+
+[Speaker 2]
+It's not powered again for another 8 hours.
+
+[Speaker 4]
+Yeah. But it's the same, so how would someone else help us?
+
+[Speaker 2]
+Well, they could try to organize a rescue effort. You know, put a rope down, defend you guys in the process. Get the dwarves to come down.
+
+Maybe try to drill down next to the elevator or something like that. That'd be funny.
+
+[Speaker 4]
+How big is the elevator hole going down?
+
+[Speaker 2]
+About the size of me.
+
+[Speaker 5]
+Does the elevator have a door on the top that we could try to climb up?
+
+[Speaker 2]
+It's like a Dark Souls elevator where it's just the open platform.
+
+[Speaker 9]
+Okay. How far up is it?
+
+[Speaker 2]
+How far up is it? About 60 feet.
+
+[Speaker 5]
+I mean, I have 50 feet of rope. I mean, I have untamed spawn.
+
+[Speaker 4]
+I'm out.
+
+[Speaker 2]
+Any of the players from the last campaign could... There is a secret entrance to an elevator towards the top floors. And one of its stops is...
+
+One of its stops is on this floor. So they would just have to make it... Basically make it from the top of this map down to you guys.
+
+And then lead you guys back out. You don't have to run that. I just thought it'd be a fun idea.
+
+You guys can also come up with something in the meantime while I'm asleep. I work overnight, so during normal American times I'm usually asleep most of the time.
+
+[Speaker 4]
+I mean, I just have animal form. Can I just morph into a gecko and just climb up?
+
+[Speaker 1]
+Drag that large body over so we can just grab a 50 foot rope.
+
+[Speaker 4]
+And then lower it down. Yeah, gecko. Or a lizard.
+
+They have climb speeds.
+
+[Speaker 2]
+Let me know in the chat so I can read over it when I'm lucid.
+
+[Speaker 6]
+Discord or Foundry?
+
+[Speaker 2]
+Oh, Discord. That's the best way to do it.
+
+[Speaker 6]
+Was there a way to take out your fair share of silver? I didn't know how to do that, sorry.
+
+[Speaker 1]
+You just take 125 out.
+
+[Speaker 5]
+Okay, you just manually do it. And then you just add 125 to your own stuff. Thanks, sorry.
+
+And we'll have you guys here.
+
+[Speaker 2]
+Assuming you guys do make it out and you're welcome to make actions in anticipation of this, because it sounds like you guys have a fine plan. Go ahead and go to the downtime bot channel. If you do slash, downtime action will allow you to set up a mark which character you're using.
+
+Category of action, which just has a bunch of different downtime types on it. Civic, commerce, upkeep, leadership, and army. That's all like kingmaker stuff if you have a kingdom.
+
+General is typical action. Secret is mostly for like heists, infiltrations, or whatever. Let's you write out the specific action, date range, campaign, and then finally enter a description.
+
+There's also a spot to enter a role. If you do that, it will go to... Go to ashcryptery.app. I have too many ashes. Broadsheets? No. Chronicles?
+
+Tales Archive? Downtime action. Cool.
+
+[Speaker 1]
+Action category, general.
+
+[Speaker 2]
+Go to this site and it will actually display the downtime action. Once people have done 10 downtime actions, I'd look over all the different actions and stuff like that. I'd look to see if there's any quest hooks or other rewards.
+
+The default one is XP for having done 10 downtime actions.
+
+[Speaker 6]
+What's the link? The .app.tales?
+
+[Speaker 2]
+That's the one that displays them. If you go to downtime, downtime bot is where I recommend people write down their stuff and ask questions about downtime or whatever have you.
+
+[Speaker 1]
+Okay. Thank you. Downtime bot...
+
+What category is this?
+
+[Speaker 2]
+Slash downtime action. Action category just shows you which downtime actions are shown to you. So for you guys, given that you don't have...
+
+Unless... If any of you want to do a heist in your downtime, like secret for everything else, you just click general.
+
+[Speaker 5]
+So you just put like... The only downtime activity that I'm thinking of right now is earn income. You just put earn income in the specific action?
+
+Exactly. Okay.
+
+[Speaker 2]
+Looks like... I'm not sure why, but embedding... Ah, internal server.
+
+Doing that thing where it's... I think it's like once an hour, it like reloads and stuff like that. And that's usually when the bot is also reloading.
+
+So normally it will give you a full list of the actions themselves, but sometimes it doesn't. But you can just type it in manually.
+
+[Speaker 4]
+Alright guys. Thanks for the session. Yeah, thank you for playing.
+
+You guys did excellent.
+
+[Speaker 6]
+Appreciate you all welcoming me to the server.
+
+[Speaker 2]
+Absolutely. You guys did fantastic. I don't have people going down to third level.
+
+You're good. Alright, I will see you folks later. It's time for me to go sleep.
+
+[Speaker 6]
+See ya.
+
+[Speaker 2]
+Yes, firekeeper. There you go. If you don't see it pop up right away, it goes to a SQL database and the website refreshes periodically from that automatically.
+
+[Speaker 11]
+Alright, see ya.

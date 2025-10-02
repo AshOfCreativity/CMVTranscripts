@@ -1,0 +1,3119 @@
+[Speaker 8]
+Oh, all right. There's another... probably go with one hand.
+
+[Speaker 1]
+All right, Nameless, this is going to be your second session, right?
+
+[Speaker 4]
+Yeah.
+
+[Speaker 1]
+And Chisa, is this your first?
+
+[Speaker 4]
+Yep, yep.
+
+[Speaker 8]
+Awesome. Okay. I know Heart wanted to join.
+
+Let's see where she's at.
+
+[Speaker 13]
+Hello! Hey!
+
+[Speaker 4]
+Finally.
+
+[Speaker 8]
+Let's see here. Can I de-toggle notifications?
+
+[Speaker 9]
+I'm still doing some audio stuff here.
+
+[Speaker 13]
+No worries.
+
+[Speaker 10]
+Uh, I took a nap immediately after I went to the playroom. Immediately after I went to bed. Or, uh, after I sent the point of shift.
+
+Fair enough. You're doing this now.
+
+[Speaker 8]
+What, buddy? What? I can see you.
+
+Can you hear me?
+
+[Speaker 10]
+Oh, there you are.
+
+[Speaker 8]
+Nice. All right.
+
+[Speaker 1]
+All right, briefly, uh, what characters are coming along today?
+
+[Speaker 8]
+You said it was Barbarian? All right, I can get your audio upwards. This will take place on the rise of the Road Tower.
+
+[Speaker 10]
+I think we did.
+
+[Speaker 11]
+Yeah.
+
+[Speaker 8]
+This will be on the 7th of this particular month. Let's have the current date there.
+
+[Speaker 1]
+Neat. Okay, so the way that I usually handle dungeons like this, uh, is, or the way I've been doing it recently is by just using an Appendix A style dungeon. That's something I can make use of later.
+
+But I'll probably do starting off with a grid, and then getting increasingly more random as time goes on. And your objective is to...
+
+[Speaker 8]
+Pull this up. Let's see. That's not a dungeon map.
+
+[Speaker 1]
+We're gonna start off with like a, a quote, real map, and then forward.
+
+[Speaker 9]
+Oops, something went wrong there. One second.
+
+[Speaker 1]
+Background images first configured. That's why it didn't work. Okay.
+
+So, we're gonna have a very short session, and so far as the dungeon is concerned. I'm just letting you set up for next time, because I'll make sure that I have, um... This is going to be a speed test for how quickly you guys can move over, stuff like that.
+
+[Speaker 8]
+And whether or not my cat can get attention. Yeah, you.
+
+[Speaker 1]
+You specifically. You want pets. All right, um, Heart and Chism.
+
+What kind of characteristics do you have? Oh, that's why I haven't been hearing you guys. Okay, hold on a second.
+
+All right, now I can hear you.
+
+[Speaker 2]
+Oh, so, uh, you didn't catch?
+
+[Speaker 1]
+Okay, um, I was saying... I heard nothing for a really long time.
+
+[Speaker 2]
+Okay, that, that makes sense. Um, uh, well, my bard is free, so I'm, I'll use that one.
+
+[Speaker 4]
+I don't have a guess if he ducked or died.
+
+[Speaker 9]
+Because I heard none of that. What's up?
+
+[Speaker 4]
+I said I only have the Yasuke Takagai, or the Yasuke Takagai, the fighter.
+
+[Speaker 1]
+I didn't quite hear that. I have an auditory processing disorder, so you're gonna have to give me a moment.
+
+[Speaker 4]
+Uh, that's fine. Can, can the others hear me fine?
+
+[Speaker 11]
+Yeah, I can hear you.
+
+[Speaker 6]
+You can type it out as a voice overflow.
+
+[Speaker 1]
+Or during the session, you could also do it with, um, during the session, use the chat in Foundry, if it, if it's relevant to the game that is.
+
+[Speaker 6]
+Okay, all good. Okay, and what kind of, uh, character is Yasuke Takagai? Chizu?
+
+Wood Elf Fighter. Wood Elf Fighter, nice. He worked in the Foundry chat.
+
+Okay, um, but, but, but can you hear me now? A little bit. Yeah, we can.
+
+Yeah, it's mostly the volume.
+
+[Speaker 3]
+Make the sound of Chizu 200 percent.
+
+[Speaker 4]
+Is it that soft? Yeah. Sorry, man.
+
+It's probably the seats, you know what I mean?
+
+[Speaker 1]
+All right, go ahead and place your characters on the, uh, bottom of the map here.
+
+[Speaker 6]
+The map is black for me. Here? Mm-hmm.
+
+Right where I'm thinking. All right, thank you. Um, I don't know.
+
+The map's still dark. Yeah. Uh, what kind of vision does your character have?
+
+Is it, um, what's up? Sorry, what, what do you mean by what kind of vision?
+
+[Speaker 1]
+Like, do they have dark vision? I thought this one was a tree. No.
+
+[Speaker 6]
+Let me, let me. Let me check. I don't think.
+
+[Speaker 2]
+Okay, I can switch this out for, I can probably switch this out for a character that does have dark vision if it's required for this dungeon.
+
+[Speaker 1]
+Oh, no, no, it's not at all. All you have to do is...
+
+[Speaker 6]
+If you want, I can just get a torch. Oh, yeah, it's visible now. Oh, there we go.
+
+Uh, sorry, um, Chizu? What's up?
+
+[Speaker 4]
+I don't have a token yet. Like, this is my, like, first time yelling at you guys.
+
+[Speaker 6]
+Oh, did you create your character on D&D Beyond?
+
+[Speaker 1]
+Hold on, this is not the only way to do something. Did you create a character on Foundry?
+
+[Speaker 3]
+Uh, no, on D&D Beyond.
+
+[Speaker 6]
+He can just download from D&D Beyond. Mm-hmm. Open the character sheet and click the D&D Beyond thing on the actor.
+
+[Speaker 1]
+You might not know where that is. Are you, go ahead and go to the actors tab.
+
+[Speaker 6]
+And click create actor. Okay, I'm in there.
+
+[Speaker 1]
+Perfect. All right, uh, and then start creating the character. You should see a little icon that looks like the D&D Beyond logo that Nameless was mentioning earlier.
+
+[Speaker 4]
+Got you. I must import it, right? Yeah, I didn't want to do it earlier.
+
+[Speaker 3]
+Did you set it as private, your character? Did you set it as private?
+
+[Speaker 4]
+I'm setting it as public now. I forgot to make it public.
+
+[Speaker 6]
+I was struggling with that part. Oh, and can I ask a question?
+
+[Speaker 3]
+I don't understand the initiative or advantage thing. Initiative, I can't tell that much.
+
+[Speaker 1]
+All right, you don't understand either initiative or advantage?
+
+[Speaker 6]
+Yeah.
+
+[Speaker 1]
+Okay.
+
+[Speaker 6]
+It says plus two, but I don't know how that works.
+
+[Speaker 1]
+Wait, what's up?
+
+[Speaker 3]
+It says plus two, but I don't know how that works. So can you explain?
+
+[Speaker 1]
+Plus two to initiative? Yeah.
+
+[Speaker 3]
+Yeah.
+
+[Speaker 1]
+So when you roll for initiative, that's going to determine your order in the combat. And that plus two means that you have a plus two to that roll.
+
+[Speaker 6]
+When do I roll initiative?
+
+[Speaker 1]
+You'll be rolling that whenever we engage in, or for the most part, when we engage in combat.
+
+[Speaker 3]
+Like damage or attack?
+
+[Speaker 1]
+Nope. When we roll for initiative, that's to determine your order in the combat.
+
+[Speaker 6]
+Oh, okay. Thanks. Awesome.
+
+Just let me know once that's finished importing. You guys still there? Sorry, what was that?
+
+Oh, there you go. Now you have a token. Oh.
+
+Oh. Egon.
+
+[Speaker 4]
+Tasting, tasting, one, two. Hey, we can hear. We're talking.
+
+[Speaker 11]
+Yeah, we can hear you.
+
+[Speaker 4]
+Oh, okay. Got you. Sorry, man.
+
+Oh. My audio just messed up there.
+
+[Speaker 11]
+Okay.
+
+[Speaker 10]
+And we're going to get started here in just a moment. I have to.
+
+[Speaker 1]
+And then we'll do a test to see how many rooms you all could get through.
+
+[Speaker 11]
+Get out there.
+
+[Speaker 3]
+I have a bird. It's a cockatiel. He's watching us.
+
+[Speaker 12]
+What's his name?
+
+[Speaker 3]
+It's crazy in my language.
+
+[Speaker 4]
+Okay, so how do you say it in your language? Children. Children.
+
+[Speaker 12]
+Yeah.
+
+[Speaker 4]
+Nice. You from where are you?
+
+[Speaker 6]
+Turkey. Oh, nice. Cool.
+
+You? South Africa.
+
+[Speaker 3]
+Oh. I thought it was close to the time zone.
+
+[Speaker 4]
+Well, I think it is. You're plus three and I'm a plus two GMT, right?
+
+[Speaker 3]
+It's only a hard difference. Hard difference. My accent sometimes kind of worse.
+
+So I don't really talk English in my native language.
+
+[Speaker 4]
+Sorry. That's all good, man. Single English is my second language as well.
+
+[Speaker 3]
+Yeah. The one in my city or the school, they don't really talk English, but I will take a license exam in the Cambridge thing. We will have a Cambridge school exam licensing.
+
+I will take courses, so it'll be better.
+
+[Speaker 4]
+Yeah, man. Go you. That's it's good that you want to improve.
+
+[Speaker 12]
+Yeah.
+
+[Speaker 4]
+But you, for me, you sound fine, though.
+
+[Speaker 3]
+I'm 17, though. I'm just reading mangas and novels. What's your favorite manga?
+
+It's kind of changing, but for the best one, I think it's like...
+
+[Speaker 4]
+Jujutsu?
+
+[Speaker 3]
+What? Solo farming in the tower, I think. Or I could say...
+
+[Speaker 12]
+I'm looking at the...
+
+[Speaker 3]
+The Heavenly Demon Can't Live a Normal Life. It's the best, I think.
+
+[Speaker 6]
+Sorry?
+
+[Speaker 3]
+The Heavenly Demon Can't Live a Normal Life, I think. It's in the top three. Ah, have you read Jujutsu Kaisen?
+
+I watched it. But my favorite is, I think, Pick Me Up Infinite Gacha. I've never read that before.
+
+I'll check it out. I normally like the action and combat ones. So, combat.
+
+I don't like the other types. My bad.
+
+[Speaker 4]
+Same, same. Action all the way, man.
+
+[Speaker 1]
+Yeah. I am ready to go.
+
+[Speaker 11]
+Yay.
+
+[Speaker 1]
+All right, before you use a door, this door can be opened by clicking on it. And who's our torch holder right now?
+
+[Speaker 10]
+Right now, it is...
+
+[Speaker 13]
+Me.
+
+[Speaker 3]
+Should I go beforehand?
+
+[Speaker 11]
+Yeah.
+
+[Speaker 2]
+Door's open.
+
+[Speaker 6]
+On we go.
+
+[Speaker 4]
+Going in. Do you want to maybe look around first?
+
+[Speaker 12]
+Left or... Left, there's a snake.
+
+[Speaker 1]
+Yeah, there is a snake next to you. What I'm going to do for that snake is, I'm going to roll for... What are you doing when you see this thing?
+
+[Speaker 2]
+Backing away first.
+
+[Speaker 3]
+What about charging in and taking from the head or the neck?
+
+[Speaker 1]
+Okay, that probably lines up with its reaction.
+
+[Speaker 3]
+Yeah, because I have a gripping.
+
+[Speaker 1]
+All right, so go ahead and right-click your characters. You're going to be adding yourselves to the initiative counter. All right, then.
+
+Advantage? I believe you... Do you have advantage on initiative when you're...
+
+True, I think. Yeah, yeah, that sounds about right. I did.
+
+Shiza, go ahead and right-click on your... There you go. You got it.
+
+[Speaker 3]
+And I'm not lucky with the combat encounters thing.
+
+[Speaker 1]
+I always get a lot of... Go ahead and go to the second... Yeah, so the second tab next to the chat is combat encounters.
+
+Click on that, you'll see your character. And you can just click on that little D20 down there to roll initiative.
+
+[Speaker 4]
+Uh, yep, yep. What I wanted to ask is how would I roll initiative with advantage because of my weapon?
+
+[Speaker 1]
+Because of your weapon? Go ahead and click on it and it will offer you that menu.
+
+[Speaker 4]
+Ah, nice.
+
+[Speaker 1]
+There you go.
+
+[Speaker 3]
+Why do I always get the lowest amount?
+
+[Speaker 1]
+So we're going to start off with a common.
+
+[Speaker 2]
+Okay, um, so as a... As a bonus action, I do vicious mockery and I... And I...
+
+Let's see, do I have to actually insult it or do I... Or do I simply roll for vicious mockery?
+
+[Speaker 1]
+Oh, you can roll for vicious mockery. That's okay. If an insult comes to mind, you're free to...
+
+You're free to engage.
+
+[Speaker 2]
+Okay, well, um, as for now, it has to do a wisdom saving throw.
+
+[Speaker 1]
+All right. And remember, if you do ping vicious mockery in the chat, I can then... Oh, yes, sorry.
+
+[Speaker 2]
+There we go. Can you see it or is it in private mode?
+
+[Speaker 1]
+Oh, it might be on private right now.
+
+[Speaker 2]
+Okay, reveal to everyone. There we go.
+
+[Speaker 6]
+What's that class? Is it bard or... You have to roll.
+
+Yeah.
+
+[Speaker 2]
+Yeah, you just... You just passed the vicious mockery and... In the meantime, I can do bardic inspiration as my bonus action.
+
+So I bardically inspire our local barbarian. Just... Wink.
+
+There you go.
+
+[Speaker 3]
+But I think this snake mockers you.
+
+[Speaker 1]
+Already?
+
+[Speaker 2]
+Do you not... Do you not use bardic inspiration, mate?
+
+[Speaker 9]
+What's up?
+
+[Speaker 2]
+All right. No, sorry. I was talking to the barbarian, but I can help him with it later.
+
+You can move. Yes, that is my turn.
+
+[Speaker 9]
+What do you think is up?
+
+[Speaker 1]
+Jesus. You got a pretty simple turn. He's just going to move up.
+
+And he's going to start off by attempting to constrict. I'm rolling good tonight. I'm liking this.
+
+All right. You take 9 budgeting damage. And...
+
+You are currently restrained.
+
+[Speaker 3]
+Can't I do a save roll? You do a save on your turn. Oh, okay.
+
+[Speaker 1]
+What this thing does is it attacks with its constrict. The target is grappled. Until the scrappled ends, the creature is restrained.
+
+A few natural critters you'll run into that have features like this. And then we're coming over to Yusuke.
+
+[Speaker 4]
+Cool, cool, cool.
+
+[Speaker 1]
+I think it's going to drag him a little bit.
+
+[Speaker 10]
+Grab him while I can go like two squares.
+
+[Speaker 4]
+He's giving me help.
+
+[Speaker 11]
+We're coming, we're coming. There we go.
+
+[Speaker 4]
+I'm going to move one forward. Then I'm going to use a fighting spirit. Let me just check if it's a bonus action.
+
+[Speaker 1]
+Fighting spirit, I'm pretty sure is a bonus action.
+
+[Speaker 4]
+Yep, yep. I'm using one fighting spirit. And then I'm going to target the snakey.
+
+Can I hurt him if I target that snake?
+
+[Speaker 1]
+You could hurt the snake without hurting him.
+
+[Speaker 4]
+Okay. So then I'll target the snake. And then I'll do like two shots.
+
+Does a 17 hit?
+
+[Speaker 1]
+17 does in fact hit.
+
+[Speaker 4]
+Okay, first round of damage. 11. Second shot, 24.
+
+That hits. And the second amount is 14. So a total of 25 damage.
+
+[Speaker 1]
+Nice.
+
+[Speaker 4]
+Can I ask how the snake is looking?
+
+[Speaker 1]
+It is, it's bloody, if you will. It's right at about half.
+
+[Speaker 4]
+Cool. In that case, action surge. Where's my action surge at?
+
+Cool. So I'll use my action surge and I get like two more attacks.
+
+[Speaker 9]
+That's correct.
+
+[Speaker 4]
+And I still get the advantages of fighting spirits. With advantage, attack the same snake. Where's the second one?
+
+24 hit. There's another 12 damage. 29 hit.
+
+It's another 13 damage. So 25 damage again.
+
+[Speaker 9]
+Very nice. This thing is on its last legs, metaphorically speaking.
+
+[Speaker 4]
+Cool. And then I'll use the rest of my movement. I only used five, so I have 30 left to move outside the door again.
+
+And I end my turn there.
+
+[Speaker 9]
+All right, so snake number two.
+
+[Speaker 1]
+Oh.
+
+[Speaker 2]
+Of course, there are two of them.
+
+[Speaker 1]
+He's gonna come up here. Slithering in from the outside. And it's going to attempt to constrict as well.
+
+[Speaker 8]
+There's a 16 here.
+
+[Speaker 2]
+Yeah. Just again. You keep just missing.
+
+Just meeting my ACs. This is so frustrating.
+
+[Speaker 1]
+All right, you'll take 13 damage and you will be restrained. Moving on to Felix.
+
+[Speaker 3]
+So how can I get out of the constrict? So you have two options.
+
+[Speaker 1]
+One is to kill this thing. And the other is to use your action to make a athletics check against its safety seat.
+
+[Speaker 3]
+Can I ask one thing before? How does the action thing work? Again, it does only one bonus action and one action, or?
+
+[Speaker 1]
+No, so it would take your full action to get out of it.
+
+[Speaker 3]
+Then can I use frenzy attack? One bonus action. And when I hit it with my lifestealing sword.
+
+Can I do two times because of the frenzy attack?
+
+[Speaker 1]
+What do you mean? So at this level, you have two attacks.
+
+[Speaker 3]
+Yeah, I used frenzy attack. So can I use two actions or am I wrong?
+
+[Speaker 1]
+No, no. So frenzy attack took in order to activate that you had to do a bonus. Wait, no, that's just something you could do.
+
+[Speaker 4]
+I think it's a bazooka. Yeah, so I can do that. They have to start raging.
+
+[Speaker 1]
+And then once you do that, then you will be able to do that on your next turn.
+
+[Speaker 3]
+Do I reach right now?
+
+[Speaker 11]
+You can.
+
+[Speaker 3]
+I don't want to. Okay. I will just use my sword attack.
+
+It's at disadvantage because you're...
+
+[Speaker 1]
+At disadvantage because you're restrained. 12. Still just meets it.
+
+[Speaker 3]
+Damage.
+
+[Speaker 9]
+I killed him in the first. Yeah, nice.
+
+[Speaker 3]
+Yeah, 17.
+
+[Speaker 9]
+All right, he's toast. You are no longer restrained.
+
+[Speaker 4]
+Dude, that was max damage on that one, eh?
+
+[Speaker 9]
+So... Oh, he rolled two sixes.
+
+[Speaker 4]
+Yeah, he got like six six plus the five. Dope.
+
+[Speaker 3]
+Yeah. What can I do now? Can I just do a...
+
+[Speaker 1]
+You have a second attack left, so you could attack this one.
+
+[Speaker 3]
+I will be moving here and use my greatsword one more time. I'm not at disadvantage, so normal. 28.
+
+Critical. When you roll damage, go ahead and...
+
+[Speaker 1]
+Yeah, there you go.
+
+[Speaker 3]
+12. But I was just gonna ask... Extra 10 necrotic damage.
+
+[Speaker 1]
+Right, because of the...
+
+[Speaker 7]
+It's a lifestealing sword.
+
+[Speaker 1]
+And does that give you the health back?
+
+[Speaker 3]
+Temporary 10 hit points.
+
+[Speaker 12]
+Oh, okay.
+
+[Speaker 3]
+Do I do that?
+
+[Speaker 12]
+Yep.
+
+[Speaker 3]
+So... Well, what did I do? What did I do?
+
+[Speaker 2]
+I think you accidentally deleted your token, mate. Just drag it back up.
+
+[Speaker 1]
+No, stop doing that. Hold on, I don't know why you keep dragging over the...
+
+[Speaker 3]
+I don't know. It's just... I don't...
+
+I can't see the snakes. Sorry.
+
+[Speaker 1]
+I'm just... Oh, okay. When you have a torch, you could just double right click on your character sheet and save yourself.
+
+But Kalman, it is your turn.
+
+[Speaker 2]
+Sweet. How does the snake look? The other snake died, yes?
+
+Yes.
+
+[Speaker 1]
+So this one is at 2 thirds.
+
+[Speaker 2]
+Okay. Just a quick question. While technically not a game mechanic, could I shrink myself to escape rather than do an athletics check?
+
+[Speaker 1]
+Now that you are restrained, you're going to have to take an athletics check.
+
+[Speaker 2]
+Ah, pity. Well, that's fair. Or I can attack it.
+
+Hmm. Hmm. Oh, we'll risk it.
+
+Let's... Ah, dang it. Well, that didn't work.
+
+Is that... That's my whole action, right? Oh, let's see if I have anything I can bonus action out of here with.
+
+[Speaker 3]
+The... The hit points temporary one. Sir.
+
+[Speaker 1]
+You had it in. Doesn't look like you did it.
+
+[Speaker 3]
+Nope. Sir, can I ask the thing? How does the temporary hit points work?
+
+[Speaker 1]
+Hold on a second. I'm going to do the sorcerer snake's turn.
+
+[Speaker 2]
+Wait, wait, hold on. If I'm still constrained by it, would I take more damage?
+
+[Speaker 1]
+It depends. I think he's gonna do a bite and he's probably gonna bite on you specifically.
+
+[Speaker 2]
+Okay, cool. Would I be able to just misty step out of the grasp?
+
+[Speaker 12]
+Yeah.
+
+[Speaker 2]
+Cool, I do that. Just hop away.
+
+[Speaker 1]
+All right, now Felix, go ahead and put your question in the chat.
+
+[Speaker 3]
+Me?
+
+[Speaker 12]
+Yep.
+
+[Speaker 3]
+I was just asking...
+
+[Speaker 1]
+Nope, you're in the chat. Hold on, dude. No, I'm very, very specifically asking you to do it in the chat so I can do this thing's turn at the same time.
+
+Especially when we have sessions with like five or six people. Those temporary hit points work. Okay, so put them in your thing.
+
+All right, does a 25 hit?
+
+[Speaker 7]
+Does a 25 hit, Felix?
+
+[Speaker 3]
+So 75?
+
+[Speaker 11]
+Yeah.
+
+[Speaker 3]
+I don't know how to take damage without editing.
+
+[Speaker 1]
+All right, so it's gonna be 14 points of damage. Go ahead and double click on your character. Okay.
+
+Oh, it looks like you already applied it to you.
+
+[Speaker 3]
+Yeah, but I applied the 25.
+
+[Speaker 1]
+Wait, no, it wasn't 25 damage. It was 14.
+
+[Speaker 3]
+Yeah. The 10 temporary hit points count.
+
+[Speaker 1]
+So we got 10. Now try applying it.
+
+[Speaker 3]
+It was 95 with temporary, so 95 minus. It's 81.
+
+[Speaker 9]
+How's it 95 with temporary? You took damage earlier.
+
+[Speaker 3]
+Did I? Oh, my bad. No worries.
+
+I forgot about that. What was that? You took...
+
+[Speaker 9]
+Not 13, but worse. You took nine earlier.
+
+[Speaker 3]
+Nine, okay. Then 85. 76.
+
+[Speaker 1]
+Then you got 10 temporary hit points. This little thing that says... What did I do again?
+
+What are you clicking on right now?
+
+[Speaker 3]
+I accidentally do a backspace.
+
+[Speaker 1]
+Before you have your character selected, all right?
+
+[Speaker 7]
+Yeah. What do I do?
+
+[Speaker 10]
+Go ahead and drag it back on.
+
+[Speaker 3]
+I'm doing so many mistakes. My bad.
+
+[Speaker 9]
+All right. I'm just going to do this for the moment.
+
+[Speaker 3]
+So it's going back up 86. Don't click on anything. Then it will be...
+
+[Speaker 1]
+And now say, don't click on anything.
+
+[Speaker 3]
+Yeah, I won't.
+
+[Speaker 1]
+What time am I asking?
+
+[Speaker 3]
+I didn't. I was just checking if anything... I didn't click.
+
+Just checked it.
+
+[Speaker 1]
+All right. You want to add temporary hit points. There's a little box that says temp that you can click on.
+
+[Speaker 11]
+Yeah.
+
+[Speaker 9]
+All right. Next up is Yosuke.
+
+[Speaker 4]
+I'm going to attack the snake. Secretive snakes in this play. Does the 17 hit?
+
+[Speaker 9]
+Yeah. Yes, it does.
+
+[Speaker 4]
+Uh, 10 damage. Second attack is 23 to hit. That hits.
+
+And 11 damage. Nice.
+
+[Speaker 9]
+All right. It is nearly dead here.
+
+[Speaker 7]
+My attack? Oh, thanks. Okay.
+
+[Speaker 1]
+I see you're a criminal restrained. It's going to attack you with a... Actually, it's just going to...
+
+Might as well just do the constrict again. I think it has higher damage. Damage because you're restrained.
+
+Yeah. Wow.
+
+[Speaker 7]
+So 53?
+
+[Speaker 1]
+Go ahead. If you right click... If you have your character selected, and you right click the damage, you can just click apply damage, and it'll automatically apply it to that character.
+
+[Speaker 3]
+What? To where? I did?
+
+[Speaker 1]
+All right. Right click on the damage number that says 19 in chat.
+
+[Speaker 4]
+Oh.
+
+[Speaker 1]
+There you go. Did I? That's its turn.
+
+You are up. I did what?
+
+[Speaker 3]
+It didn't change anything?
+
+[Speaker 1]
+I will do it for you.
+
+[Speaker 4]
+Dude, how much HP do you have left? 85. It's you.
+
+That's a lot still.
+
+[Speaker 1]
+Oh, yeah, it's 53 left. His max is 85.
+
+[Speaker 4]
+Yeah. It's still a lot though.
+
+[Speaker 9]
+All right, Felix. What do we got for us?
+
+[Speaker 3]
+So can I use ring of regeneration first?
+
+[Speaker 1]
+Ring of regeneration? That's passive. That's passive, but I need to...
+
+Or 1d6 points every 10 minutes.
+
+[Speaker 3]
+So can I use that or is it not? It's not 10 minutes.
+
+[Speaker 2]
+It heals you in the background. So just wait.
+
+[Speaker 3]
+Okay, and I will just use my great sword of lifestealing. But before that, I will just do a frenzy attack. For attack.
+
+Normal. 20. It hits, I think.
+
+Damage. Normal. 10.
+
+So I will be attacking one time. The second time. And 12.
+
+22 damage.
+
+[Speaker 1]
+Now, do you have advantage on these attacks?
+
+[Speaker 3]
+I don't know. It's 10 necrotic damage.
+
+[Speaker 1]
+Yeah, so again, frenzy attack only works when you're raging.
+
+[Speaker 7]
+Is it really?
+
+[Speaker 1]
+Yes, if you click on more details, it says starting when you choose this path at the third level. You can go into a frenzy when you rage.
+
+[Speaker 3]
+Can I just use my rage and just get rid of that? It lasts 10 runs, but can we do it like 8 runs?
+
+[Speaker 1]
+In any case, so what you would do next time is if you want to use frenzy attack, you rage on your first turn and then every turn following, you could use that frenzy attack.
+
+[Speaker 3]
+Okay, is it dead?
+
+[Speaker 1]
+It is.
+
+[Speaker 3]
+I'm not unconstrained. So do we loot them?
+
+[Speaker 9]
+You could attempt to do some harvesting.
+
+[Speaker 3]
+I want to harvest.
+
+[Speaker 1]
+All right, harvesting is usually a survival or nature check. This one is probably going to be a nature check. But if you could justify a skill that you're using, like, hey, I think my character is like from this place.
+
+[Speaker 3]
+I don't have any intel as to where my character comes from. I'm a soldier. So can I...
+
+No, I don't know what to use. Animal handling? No.
+
+[Speaker 2]
+I'll take the other snack. You said it's a survival roll?
+
+[Speaker 9]
+It could be a survival.
+
+[Speaker 3]
+All right. Nice. Uh, can you handle the other one, Chizza?
+
+[Speaker 4]
+I think Kahati's taking the other one.
+
+[Speaker 3]
+Because my survival skill is a minus three.
+
+[Speaker 2]
+Ah, and what's yours?
+
+[Speaker 4]
+My survival is only a plus one.
+
+[Speaker 2]
+Oh, I can do the other one as well.
+
+[Speaker 4]
+This one as well.
+
+[Speaker 2]
+Please. Minus three. Yeah, let's hope I don't roll low, that's all.
+
+[Speaker 10]
+Oh, unfortunate.
+
+[Speaker 2]
+Speaking... speaking of... Uh, yeah.
+
+[Speaker 1]
+You chop up the body a lot, and at the end of it you're just like, yeah, I'm just gonna... You take off the... you take off the head.
+
+It's pretty much the only thing that can be salvaged at this point. And you get a few rations worth of snake meat.
+
+[Speaker 4]
+Okay. While they're doing that, I'm playing Mozart's Fantasia in D minor. May I ask you a question?
+
+[Speaker 1]
+I'm gonna give you guys a little bit of time, probably about like 10 minutes worth.
+
+[Speaker 7]
+So my ring works?
+
+[Speaker 1]
+I'm gonna check for a random encounter.
+
+[Speaker 3]
+Can I use my ring right now?
+
+[Speaker 1]
+Sure. Uh, your ring would activate. Like I said, it's not you using it, but it would activate in those 10 minutes.
+
+Yeah, so... The fact that anytime I roll for an encounter check, that's a good time for you to click on it.
+
+[Speaker 7]
+I clicked it.
+
+[Speaker 1]
+Does that make sense? But it doesn't roll, so... Oh, just slash R 1d6 plus...
+
+wait, is it 1d6? Yeah, it's just 1d6.
+
+[Speaker 12]
+Okay.
+
+[Speaker 1]
+1d6.
+
+[Speaker 3]
+One!
+
+[Speaker 9]
+Nice.
+
+[Speaker 1]
+All right, so there's two staircases. One goes to a lower level, and the other one goes to an upper level.
+
+[Speaker 2]
+Where would you guys like to go after?
+
+[Speaker 3]
+I wanna be guarding in the first with the invisibility ring. Do you want me to go beforehand?
+
+[Speaker 4]
+Uh, can I try and peek through the keyhole of the top one, the top two?
+
+[Speaker 9]
+Yes, you can.
+
+[Speaker 1]
+I'll roll for room contents on you.
+
+[Speaker 4]
+I'll just close the door again. Are we good for going top, guys?
+
+[Speaker 9]
+The top one looks empty. Okay, you guys ready to go in?
+
+[Speaker 2]
+Can I look through the hole of the bottom one?
+
+[Speaker 3]
+Yes, you may. If you want me to go inside first, I have an invisibility ring.
+
+[Speaker 2]
+Okay. But...
+
+[Speaker 3]
+I don't know if it works without an action, but...
+
+[Speaker 2]
+How many charges is it?
+
+[Speaker 7]
+It doesn't say anything.
+
+[Speaker 3]
+But it says, like, as an action, you can turn invisible. So I can use it here. Oh!
+
+Yeah? That's nice. Can I use it, or I can't?
+
+[Speaker 1]
+Go ahead and put it in chat. That helps people figure out what you're referring to.
+
+[Speaker 3]
+Here.
+
+[Speaker 2]
+Yeah, yeah. Sure, go ahead, dude.
+
+[Speaker 3]
+I'm invisible.
+
+[Speaker 2]
+Nice. So, do... Oh, oh, there he goes.
+
+[Speaker 3]
+I'm going to the web!
+
+[Speaker 9]
+All right, you're opening the door.
+
+[Speaker 3]
+Game pass. Oh, random encounter.
+
+[Speaker 1]
+Oh, I'm rolling for contents. Nice.
+
+[Speaker 3]
+Awesome.
+
+[Speaker 7]
+Nah.
+
+[Speaker 3]
+Is it a trap?
+
+[Speaker 9]
+You will find out in just a moment.
+
+[Speaker 4]
+In three, two, one, did.
+
+[Speaker 1]
+All right, you feel the whole, um... One of the, one of the plates that you step on, uh, just kind of sinks into the ground. And electricity arcs across the room.
+
+I need you to make me a constitution saving throw. Go ahead and double click on your character, and then click on constitution.
+
+[Speaker 3]
+Double click. Uh, constitution, just constitution. This, able to check.
+
+[Speaker 1]
+And it will be...
+
+[Speaker 3]
+Advantage or normal?
+
+[Speaker 1]
+Normal. What the? That was supposed to be a saving throw, so it should have added your...
+
+Your proficiency bonus, which is plus three. The good news is, um, you failed anyway, so you don't have to worry about that.
+
+[Speaker 3]
+Why the, what the hell?
+
+[Speaker 7]
+I hit 16 constitution. How the hell did I fail that?
+
+[Speaker 3]
+Uh, you... I'm, I'm ranting it.
+
+[Speaker 7]
+You rolled a one. How did I roll one? 17 damage.
+
+[Speaker 4]
+I think you're getting obliterated, eh?
+
+[Speaker 3]
+Yeah, only 37 damage. of us.
+
+[Speaker 4]
+I'm gonna die. Do you guys maybe want to take a shot at this?
+
+[Speaker 2]
+Anyone have a healing potion? I have a healing spell. I need it.
+
+[Speaker 3]
+At the other action please.
+
+[Speaker 2]
+Do announce what you found and if it's all safe for us to come on.
+
+[Speaker 1]
+Nothing but I need to go another. Alright go ahead and make that count save again. What the?
+
+I would not have done this a second time.
+
+[Speaker 2]
+I'm used to the lord of conspiration. Cleanse me!
+
+[Speaker 1]
+Oh you're all good.
+
+[Speaker 2]
+Critical.
+
+[Speaker 1]
+You will only take half damage.
+
+[Speaker 7]
+Critical. What the? 11?
+
+[Speaker 2]
+Your laughter is so evil.
+
+[Speaker 9]
+You will take half damage. 11 or 12?
+
+[Speaker 1]
+11. 11 damage. Alright and let's see here.
+
+Since somebody is here who is not getting actively shocked. Let's see here. I keep wanting to say Vix.
+
+I keep thinking of the changeling. I was very surprised when. This one lights up.
+
+[Speaker 3]
+We need a necromancer.
+
+[Speaker 1]
+All the plates did like basically depress at the same time. So the one that Felix is on. That one.
+
+That one. And that one.
+
+[Speaker 3]
+I'm just going to go into the other room. So we just dodge.
+
+[Speaker 2]
+We just dodge those.
+
+[Speaker 1]
+Now the entire room lights up with lightning when that happens.
+
+[Speaker 3]
+Can I go to the other room? I'm opening the room.
+
+[Speaker 1]
+I'm going to roll for room contact.
+
+[Speaker 2]
+I'll just carefully go around. Go around it.
+
+[Speaker 1]
+It's empty. Looks like something was nesting in here.
+
+[Speaker 2]
+Why did I take that damage? I can't believe. Happens to the best of us.
+
+Alright. How much health did you say you had?
+
+[Speaker 7]
+23. 26. 26.
+
+[Speaker 11]
+Yeah.
+
+[Speaker 7]
+Only a fourth of the health as I started. One fourth.
+
+[Speaker 1]
+Chiz if you're looking through the keyhole there you notice that the next room is also mostly empty. Also has some some evidence of nesting inside of it.
+
+[Speaker 3]
+I'm not going inside again.
+
+[Speaker 4]
+What would what would I need to do to check the traps after I open the door?
+
+[Speaker 1]
+So you would need to make a a wisdom or intelligence check and if you were proficient in thieves tools you could add your proficiency bonus to it.
+
+[Speaker 4]
+Okay now that I'm proficient in thieves tools. So intelligence or wisdom you say right? Mm-hmm.
+
+So I open and then I do a wisdom. 14.
+
+[Speaker 1]
+You're not you're not seeing anything.
+
+[Speaker 4]
+Okay uh Felix it seems like it's safe for you to go in here. I'm not going in first again.
+
+[Speaker 11]
+I'm not invisible.
+
+[Speaker 3]
+I'm not invisible right now. I got damage so I'm not invisible.
+
+[Speaker 2]
+Okay let's see. 1d4 plus what's my modifier? Ah here we go.
+
+Ability modifier which is my charisma at uh 5. Oh if you click on rules I think it should roll for you. Oh come on.
+
+Why am I awake?
+
+[Speaker 4]
+Okay I'll I'll step in. No there's nothing.
+
+[Speaker 2]
+It's a bit unfortunate but gain 6 hp. Yeah. You did?
+
+I will die.
+
+[Speaker 7]
+I will die after this one I think.
+
+[Speaker 4]
+Okay I didn't set up a trap right?
+
+[Speaker 7]
+That's correct.
+
+[Speaker 4]
+Okay it seems it seems safe for you to go now Felix.
+
+[Speaker 3]
+I'm standing in the doorway. Whatever I'm going in. Hey.
+
+I'm just uh I will just say one thing first. How do I check my weight? Full weight again.
+
+Why are you doing that? Yeah I'm like 117 kilos right now of my character. I will just die if any trap hit me again.
+
+[Speaker 4]
+I'd like to peek through this door.
+
+[Speaker 7]
+It doesn't?
+
+[Speaker 3]
+Or is it?
+
+[Speaker 1]
+It says it doesn't appear to have anything in it right now.
+
+[Speaker 4]
+So uh uh open the door. Oh is it locked? Can anyone do that?
+
+[Speaker 2]
+I mean we can break it open or we can try and unlock it.
+
+[Speaker 3]
+Do I just rush it? Just hit it? What did I use?
+
+Athletics or? Oh you can do some attack rolls with it. Athletic on trench.
+
+It's um just gonna do normal athletic 14. So did I break the door or?
+
+[Speaker 1]
+I think I told you to do an attack roll. But um what are you what are you using to break it down?
+
+[Speaker 3]
+Oh can I use just the how do I say that? Just do it like an arm.
+
+[Speaker 1]
+Oh like uh rushing it uh using your shoulder and stuff like that?
+
+[Speaker 3]
+Yeah. Uh what do I use? An arm strike?
+
+[Speaker 1]
+Do I use an arm strike or? Just rushing. Athletics is fine if you're just rushing it.
+
+All right.
+
+[Speaker 3]
+Yeah I did it. Holding for the what? Do I do it again?
+
+[Speaker 1]
+Or I'm trying to tell me whether or not you did begin with. I guess you could do it again.
+
+[Speaker 3]
+Okay normal 10. Cool. It's 10.
+
+[Speaker 4]
+Did it work? Yeah maybe try and attack it with your sword.
+
+[Speaker 1]
+10 did not do it now.
+
+[Speaker 2]
+I can try and I'll try unlocking it. Can I use my hammer? Sure I you can you can use your hammer and I guess we can wait.
+
+Is it strength? Let me try let me try unlocking it.
+
+[Speaker 3]
+Okay I'm just waiting.
+
+[Speaker 2]
+Does a 16 help? 16 does. Are you professional with thieves tools?
+
+Yes it's part of the uh divergent persona thing.
+
+[Speaker 8]
+Very nice.
+
+[Speaker 7]
+I was gonna use a hammer to break the lecting.
+
+[Speaker 2]
+Fair enough.
+
+[Speaker 4]
+May I ask what the divergent persona is? Sounds interesting.
+
+[Speaker 2]
+It's an aspect of um being a changeling and technically character-wise it's a secret. I just am weirdly good at breaking into things but um but uh story-wise it's because since I can well uh shapeshift I have like this persona I can put on which is like a tiny thieving boy and if I embody that I have expertise in thieves tools or or if I'm simply myself it's just proficiency.
+
+[Speaker 4]
+Oh that's cool. Yeah. Who's quayfish?
+
+I'm just a soldier.
+
+[Speaker 2]
+Just hanging out.
+
+[Speaker 3]
+So do we open the door?
+
+[Speaker 1]
+It may just. All right we're gonna take a five minute break here.
+
+[Speaker 11]
+Okay.
+
+[Speaker 1]
+16 was a success.
+
+[Speaker 5]
+Uh while you guys are in an intermission uh hi there's been a ppm on the festivities.
+
+[Speaker 2]
+Have the fun.
+
+[Speaker 5]
+Oh hey Cory.
+
+[Speaker 2]
+Hi.
+
+[Speaker 5]
+Let's go. Let me see uh okay uh mic check one two.
+
+[Speaker 13]
+We can hear you.
+
+[Speaker 5]
+Okay cool. So how's it going? I know uh uh pretty busy uh work work work getting my degree.
+
+As an industrial painter so I've been like super bogged up with work.
+
+[Speaker 2]
+Why can't I ride them?
+
+[Speaker 5]
+Uh but you know uh kind of excited getting back into D&D. My weekends are looking clear uh I'm maintaining that for as far as I can foresee. I'll try and be active.
+
+I'm doing a revision of the character so that it actually functions with beach weapons. That'll be cool. Sorry what's with beach weapons?
+
+Um I'm building like a uh barbarian uh that uses a packs of opportunity with uh reach weapons like glades. Oh.
+
+[Speaker 4]
+You're going giant. Nice.
+
+[Speaker 5]
+Am I going. Inescapable.
+
+[Speaker 4]
+Oh yeah basically.
+
+[Speaker 5]
+What's that?
+
+[Speaker 4]
+Oh are you gonna go like giant?
+
+[Speaker 5]
+Oh no no no no uh I'm a drow.
+
+[Speaker 4]
+Ah no I mean like the the barbarian subclass.
+
+[Speaker 5]
+Oh right right right. Uh I know I have to check what my character path is supposed to be.
+
+[Speaker 4]
+Because I know they get like extra reach. So like if your reach is like 10 with the rage weapon you can like get to 15 or even 20.
+
+[Speaker 5]
+See what I did there. I think I did uh I did path of the zealot.
+
+[Speaker 4]
+Yeah. Oh that's actually one of the best ones.
+
+[Speaker 5]
+Yeah I looked at it and it looked really good. Having uh basically paladin smite on your attacks is pretty nice.
+
+[Speaker 11]
+Yeah. Yep.
+
+[Speaker 4]
+But giants also get like.
+
+[Speaker 5]
+It's supposed to be uh it's supposed to be a multiple hits per round character and not like a one tap barbarian. So having those extra d6 uh dice rolls really adds up if I get like two to three attacks of opportunities in a combat round.
+
+[Speaker 4]
+I know you're gonna get.
+
+[Speaker 5]
+I'm missing I'm missing the feet. I think I can get it on like level 10 12. I can get the feet that lets me do multiple attacks of opportunities.
+
+[Speaker 4]
+What feet is that? I've never heard of that.
+
+[Speaker 5]
+I can't remember. It's been like two months since I theorycrafted this. I'm basically uh reverse analyzing my build based on the character sheet I made.
+
+I should really start writing down my fucking my fucking leveling schemes.
+
+[Speaker 3]
+I'm a berserker. I don't know how to do any other classes so I just choose berserk. I didn't know the level things work so it's my first time.
+
+Is it good or am I doing a bad class thing with the berserker? The barbarian thing the berserker. Is it a bad?
+
+[Speaker 4]
+The berserker people don't like because of the exhaustion of the frenzy.
+
+[Speaker 11]
+Yeah.
+
+[Speaker 3]
+Anyone want to see my cockatiel?
+
+[Speaker 2]
+Yes I would like to see the bird. Oh it's fantastic 10 out of 10.
+
+[Speaker 4]
+Super cute man.
+
+[Speaker 2]
+That is a great bird.
+
+[Speaker 3]
+Yeah it's just a little crazy thing.
+
+[Speaker 2]
+The creature. What?
+
+[Speaker 6]
+Look at this.
+
+[Speaker 3]
+Yeah that's it.
+
+[Speaker 6]
+Thank you.
+
+[Speaker 3]
+And here are my little figures. They're nice. I'm using my computer's cam so it's hard.
+
+No worries. And they're custom made figures I think so I can't find anymore. I'm a little in the less populated areas.
+
+Only 45,000 people in this town and mostly tourists and old people.
+
+[Speaker 2]
+That checks out. That's nice. Yeah.
+
+[Speaker 4]
+Yeah man I think you can only even make one opportunity of attack per round. The only one I can do more I think is tunnel fighter from U.A. But that's I think it's a class. Oh, can I leave?
+
+[Speaker 5]
+No no sorry. I'm currently like sitting in plutonium import making the character. Gotcha.
+
+The second version of it. I have to move some feats around and stuff like that. I'm a drow so I have to get one of those enchanted items that lets me not have like amazing disadvantage in sunlight.
+
+[Speaker 4]
+Yeah good choice.
+
+[Speaker 5]
+But that's cool. The barbarians deal well with not having magical armor since we have like really good damage.
+
+[Speaker 3]
+Yeah I took like 60 damage right in two rooms so I'm basically dead after this. Maybe only the good now.
+
+[Speaker 4]
+You said you have 85 max health right?
+
+[Speaker 3]
+Yeah I only have 32 right now.
+
+[Speaker 4]
+So like how much constitution do you have? Because I have 84 max health.
+
+[Speaker 3]
+16 constitution and will I say that four wisdom four charisma. I didn't roll good. Oh did you?
+
+I got 215 in the first row so I didn't get anything after that. And my strength is 20 because of the barbarian thing the feet thing the stats plus one thing I think.
+
+[Speaker 9]
+Yeah that's it.
+
+[Speaker 4]
+Gotcha gotcha.
+
+[Speaker 9]
+All right I'm ready.
+
+[Speaker 4]
+Me too.
+
+[Speaker 3]
+Awesome. So Koi will you join the game or? Oh okay.
+
+[Speaker 5]
+Oh um I don't want to gates crash. Oh Koi you can join.
+
+[Speaker 3]
+If you want to you can just.
+
+[Speaker 1]
+The only issue is the is being able to see. My recommendation for Foundry is zooming out further using your whatever tab.
+
+[Speaker 5]
+I've tried using tab let's see if I can manually set the page.
+
+[Speaker 1]
+Yeah manually not like inside you want to do it you want to go up to your settings and control the zoom of your browser specifically and take that outwards.
+
+[Speaker 5]
+Yeah I'm trying. I've gone to like 10% zoom out and I'm still not getting graphics.
+
+[Speaker 1]
+No I would do like 80 and then keep refreshing the page and maybe try it.
+
+[Speaker 5]
+Okay uh yeah try that try that.
+
+[Speaker 1]
+It's still going to say it's still going to say that it's below the recommend the recommended but it should have the thing come up anyway.
+
+[Speaker 5]
+Okay uh I'll try uh but uh continue on the session without me because I'll make the character and try and get the board to show me.
+
+[Speaker 1]
+And then if you manage to get the thing open then we'll uh we'll bring you in. Cool. All right so.
+
+[Speaker 3]
+Anyone want to go in first? Anyone want to go in first?
+
+[Speaker 13]
+Rock, paper, scissors.
+
+[Speaker 3]
+Uh roll 20.
+
+[Speaker 4]
+Can we try and can we try and look at traps once maybe? Try to see if you don't see any traps.
+
+[Speaker 7]
+Oh whatever.
+
+[Speaker 3]
+Did something happen?
+
+[Speaker 9]
+Did you step there? No.
+
+[Speaker 3]
+Okay. What's this? Is it a window?
+
+[Speaker 11]
+Yeah.
+
+[Speaker 3]
+What the?
+
+[Speaker 2]
+Game paused. Again?
+
+[Speaker 1]
+What the? All right you guys watch as a vine comes through the window here, wraps around Felix and yanks him out.
+
+[Speaker 7]
+And no torches.
+
+[Speaker 4]
+Out when I did out or?
+
+[Speaker 7]
+Out through the uh out through the window. The glasses break so.
+
+[Speaker 3]
+Oh wow. You have to get through the window and attack them I think. Oh can I just get out?
+
+[Speaker 1]
+What the? All right everybody go ahead and add themselves to the initiative counter.
+
+[Speaker 11]
+Okay.
+
+[Speaker 2]
+This is just a series of unfortunate events for this.
+
+[Speaker 1]
+So the 12d6 the good news the good news is um the 44 damage is only going to apply at the beginning of your next turn.
+
+[Speaker 3]
+So am I dead now?
+
+[Speaker 1]
+Well you took 12 damage. 12. We're sorry you took 12 damage.
+
+No you did 13 damage and then at the start of your next turn you're going to take 44.
+
+[Speaker 2]
+Jeez louise man.
+
+[Speaker 4]
+Dude you need to wait so you can take money off of me. Yeah.
+
+[Speaker 3]
+I was 32 so what so 20 no. 19.
+
+[Speaker 4]
+Actually down there it might be better for him to just get knocked out and then you lift him up with a spell. Uh hot.
+
+[Speaker 3]
+Can I just rage and go from here? Just escape here?
+
+[Speaker 1]
+No you can roll for initiative because he got surprised.
+
+[Speaker 3]
+Initiative what?
+
+[Speaker 1]
+Uh in the combat tracker.
+
+[Speaker 3]
+Oh.
+
+[Speaker 1]
+Three.
+
+[Speaker 11]
+No.
+
+[Speaker 13]
+I'm gonna die.
+
+[Speaker 11]
+Help.
+
+[Speaker 1]
+All right Kalman and Yasuke you two are in darkness right now because your torchbearer has been lifted through a window. Darkvision. Stag him and drag him out the window.
+
+[Speaker 4]
+I can still see though.
+
+[Speaker 3]
+They yeeted me.
+
+[Speaker 1]
+Yeah you're what else so you're still able to uh give darkvision.
+
+[Speaker 2]
+Okay well I'm going to. No I can't I need a torch. I can light my own.
+
+Okay.
+
+[Speaker 3]
+Did my torch just drop on the ground?
+
+[Speaker 4]
+No you took it with you.
+
+[Speaker 3]
+Yeah a strong barbarian took the torch with his.
+
+[Speaker 2]
+How do I give myself a torch? Let's see. Oh vision here we go.
+
+Vision available. Okay um how do I get my give myself a torch vision?
+
+[Speaker 1]
+Go ahead and right click yourself twice and then you're gonna go to light and I'll do it for you.
+
+[Speaker 2]
+Oh here we go basic configuration.
+
+[Speaker 3]
+I can't see inside so I don't know what's going on inside.
+
+[Speaker 1]
+The torches are 20 feet of dim light and 10 feet of bright light so I'll click update there. There you go.
+
+[Speaker 4]
+Felix what what is your what is your guy doing watching it when once he gets it up to the window?
+
+[Speaker 2]
+All right thanks.
+
+[Speaker 4]
+Is he screaming?
+
+[Speaker 2]
+Okay let's go mate.
+
+[Speaker 4]
+Felix isn't scared. Can we move?
+
+[Speaker 1]
+Christ on a bike.
+
+[Speaker 4]
+Are we aren't we in battle?
+
+[Speaker 1]
+You are in battle. I think uh common is at the very top of the initiative.
+
+[Speaker 2]
+Who's in the wait who's what's an initiative?
+
+[Speaker 1]
+We're an initiative.
+
+[Speaker 2]
+Is it me going first or?
+
+[Speaker 1]
+Yeah yeah you can see that if you put that tracker you'll see that.
+
+[Speaker 3]
+Ay caramba okay well let's see um what to do that would immediately just uh I need like more than 28 health so don't heal me.
+
+[Speaker 2]
+Okay uh would the spell magic work on assassin plants or do those count as creatures?
+
+[Speaker 9]
+They are creatures.
+
+[Speaker 2]
+Okay I um can they can they hear? Do they have a sense of sound?
+
+[Speaker 3]
+How would you know? I think yes because they saw me or hear me.
+
+[Speaker 2]
+They heard you they heard you walking by maybe they saw you uh that's true I wouldn't know but I didn't have a torch so they see me. Okie dokie um I'll slash at the plant that is currently holding on to currently holding on to our barbarian let me just roll to hit. That is not that is not an attack roll that is just the item.
+
+Please imagine I'm attacking with my magical weapon but it doesn't it doesn't seem to have well oh there we go uh it doesn't seven damage it doesn't seem to have the uh ability to attack it just shows my thing.
+
+[Speaker 3]
+They're assassin plants and they're vines so I think they will be dead. Hold on a second hold on press through please All right so what are you doing with this?
+
+[Speaker 2]
+Uh I am I am I'm attacking the plant that's currently holding yeah Why didn't you taste it?
+
+[Speaker 1]
+Anything else to do on your turn?
+
+[Speaker 2]
+Let's see what do I have this bonus action? Uh nothing at the moment it's all that's about it.
+
+[Speaker 4]
+Got any bardic inspiration?
+
+[Speaker 2]
+Oh wait uh I use my bonus action to give uh bardic inspiration to the other teammate we have. Oh you're a fighter right?
+
+[Speaker 4]
+Yep yep Yasuke.
+
+[Speaker 2]
+Yasuke yep it is your turn. Yasuke you get bardic inspiration.
+
+[Speaker 4]
+Thank you thank you so I'll move 15 feet okay you know I had to go to B to C okay um cool oh right I should have mentioned I move away from no I do not move away from the plants that would trigger opportunity attacks it's all good. Okay which one has the barbarian? This one left side.
+
+Okay I'll target him as well and I'll attack him with my bow uh that's right please burn him please avenge me.
+
+[Speaker 3]
+Uh does the 16 hit?
+
+[Speaker 9]
+16 does hit.
+
+[Speaker 4]
+That's nine damage. Second attack that's 15 damage or 24 damage.
+
+[Speaker 8]
+All right it is almost dead.
+
+[Speaker 4]
+Let me see if I can do something. Get the attention for yourself please. I have nothing else that can maybe help you uh that's my turn.
+
+[Speaker 1]
+All right at the start of the assassin vines turn what does it what's it do um only can circle and target at a time but what it can do is it's going to use entangling vines.
+
+[Speaker 3]
+On who?
+
+[Speaker 1]
+Just animates normal vines and stuff in a 15 foot area so you see a bunch of them grow out of the side of this hole in the building that goes further down and they just kind of creep upwards and make this area difficult to rain so I need both Yasuke and Amon to make me some strong saving throws. Just click on your character and click on the thing. Oh come on that's rough.
+
+Then Yasuke go ahead and make a strong saving throw as well.
+
+[Speaker 4]
+Gotcha gotcha.
+
+[Speaker 1]
+Felix at the start of your turn you take 44 poison damage.
+
+[Speaker 3]
+I'm dead.
+
+[Speaker 1]
+Oh no.
+
+[Speaker 3]
+Do I just die?
+
+[Speaker 1]
+No you go down.
+
+[Speaker 3]
+I have only 19.
+
+[Speaker 1]
+I know you go down is what happens. You go unconscious specifically. Okay so at the start of your turn go ahead and make a death saving throw which should be in attributes.
+
+What do you do? What do you do? Oh there we go death saves.
+
+It's right underneath rage on your character sheet.
+
+[Speaker 3]
+The thing is I can't see. I can't attribute.
+
+[Speaker 1]
+I'm just going to click on it for you if you can't go to the uh.
+
+[Speaker 3]
+Oh death saves okay. Normal or advantage?
+
+[Speaker 1]
+Just normal. No you only have advantage if a feature gives you advantage.
+
+[Speaker 3]
+1d4.
+
+[Speaker 1]
+No.
+
+[Speaker 3]
+What? No. Just click on normal.
+
+[Speaker 11]
+There you go.
+
+[Speaker 3]
+Am I dead?
+
+[Speaker 1]
+We'll get to that. Next turn there's another assassin vine. It is going to attempt to grab Yasuke.
+
+[Speaker 7]
+Let it grab!
+
+[Speaker 9]
+Is it 15 hit?
+
+[Speaker 4]
+No 15 doesn't hit.
+
+[Speaker 1]
+All right that's its turn. We come back to the top of the round with Kamen.
+
+[Speaker 2]
+Oh yay. Let's see. I would have been so good if I used my wizard here just to fireball them all.
+
+Let's see. Just restrained. Oh so we uh hmm.
+
+First how far can these guys reach?
+
+[Speaker 1]
+Pretty far. They can basically just like crawl through.
+
+[Speaker 2]
+No that makes sense. No I'm just trying I'm trying to strategize because I am going to um try to move out of this uh gap area. I can still hit try to hit the creature while I'm restrained here right?
+
+Yep. Okie dokie. Well uh.
+
+[Speaker 1]
+Or cast spells or whatever you want.
+
+[Speaker 2]
+Yeah or cast spells or definitely should have taken the wizard.
+
+[Speaker 1]
+That's a good lesson here. Hey what do you want Yasuke to go first while you're rolling your um.
+
+[Speaker 2]
+Yes please. Yes please. He can he can go first while I'm thinking.
+
+[Speaker 1]
+All right Yasuke go ahead.
+
+[Speaker 4]
+Uh I just like to try and get three so I'll do another thing. Saving checker. Saving spell.
+
+Because I'm also restrained. Uh may I?
+
+[Speaker 1]
+Uh let's see here. You can use it so you could use your action to do it.
+
+[Speaker 4]
+Yes sir.
+
+[Speaker 1]
+Um if it let's see here so otherwise it will end after one minute or when the assassin vine dies.
+
+[Speaker 4]
+Oh is that the assassin vine that's low hp? Okay this one?
+
+[Speaker 9]
+Yeah this is the one they use.
+
+[Speaker 4]
+Okay let me try. Ah it's an attack at disadvantage.
+
+[Speaker 9]
+That's correct. 13 just hits.
+
+[Speaker 4]
+Nice. 15 damage. Is it still alive?
+
+[Speaker 9]
+It is.
+
+[Speaker 1]
+Okay you had two hit points left. Hey. Oh whoops.
+
+There we go.
+
+[Speaker 4]
+Cool and with my second attack I'll target the other one. Does that 19 hit?
+
+[Speaker 1]
+19 does hit. Oh yeah.
+
+[Speaker 4]
+8 damage. And I just like to move this guy a bit.
+
+[Speaker 11]
+All right I can see Yasuke.
+
+[Speaker 3]
+It's in the room so it's on the- oh.
+
+[Speaker 2]
+Is this is this area of effect still in effect?
+
+[Speaker 1]
+Uh no it is no longer.
+
+[Speaker 2]
+All right that's that is good. I think so. Okay well um I- right now Yasuke.
+
+[Speaker 9]
+Yeah I just- not Yasuke he's been aided.
+
+[Speaker 3]
+What the heck happened? Oh what?
+
+[Speaker 1]
+He's been moved.
+
+[Speaker 2]
+Where am I going? Okay. I cast- I cast sword on the thing and I stabbed I stabbed I slashed at the other.
+
+[Speaker 10]
+Already?
+
+[Speaker 2]
+Yep there we go. Let's see and um which shot? Here we go.
+
+Normal. Does the 13 hit?
+
+[Speaker 1]
+13 just hits. Oh sweet.
+
+[Speaker 2]
+Uh 9 damage. How dead does it look?
+
+[Speaker 1]
+Uh it looks pretty bad. It's at half.
+
+[Speaker 2]
+Uh can I see where he went or did he just vanish into the void basically?
+
+[Speaker 1]
+So he is on a different floor. Um sitting next to- the hole does go way further down and way further than your torchlight reaches. But right now he's on the side of that hole.
+
+I can't- he is still wrapped in the assassin vine. It's just that it's for the moment still holding him.
+
+[Speaker 2]
+Okay um and I hop away with uh Misty Slap.
+
+[Speaker 1]
+Okay this thing is going to retreat at the start of its turn. Gonna slink back down and into the wall.
+
+[Speaker 6]
+Actually what I should do- oh damn. Come on man.
+
+[Speaker 4]
+Yasuke takes takes out uh a little bottle of whiskey. Takes a swig and pours one out for Felix.
+
+[Speaker 6]
+He's- I'm gonna have to restart the re-foundry server. I don't think he's dead quite yet.
+
+[Speaker 4]
+Like how are we gonna get to him?
+
+[Speaker 1]
+Oh there we go. Okay it just took ages.
+
+[Speaker 8]
+With half health and some sort of gambling minus.
+
+[Speaker 1]
+Yeah all right. Loses more out. Just runs away.
+
+[Speaker 4]
+Oh cool. Is there any way we can save Felix?
+
+[Speaker 1]
+Yes but you'll have to act first.
+
+[Speaker 3]
+Uh can I say something? Uh Felix where are you? I'm unconscious.
+
+I can't see anything.
+
+[Speaker 1]
+Right now he's entangled in the- he's entangled in the assassin line still.
+
+[Speaker 4]
+How far down is that? How far down is that?
+
+[Speaker 1]
+How far down? Uh about 20 feet.
+
+[Speaker 4]
+Do you have a rope? I do but- But you're unconscious.
+
+[Speaker 1]
+I have a climbers kit too but- Make a decision fast. I'm gonna have him make another death saving throw.
+
+[Speaker 2]
+Yes yes we tried uh to get the- get some rope to try and grab him. Tie it to something and try to fetch him from it or are they like still some- Right now so like the assassin line is limp right now.
+
+[Speaker 1]
+It's just like it's rope.
+
+[Speaker 2]
+Okay.
+
+[Speaker 3]
+To say something uh I'm heavy. I'm really heavy. You need to cast- can you cast the healing spell on him?
+
+[Speaker 2]
+Could you two get that or- Yeah I could actually keep- let me do- let me do that actually. If I- if I heal him will he get the health back or unstabilize uh and get health?
+
+[Speaker 1]
+Oh yeah so he'll- he'll be stabilized and he'll have health.
+
+[Speaker 2]
+Okay okay.
+
+[Speaker 1]
+Heal unconscious creature they get um- It did not roll.
+
+[Speaker 2]
+Cool I'll have to do this manually then. 1d4. 9 health.
+
+[Speaker 3]
+Do I get the damage or do I get the health?
+
+[Speaker 2]
+Yes.
+
+[Speaker 3]
+Yeah I did. So am I conscious right now?
+
+[Speaker 1]
+You are now conscious and swinging over a really big hole.
+
+[Speaker 2]
+I'm down there? Can we try pulling them up?
+
+[Speaker 1]
+Uh yeah. Felix himself could probably also um himself back up.
+
+[Speaker 3]
+I wanna go back up but how do I do that?
+
+[Speaker 1]
+I will- I will do- I copy and I will just paste your token here. I also have a module called multi-level that will just automate this at some point but- Okay so let's no longer go in that direction.
+
+[Speaker 2]
+Let's- let's go here away from the hole.
+
+[Speaker 3]
+So to say I'm not going in first. Yeah that's fair.
+
+[Speaker 4]
+Let's close- let's close both doors. Come back in here.
+
+[Speaker 2]
+Okay. Oh token collide error.
+
+[Speaker 4]
+Yeah. Come back in. There we go.
+
+Are you also Felix? Yeah. I'll- I'll stand guard.
+
+Maybe you should uh take a shoot with Felix and use some hit die to recover your health.
+
+[Speaker 3]
+So can I use my ring of regeneration again or do I have to wait? What have we- what have we talked about there? I do need to wait another random encounter.
+
+10 minutes, right?
+
+[Speaker 12]
+Yeah. Okay.
+
+[Speaker 4]
+Yeah I would say let's take a short rest so you can get your health back up.
+
+[Speaker 11]
+So what are we going to do?
+
+[Speaker 2]
+So are we all taking a short rest then?
+
+[Speaker 4]
+Yeah I think let's take a short rest if that's okay. Can I take a short rest here?
+
+[Speaker 1]
+Yeah that's totally fine. Have you taken any damage?
+
+[Speaker 4]
+Uh no no I- I'll stand guard in case something comes in.
+
+[Speaker 2]
+No no no have you taken an- oh you're standing guard so you don't get surprised. All right that's fair.
+
+[Speaker 4]
+Okay. So how does rest work?
+
+[Speaker 1]
+So when you take a short rest you can expend hit dice to recover your hit points. It takes an hour. And after that hour you would roll for your ring of regeneration six times.
+
+[Speaker 7]
+Six times ring of regeneration. It's 1d- 1d6. Okay.
+
+Slash r 66.
+
+[Speaker 2]
+Yeah.
+
+[Speaker 7]
+23.
+
+[Speaker 2]
+And- and I sing a very lovely song so during the nap- during the nap you have um you can gain an extra- yeah you can gain an extra 1d6. 1d6. Yep.
+
+[Speaker 3]
+1d6. Four.
+
+[Speaker 11]
+All right there you go.
+
+[Speaker 3]
+Oh and uh I found that thing to add health and damage so yeah I'm okay with that after.
+
+[Speaker 4]
+You can also use hit die. What? Your hit die.
+
+You can- I think you get a 1d12 hit die. I think you have- How many hit die do we get?
+
+[Speaker 2]
+Wait it's one per level.
+
+[Speaker 4]
+Okay so you can use like two or three to get the full health of me. So for about- I don't understand.
+
+[Speaker 2]
+Okay so how much health do you have?
+
+[Speaker 3]
+36.
+
+[Speaker 2]
+Okay and what's your maximum?
+
+[Speaker 3]
+85. So less than half.
+
+[Speaker 2]
+Okay okay. So what you can do is um- Hit die? Is expend about four hit dies and you can gain- so roll 4d12.
+
+[Speaker 3]
+1d12.
+
+[Speaker 2]
+4d12.
+
+[Speaker 3]
+No four. 15.
+
+[Speaker 2]
+Okay. Yeah I'm unlucky. You can- So how much health do you have now?
+
+[Speaker 1]
+51. No you also have- Okay so- Whenever you roll hit dice you add your constitution modifier.
+
+[Speaker 3]
+Oh constitution modifier. The right one or left one?
+
+[Speaker 10]
+What?
+
+[Speaker 3]
+The left one.
+
+[Speaker 10]
+It's not the same.
+
+[Speaker 1]
+It's plus three.
+
+[Speaker 3]
+Plus three so yeah.
+
+[Speaker 1]
+That's three for dice that's another 12.
+
+[Speaker 4]
+12 yeah. That should be good enough, huh?
+
+[Speaker 2]
+Yeah. So you can expend two more if you want to.
+
+[Speaker 3]
+No I'm okay. I'm okay. I'm okay.
+
+I saved from death so I'm okay with that.
+
+[Speaker 2]
+All right. But you know it's better- it's better- it's better healthy than not. So and again how do I- Mate you might as well expend some extra dice so that you're almost full.
+
+It doesn't have to be fully full.
+
+[Speaker 3]
+I just used my hit dice things. I didn't know how to do them but I do now right now. So can I use one more time?
+
+Yes. 1d12.
+
+[Speaker 2]
+You can expend- you can expend 2d12 because you- you can expend about four more times but do 2d12 first. Okay.
+
+[Speaker 3]
+13 90 plus.
+
+[Speaker 2]
+Okay so how much health do you have now?
+
+[Speaker 3]
+82.
+
+[Speaker 2]
+82?
+
+[Speaker 3]
+Nice. Perfect. Only three hp.
+
+Taken.
+
+[Speaker 2]
+Okay remember to add your constitution. You- this is after adding your constitution.
+
+[Speaker 11]
+I did. Yeah.
+
+[Speaker 2]
+Okay so then all's good. All is- all is good. You don't need to expend anymore and you have two left.
+
+[Speaker 3]
+Yeah I have to save two hit dice. Yeah.
+
+[Speaker 2]
+Yes. So just save those.
+
+[Speaker 3]
+I did. I only have left two. Yeah.
+
+[Speaker 4]
+GM? Did anything happen while we were listening?
+
+[Speaker 1]
+Nope. Nothing- nothing appears to have happened.
+
+[Speaker 3]
+So am I going again first?
+
+[Speaker 4]
+It's fine. I'm going first this time.
+
+[Speaker 2]
+All right so let's go on this one.
+
+[Speaker 3]
+Can I give my ring for some time?
+
+[Speaker 4]
+I don't think yeah.
+
+[Speaker 3]
+It's an attunement item so my bad.
+
+[Speaker 4]
+Can I- can I peek through that too, GM?
+
+[Speaker 1]
+Yes you can. And let me take that little uh- Is it a luck stone? Hold on.
+
+I think we'll- I'm answering somebody else's question first. Just wait a second.
+
+[Speaker 2]
+No worries.
+
+[Speaker 1]
+There's a critter in this next room.
+
+[Speaker 4]
+And the door's unlocked?
+
+[Speaker 9]
+The door is not locked.
+
+[Speaker 4]
+Awesome. I- I relayed that information to- to my teammates. There's a monster inside.
+
+Do you guys wanna get it? Do you guys wanna fight the monster inside?
+
+[Speaker 2]
+Sorry what- what was- what was there?
+
+[Speaker 4]
+Yeah.
+
+[Speaker 1]
+Two giant owls and- no there's no other um- yeah there's two giant owls in here. Oh wait no no no. We can put up- yeah?
+
+There's also a bunch of smaller uh varieties.
+
+[Speaker 2]
+We can put off fighting them for now. We can explore the other parts of the dungeon first.
+
+[Speaker 3]
+I think we explored everything.
+
+[Speaker 4]
+Can you still go downstairs?
+
+[Speaker 2]
+No- no we didn't.
+
+[Speaker 4]
+Yeah we can still go downstairs. There's a- yeah.
+
+[Speaker 2]
+There's this place. There's this place down here that we haven't gone to. The- the uh tunnel to the left.
+
+[Speaker 3]
+There's a tunnel to the left? Oh that's fine. Okay.
+
+[Speaker 2]
+Remember where the snake came from?
+
+[Speaker 1]
+I'm going in. Oh no that was explored. Those- those rooms were also empty.
+
+But there's a lower level to the left that you guys haven't explored. There's a piano.
+
+[Speaker 2]
+So yeah we can also explore the lower- the lower levels first.
+
+[Speaker 3]
+How do we go lower?
+
+[Speaker 1]
+You tell me that you're going lower and I'm going to move your character tokens over to the um- to the next level.
+
+[Speaker 2]
+We looked through the uh- yeah we looked through the lower door.
+
+[Speaker 1]
+As earlier it is still empty.
+
+[Speaker 2]
+Oh sweet. Okay. Is it locked?
+
+[Speaker 1]
+It is not.
+
+[Speaker 10]
+This one doesn't have uh doors and such. Or it doesn't have uh wall controls. But that's okay you guys can- It's okay.
+
+[Speaker 3]
+Left or right guys? Uh I was in the right but I was unconscious so I don't know.
+
+[Speaker 2]
+Uh we can go- we can go right.
+
+[Speaker 4]
+Maybe check- check- check through the door. Maybe we can see something.
+
+[Speaker 2]
+Checking through the door. Do I see anything? Did- did he- did I just miss what he said or?
+
+[Speaker 1]
+No I had to uh- I had to do something. All right there is a stairwell leading down.
+
+[Speaker 8]
+And he wants me to roll second time. Yeah let's roll second time.
+
+[Speaker 1]
+No there's- they can't go up one level because they're welcome things. Gonna go down one level instead. Yeah there's a stairwell leading down one level.
+
+I'm sorry no there's not a stairwell. There is an elevator. Oh wow.
+
+This uh- well we can check out- platform with a bunch of runes on it.
+
+[Speaker 2]
+Oh that's cool. We can- we can check out the uh elevator after we check out the other room. Like we can move a floor down after we decide we're done with this.
+
+All right cool. So looking through this door.
+
+[Speaker 12]
+Empty.
+
+[Speaker 11]
+Going in? Oh no.
+
+[Speaker 1]
+Oh Koi don't send me messages over dms just put them in the chat here so I don't have to keep flipping back and forth through discord. Oh sorry sorry. And somebody else don't get overloaded.
+
+[Speaker 2]
+Perception check for traps or investigation or whatever I have to roll.
+
+[Speaker 1]
+It's um- if you have proficiency in thieves tools then you can do either wisdom or uh intelligence and add your proficiency.
+
+[Speaker 2]
+Oh sweet.
+
+[Speaker 5]
+All right I'm gonna try to add in some exploits. Make the token from the drider doami revise. Oh there you go I have the board.
+
+Oh there you go.
+
+[Speaker 2]
+Hello.
+
+[Speaker 5]
+Tracking excellent.
+
+[Speaker 3]
+So you can go in first.
+
+[Speaker 2]
+Yeah no that was perception to check for traps basically.
+
+[Speaker 1]
+Confident there is no trap in the next room. How sweet.
+
+[Speaker 4]
+What's your character's name Koi?
+
+[Speaker 5]
+Uh drider.
+
+[Speaker 4]
+Drider. Where have you been?
+
+[Speaker 5]
+It's only the the pagan humans who call them drider. Duani is his elven name.
+
+[Speaker 4]
+Okay Duani where the hell were you man? We almost died.
+
+[Speaker 5]
+It means they who sleep with spiders.
+
+[Speaker 1]
+You also don't see anything in this one.
+
+[Speaker 2]
+Perception again. Last time we didn't see anything there were floor traps.
+
+[Speaker 1]
+Hey the last time I was not seeing any traps. I'm gonna roll for another random encounter check. Uh if he looks he could have 1d6.
+
+[Speaker 3]
+I'm rolling 1d6. Am I right?
+
+[Speaker 8]
+The ring of regeneration.
+
+[Speaker 3]
+Yeah. Six yeah full health. Nice.
+
+[Speaker 2]
+Yippee. Uh looking looking through this door.
+
+[Speaker 1]
+Not seeing anything in there either.
+
+[Speaker 2]
+Oh boy.
+
+[Speaker 1]
+Check the traps.
+
+[Speaker 2]
+Yeah. Eventually I'm going to roll low and it's not going to be a fun time. Oh 17.
+
+That's not too bad.
+
+[Speaker 1]
+Nice. Uh you do notice that there is a um that there's a lever on the wall or a little a little depression in the wall on the right hand side.
+
+[Speaker 8]
+Just about big enough for a human hand.
+
+[Speaker 2]
+Hmm do do I have mage hand? No I do not. Do any of you have mage hand?
+
+[Speaker 4]
+No.
+
+[Speaker 2]
+Oh salavi.
+
+[Speaker 4]
+Oh bye bye.
+
+[Speaker 2]
+Um oh can we we could use try shooting at the depression.
+
+[Speaker 4]
+I think if it if it if it um.
+
+[Speaker 5]
+For me?
+
+[Speaker 4]
+I can throw a javelin if you want.
+
+[Speaker 5]
+You you can what? Explain explain the turn of events here.
+
+[Speaker 2]
+Uh oh right there's a there's a depression about human hand size and in in the wall and to be safe I'm saying that we can try to activate it from a distance. I don't have yes so uh since I do not have any sort of long distance thing I'm asking Dryder who has a crossbow a regular bow to try and shoot at it to trigger it because unless unless any of you have like mage hand.
+
+[Speaker 5]
+Uh I have two questions. Where is Dryder? Uh like uh where did I pop into the park?
+
+Have I been with you guys all along?
+
+[Speaker 11]
+Yeah sure.
+
+[Speaker 5]
+Okay okay sure. Uh I don't have a bow I have a big glaive. That probably won't give us the distance.
+
+[Speaker 6]
+I have a javelin.
+
+[Speaker 5]
+No you see. I can throw an alchemist fire blast potion at it.
+
+[Speaker 2]
+Don't don't do that save your potions.
+
+[Speaker 5]
+I can't throw a javelin or we can just. Okay there's a depression. All right I'm back.
+
+[Speaker 1]
+Oh there's a little timer here that I could use to incentivize.
+
+[Speaker 2]
+We'll say okay so remember how you said there was a trigger with that's about hand shaped?
+
+[Speaker 1]
+Yeah so there's on the opposite wall right over on this side. I'm sorry that's uh not the opposite wall over to the right there's a little depression in there.
+
+[Speaker 4]
+The escape place is it? All right.
+
+[Speaker 2]
+Okay I was going to okay what I've been planning to do is just trigger it from a distance but apparently we're just going in now.
+
+[Speaker 5]
+Yeah no I got life insurance. Like they can just resurrect me.
+
+[Speaker 2]
+Is it that door that opens?
+
+[Speaker 1]
+Nope uh the door that opens is on side.
+
+[Speaker 8]
+I'm gonna use that nice non-repro blue text.
+
+[Speaker 4]
+Door? Cool cool let's let's see what's on the other side can we peek through?
+
+[Speaker 1]
+Give me just a moment while the door opens so it's gonna be directly over there so give me two minutes. Gotcha. I got a roll for what's beyond the door.
+
+[Speaker 4]
+Yeah it takes a few steps back as the door opens if that's enough. Cool man I'm glad we have another frontliner now at least.
+
+[Speaker 5]
+Yeah I'm a cheap frontliner like I can die and you can resurrect me for like no cost.
+
+[Speaker 4]
+How? Yeah yeah warrior of the gods.
+
+[Speaker 5]
+Uh it's a anathema to me to actually be resurrected as a follower of Erasmus. Okay so if you bring me back from the dead I'm gonna have to kill you.
+
+[Speaker 2]
+Sorry wait wait repeat what you said. I think I did.
+
+[Speaker 1]
+I'm making a joke about how his character is anti-social which he of course is not actually. No of course not.
+
+[Speaker 4]
+You play Pathfinder before?
+
+[Speaker 5]
+Yeah um fifth edition.
+
+[Speaker 1]
+Right there is a monster and treasure so I'm going to roll does it the monster and treasure you roll one d100 you roll a d100 twice and you add two you add 10 to each result for this one so we're 25.
+
+[Speaker 7]
+All right cool cool cool and I drop a monster in here.
+
+[Speaker 4]
+Sounds like you're using the book of a new thing.
+
+[Speaker 1]
+Oh no I'm using uh I'm using much much older. There's an animated construct um and you see this treasure as well right?
+
+[Speaker 5]
+I post up on the wall and brace.
+
+[Speaker 2]
+Uh before before we all go in into that door um Koi fish what's your character's name? Dryder right? Sweet cool um have some bardic inspiration I wink at you that's how you get bardic inspiration from me.
+
+[Speaker 5]
+You cuties.
+
+[Speaker 2]
+Anyway anywho there you go you got a some bardic inspiration on and let's see anything else I can help to to prep you guys with and let's see bardic inspiration I here we go enthralling performance um all right what is it? No you're all good no it's all it's all it's all fine it's all fine on we go then I lead the way stone guys I'm after you.
+
+[Speaker 5]
+I post up right behind it like actually behind it uh since I reach in front of you.
+
+[Speaker 3]
+Okay why why am I in the front again?
+
+[Speaker 2]
+Oh wait wait wait hang on do you guys have anything that gives you temporary hp already?
+
+[Speaker 5]
+Yeah rage.
+
+[Speaker 3]
+Oh I didn't look at the rage and can I say something? I can't see my features do I open the sheet again or?
+
+[Speaker 5]
+Oh yeah um make sure you haven't selected the action bonus action or reaction as a filter in features.
+
+[Speaker 3]
+Oh oh thanks I didn't see that.
+
+[Speaker 5]
+No worries.
+
+[Speaker 2]
+So once once you run out of your temporary hp um for any of you if you if any of you have an effect that gives you temporary hp and you run out of it tell me so when all of you are out of it I can just give you extra.
+
+[Speaker 3]
+I don't have right now but I have if you if I attack something that's not construct or anything with the okay okay and can I ask something does the temporary hit points last too much or is it just a turn?
+
+[Speaker 5]
+Minute 30 for something uh we're on the ground yeah next round of the makeout oh yeah we're on a dungeon bro uh we're on the clock here uh yeah yeah we're we're proud on we go then on we go then uh I will actually take the first strike here uh and do you want to go first or yeah I can step up to 10 feet moving to the other side of the room how's that okay uh I can still charge that
+
+[Speaker 1]
+okay go for it go for it you open the door it doesn't take any notice
+
+[Speaker 5]
+I immediately challenge my enemy die filthy basement and I rage and use my instinctive pounce to move half my movement speed uh up to let's say here
+
+[Speaker 3]
+I'm going in uh
+
+[Speaker 1]
+yeah we should have rolled for initiative I'm not sure what you're doing there so are we just
+
+[Speaker 4]
+behind door yeah but why am I too unlucky now weren't you like on fives the whole time
+
+[Speaker 3]
+I don't know with your dice I don't even know I only initiative two I don't have charisma and wisdom 15 decks 30 I don't know any why is it that low is it because I have too much stuff or
+
+[Speaker 1]
+what do we have what are you asking is it also haunting remainder of the after the after the combat is okay we gotta move okay can I start it's yeah you can if your initiative is low it's because you
+
+[Speaker 4]
+rolled low okay um I'll move one two three I'll target that thing you can attack with advantage
+
+[Speaker 1]
+it's not even noticing you right now doesn't appear to be responding to anything in the room
+
+[Speaker 4]
+man that makes me wonder if I should attack it in the first one okay let's go okay a little a little crity crit what a 19 19 damage you notice me now right so no more advantage that's correct cool um I'll use that bardic inspiration from earlier
+
+[Speaker 2]
+you can choose to use it after you've rolled you know
+
+[Speaker 4]
+oh can I cool cool yeah okay but I hit anyways um right 23 and I attack uh 13 damage so I move one two three and I'm just gonna move three back for my 13 movement and then I might uh uh is it my turn looks like it yes ma'am
+
+[Speaker 2]
+okay um trying to see where the creature there it is okay so what does does the treasure look
+
+[Speaker 1]
+uh carryable by the way yes it's covered in pots that are made to resemble coral and star well not coral specifically but uh a little bit of coral like starfish and um what would you say and uh lake life okay so so the treasure looks like is covered
+
+[Speaker 2]
+with pots that look like uh general general water life yep okie dokie um I cast invisibility invisibility and does wait hold on does the thing look aggressive oh it is now okay that's fair uh yeah I cast invisibility and then I um I want to go grab some of the treasure where is that do I just um oh it's on yeah it's on this this corner of the room okay and I that's it I don't need to cast invisibility I'm far enough from it so I just go grab some treasure and I go back how much can I carry like that you grab like three three pots um so I so three at a time right how many are there in total there's probably just a three just those three treasure pieces okay cool I then I then I then slightly viciously mock um the construction piece and say um your finish isn't even that nice and I move on I thought you were so wisdom saying no no no I said I don't cast in I said I don't cast invisibility due to the fact that I don't need to it's whatever but also um it just has to hear me
+
+[Speaker 1]
+it doesn't have to see me for well I was asking because that would take you out of invisibility but go ahead and roll your damage yeah yeah no I wasn't casting oh right right because I thought that you had so that that was the um yeah no worries seven uh so seven psychic damage and
+
+[Speaker 2]
+disadvantage on the next attack roll it has so I take I take the pots out and then I viciously mock it at yeah that's that is although it does go so it is still burned
+
+[Speaker 1]
+okay very nice all right uh token bolter is gonna run over this way to fire into the room oh god here
+
+[Speaker 2]
+oh oh jeez there was no dodging that
+
+[Speaker 1]
+what's our saving throw click on your character and then click on the thing that says dc 15 dexterity in the chat and it will do it automatically for you
+
+[Speaker 5]
+cool let's go let's go let's go uh I wonder uh I would like to use fanatic refocus
+
+[Speaker 1]
+since I'm raging uh to reroll go ahead all right yasuke and common you're going to take half damage the other two of you will take full damage okay okay 18 for felix and drider and then nine for common and yasuke that is the bolters turn
+
+[Speaker 5]
+you pursue the clockwork construction grains its gears and pushes out a bolt at us it explodes drider it's your turn uh I am singed and I am angry uh you do not mess with a man's hairstyle that is foul foul uh did it step up into uh that's where if so
+
+[Speaker 1]
+that is attack of opportunity oh because do you have um the polar master yes sir okay
+
+[Speaker 5]
+yeah absolutely question how do I target a creature press t when you're hovering over it key like show okay so here comes the attack of opportunity from when it moved into the time I think that role no no that did not work okay attack in the chat no click attack in the chat okay there you go 17 hits how we're looking at that's a hit okay here is the damage uh I also have the uh does it take radiant damage yeah just roll the damage don't ask the question
+
+[Speaker 1]
+um okay there you go okay and on my turn if it's immune or something you're resistant then
+
+[Speaker 5]
+I'll tell you but uh always just roll the damage okay and here comes the first attack of my normal round oh it's beautiful yeah brutal critical at this level or no that's the next level level nine that would have been good though uh and for my uh let's see here uh is the second attack that we fighters and barbarians get is that the bonus action nope that's the second attack you get okay extra attack it's something that you get at level five good to know did you know okay here comes the second attack it's oh I say it's oh and I will use my bonus action to uh use the polar mask oh he's dead I'm just over killing it at this point work dude also remember that your thing is um
+
+[Speaker 1]
+your extra radiant damage is once per turn so that's yeah I think so so you get it not just on your turn but also um using it on an opportunity attack doesn't keep you from using it on your turn
+
+[Speaker 5]
+if that makes sense right right because it's all right give me just a moment but it's still within the same round of combat yes
+
+[Speaker 1]
+no that's per round I think it's I think it's per turn and when something is for sure and that means um it could be on your turn and the only way of affecting something not on your turn is with that opportunity attack so that's on somebody else's turn and that's a bonus action
+
+[Speaker 5]
+right the radiant damage thing uh no the uh attack of opportunity to broke it right no no
+
+[Speaker 2]
+no that's a reaction that's a reaction oh hey okay okay well it's dead so let's get some scrap metal yeah you could try to harvest it okay what do I still use survival for that
+
+[Speaker 1]
+I don't think you would use survival for this one what do you guys think the appropriate skill check for this one should be uh
+
+[Speaker 5]
+you might be able to like harvest it like manually scrapping it if you can like do insight and you can like figure out okay which parts won't explode on me
+
+[Speaker 2]
+oh can I do that insight and then gather that way
+
+[Speaker 1]
+can you do it through insight uh insight is like relating to other people and their emotions that makes sense yes I'm a craftsman can I just assemble it craftsman works perfectly for this actually yeah yeah you you do that what do I roll uh tell you what go ahead and roll me a let me know what let me know what um what choose you can choose what you want to roll and then if you'd like you could expend some of this craftsman dice to increase the result um so you spend like two 12s on disassembling what about sleight of hand perfect is is your
+
+[Speaker 5]
+decks good enough for that plus two I pull out my thieves tools that gives me advantage no
+
+[Speaker 3]
+so no what do I do now felix is doing this right now yeah yeah sleight of hands and
+
+[Speaker 1]
+advantage I guess it's just no no it's not advantage why do you keep asking so normal I'm a question what the okay now something you do here is you could spend the d12s that you have from being a craftsman on increasing that result so roll 1d12 or well roll as many as you
+
+[Speaker 3]
+then 3d you have eight of them eight of them the hit dice or
+
+[Speaker 1]
+it's the same if you just roll number of d12s that you select 15 okay that's good so 20 gets you up to 20 yeah you're gonna recover about 200 gold pieces worth of materials yeah
+
+[Speaker 3]
+I don't need some gold for opening my blacksmith shop
+
+[Speaker 1]
+aspirations perfect all right I think as we're gonna call the session for today you guys did pretty pretty good overall you made through one two three uh you made through three combats one of which was a little bit scary I thought they were gonna kill felix on his first time arriving here which would have been hilarious but also a little bit of a downer
+
+[Speaker 7]
+that was part of the fun I was thinking what should I create another character
+
+[Speaker 1]
+that would have been so unfortunate though and uh it would definitely would have been unfortunate if you guys like you can come back and do this dungeon again hell I'm free most of tomorrow I don't have a night tomorrow I just doing some recording and stuff
+
+[Speaker 5]
+like that cool if it's around the same time um I'll have to check I have uh I play um uh table tennis uh at a club if it's the same time I can come here it's at the same time tomorrow is uh 6 p.m 6 p.m to 7 30 I'm at the club club training
+
+[Speaker 1]
+just put uh times that work for you in the session times and we'll do that I'll drop the xp in there oh uh also good news the pots were shattered and the poisonous insects and reptiles
+
+[Speaker 2]
+so you have I just get pot pieces it was a trick treasure
+
+[Speaker 1]
+and then you can add the things you collected earlier the snake head and the snake skin go ahead and add those to your inventory okay okay do I add anything uh yes add 200 pieces of uh of broken boulter parts 200 pieces
+
+[Speaker 8]
+those are all pieces worth okay
+
+[Speaker 1]
+and then anybody who would like additional xp you can write up a summary inside session reports um okay let's see here let's see yeah I guess your characters your characters could either stay here oh goodness they could either stay here or they could do downtime actions
+
+[Speaker 2]
+down time no time chilling yes yeah it's like okay we'll complete the dungeon another day yeah can I ask one thing first
+
+[Speaker 3]
+what's up so can I how do I gain gold without dungeons can I just go to a city and work here
+
+[Speaker 1]
+work there in downtime no not really okay no you get you get gold through that trick
+
+[Speaker 4]
+yeah okay that's it uh how much did I get say again how much did you get anything I didn't know what I mentioned was the
+
+[Speaker 1]
+gold that you guys got and usually people split these materials oh so it's not per person
+
+[Speaker 2]
+let's go be like wow that's a lot 200 per person wow no it's not but but it's in total so we can just split it between between us let's see one two three four so that is 500 silver pieces per person and 375 electron pieces per person and then just next time we go if you guys get a little bit
+
+[Speaker 1]
+further um that was the one issue that you had at the end there was the was the stalling was it almost took you guys the full 10 minutes to get through the to get through this particular door and if you just focus on just like blitzing through as many doors as you can then you're gonna get a lot more loot of course today man the rolls were not great
+
+[Speaker 2]
+on account of the traps we got a little paranoid
+
+[Speaker 6]
+yeah me yeah me i was dying for like two times yeah
+
+[Speaker 4]
+oh wait where did you post the the um exp you'll see it in session reports which you might not
+
+[Speaker 1]
+have um i'm gonna tag everybody who was in this session i have not posted the xp yet
+
+[Speaker 3]
+oh yeah okay you have to calculate it after yeah uh can you put down your character's names please
+
+[Speaker 2]
+in either in voice overflow no no the cat no no the tags are different to character names though
+
+[Speaker 3]
+yeah so is the xp shared or person i will post the per person xp
+
+[Speaker 2]
+okay okay can you guys put down your characters uh names in the voice chat the one that yeah in
+
+[Speaker 1]
+voiceover flow all right uh should be any questions in your threads or in snipu blue i
+
+[Speaker 2]
+will see you guys later might be back wait wait last question uh for the uh for the downtime thing uh the downtime already posted cats i don't have to do another one uh yes that's yeah that's fine
+
+[Speaker 1]
+okay i mean you have no session you could do another one is the idea okay do i just train again okay i don't think thank you guys for the game but no ask that question in the uh in the society all right all is good pretty good on your uh first session here yeah thank you sir yeah hoping that we'd like to do these little training sessions first just to see how people like fit in with the group um you were pretty sociable pretty active and um also made pretty good combat decisions so i think we're gonna like having you around and keep an eye out for any sessions that um are in your time zone that are doing well anything that you'd like there's a lot of big stuff happening on the world map and uh pretty pretty lucrative jobs thanks man thanks for having me absolutely what about me you'll also do pretty good um
+
+[Speaker 3]
+you're doing this is like your second session of dvd ever yeah but i didn't get anything after the last session i was so embraced i couldn't talk so
+
+[Speaker 1]
+but it seems like you're doing pretty pretty good here the one thing is if i ask you to do something um or if i ask you to wait for a question i really need you to do that and if you have a question always post in the chat first because somebody else could answer it by typing and that means that we don't have to grind the game to a halt to uh to answer it okay
+
+[Speaker 3]
+i was a little paranoid so sorry about that never mind if it's just something that people need to get
+
+[Speaker 1]
+used to yeah that's it yes sir all right playing with you as always koi fun playing with you as
+
+[Speaker 5]
+always yeah sorry for gate crashing but uh nice to be you don't have to worry about this man
+
+[Speaker 1]
+it's the point of this uh type of campaign is that you can drop in ah nice can i ask one thing what no tonight you may not you you can put the question in the chat you can put the question guys here okay koi um there's new downtime cards go ahead and go to the downtime thread
+
+[Speaker 5]
+and check that out oh yeah give me some downtime all right cool cool perfect all right what's our xp for the session you will find out okay cool
