@@ -219,9 +219,9 @@ Mm-hmm. Okay.
 That would be 250.
 
 [Speaker 1]
-Alrighty. It's time to jump into it. So, you folks head on down from Sierra's Keep into Bronlock.
+Alrighty. It's time to jump into it. So, you folks head on down from Sierra's Keep into Bronloch.
 
-As the first order of business would be to contact Lord Vethin, head constable around Bronlock. Alright. He's not terribly excited to see anybody right now, because his case is going poorly.
+As the first order of business would be to contact Lord Vethin, head constable around Bronloch. Alright. He's not terribly excited to see anybody right now, because his case is going poorly.
 
 But, after a little bit of pressure, given that Sierra's one of the local lords, you were able to get in. Say, well, what is it?
 
@@ -669,7 +669,7 @@ I'm lost on what you mean.
 [Speaker 5]
 The clouds I'm thinking mean somewhere in the Cloud... Uh... Ravine area.
 
-Because that's south... West of... Bronlock.
+Because that's south... West of... Bronloch.
 
 And... The others lead to... Somewhere to the east and...
 
@@ -1518,10 +1518,10 @@ The fork directly on the... Like, overlaying it on his map.
 And adjusting for scale a little bit.
 
 [Speaker 2]
-Is the river... Is it safe to assume that's the one that we took down to Bronlock?
+Is the river... Is it safe to assume that's the one that we took down to Bronloch?
 
 [Speaker 3]
-Absolutely. That means Bronlock would be about... There you go.
+Absolutely. That means Bronloch would be about... There you go.
 
 Sorry, I'm just thinking I need to look at the map feature again. And meanwhile, just while I let... Sierra is thinking.
 
@@ -1586,7 +1586,7 @@ Not much of... Nope, I'd say, to pull from it.
 The... I asked nicely at the...
 
 [Speaker 2]
-What is the police department called in Bronlock?
+What is the police department called in Bronloch?
 
 [Speaker 3]
 Just a constabulary.
